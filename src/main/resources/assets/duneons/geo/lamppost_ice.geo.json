@@ -1,0 +1,51 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.lamppost_ice",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 6,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "lamppost",
+					"pivot": [1, 20, -1]
+				},
+				{
+					"name": "post",
+					"parent": "lamppost",
+					"pivot": [0, 8, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 6, 8], "uv": [0, 24]},
+						{"origin": [-2, 6, -2], "size": [4, 12, 4], "uv": [16, 56]},
+						{"origin": [-2, 18, -2], "size": [4, 12, 4], "uv": [0, 0]},
+						{"origin": [-2, 30, -2], "size": [4, 13, 4], "uv": [0, 51]}
+					]
+				},
+				{
+					"name": "top",
+					"parent": "lamppost",
+					"pivot": [0, 8, 0],
+					"cubes": [
+						{"origin": [-3, 43, -3], "size": [6, 5, 6], "uv": [18, 45]},
+						{"origin": [-15, 44, -1], "size": [12, 2, 2], "uv": [48, 12]}
+					]
+				},
+				{
+					"name": "lantern",
+					"parent": "lamppost",
+					"pivot": [-13, 44, 0],
+					"cubes": [
+						{"origin": [-14, 36, -1], "size": [2, 8, 2], "uv": [48, 63]},
+						{"origin": [-15, 34, -2], "size": [4, 2, 4], "uv": [48, 57]},
+						{"origin": [-16, 27, -3], "size": [6, 7, 6], "uv": [44, 24]}
+					]
+				}
+			]
+		}
+	]
+}

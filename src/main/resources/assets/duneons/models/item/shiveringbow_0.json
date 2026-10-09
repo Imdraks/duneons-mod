@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/shivering_bow_pulling",
+  "textures": {
+    "0": "duneons:block/shivering_bow_pulling_2",
+    "particle": "duneons:item/winters_touch_pulling_2"
+  }
+}

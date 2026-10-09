@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chisiled_basalt",
+    "up": "duneons:block/chisiled_basalt",
+    "north": "duneons:block/chisiled_basalt",
+    "east": "duneons:block/chisiled_basalt",
+    "south": "duneons:block/chisiled_basalt",
+    "west": "duneons:block/chisiled_basalt",
+    "particle": "duneons:block/chisiled_basalt"
+  },
+  "render_type": "solid"
+}

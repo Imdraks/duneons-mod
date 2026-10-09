@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "duneons:block/pumpkin_door_front",
+    "bottom": "duneons:block/pumpkin_door_front",
+    "top": "duneons:block/pumpkin_door_front"
+  },
+  "render_type": "cutout"
+}

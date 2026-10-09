@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/salmon.item",
+  "textures": {
+    "layer0": "duneons:item/salmon_lesh"
+  }
+}

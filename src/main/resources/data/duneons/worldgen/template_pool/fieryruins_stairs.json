@@ -1,0 +1,17 @@
+{
+  "name": "duneons:fieryruins_stairs",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "duneons:fiery_ruins_stairs",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

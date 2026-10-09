@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gold_bucket",
+  "textures": {
+    "all": "duneons:block/bucket_gold",
+    "particle": "duneons:block/gold_block",
+    "1": "duneons:block/bucket_gold"
+  },
+  "render_type": "cutout"
+}

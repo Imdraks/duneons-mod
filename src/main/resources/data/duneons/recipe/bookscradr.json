@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aaa","bcd","aaa"],"key":{"a":"minecraft:oak_planks","b":"minecraft:book","c":"minecraft:paper","d":"duneons:vasedungeon"},"result":{"id":"duneons:bookshelfdun","count":1}}

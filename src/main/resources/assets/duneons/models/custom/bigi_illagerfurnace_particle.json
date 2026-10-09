@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/big_iillager_furnace",
+  "textures": {
+    "particle": "duneons:block/iillager_furnace"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "from": [
+        -5,
+        0,
+        1
+      ],
+      "to": [
+        20,
+        3,
+        20
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            3.75,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            3.75,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            10,
+            8,
+            16
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11,
+            4.75,
+            16,
+            9
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1,
+        5
+      ],
+      "to": [
+        15,
+        25,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            6
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            7,
+            6
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            6
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            7,
+            6
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            6,
+            4,
+            9
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            3.25,
+            2.25
+          ],
+          "texture": "#missing"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -0.75
+      ],
+      "scale": [
+        0.34,
+        0.34,
+        0.34
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "scale": [
+        0.34,
+        0.34,
+        0.34
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -174.16,
+        78.5,
+        179.15
+      ],
+      "scale": [
+        0.41,
+        0.41,
+        0.41
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -176.01,
+        73,
+        -178.93
+      ],
+      "scale": [
+        0.41,
+        0.41,
+        0.41
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        35,
+        -135,
+        0
+      ],
+      "translation": [
+        0.75,
+        -2,
+        0
+      ],
+      "scale": [
+        0.47,
+        0.47,
+        0.47
+      ]
+    },
+    "head": {
+      "translation": [
+        0.5,
+        12,
+        -2.25
+      ],
+      "scale": [
+        0.93,
+        0.86,
+        0.95
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -2,
+        -1
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "children": [
+        {
+          "name": "group",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 0,
+          "nbt": "{}",
+          "armAnimationEnabled": false,
+          "children": []
+        },
+        {
+          "name": "group",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 0,
+          "nbt": "{}",
+          "armAnimationEnabled": false,
+          "children": []
+        },
+        0,
+        1
+      ]
+    }
+  ]
+}

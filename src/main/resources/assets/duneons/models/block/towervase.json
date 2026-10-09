@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/tower_vase",
+  "textures": {
+    "all": "duneons:block/tower_vase",
+    "particle": "duneons:block/tower_vase",
+    "0": "duneons:block/tower_vase",
+    "missing": "duneons:block/tower_vase"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/dark_fortress_tiles_blackstone1",
+    "bottom": "duneons:block/dark_fortress_tiles_blackstone1",
+    "top": "duneons:block/dark_fortress_tiles_blackstone1",
+    "side": "duneons:block/dark_fortress_tiles_blackstone1"
+  },
+  "render_type": "solid"
+}

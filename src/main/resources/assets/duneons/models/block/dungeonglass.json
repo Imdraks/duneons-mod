@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stainedglass_mansonry_red",
+  "textures": {
+    "all": "duneons:block/stainedglass_mansonry_red",
+    "particle": "duneons:block/stainedglass_mansonry_red",
+    "0": "duneons:block/stainedglass_mansonry_red"
+  },
+  "render_type": "translucent"
+}

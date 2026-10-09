@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_jungle_mud_pillar",
+    "up": "duneons:block/smooth_jungle_mud_pillar",
+    "north": "duneons:block/smooth_jungle_mud_pillar",
+    "east": "duneons:block/smooth_jungle_mud_pillar",
+    "south": "duneons:block/smooth_jungle_mud_pillar",
+    "west": "duneons:block/smooth_jungle_mud_pillar",
+    "particle": "duneons:block/smooth_jungle_mud_pillar"
+  },
+  "render_type": "solid"
+}

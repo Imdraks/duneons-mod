@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_mountain",
+  "textures": {
+    "all": "duneons:block/mountain_leaves_acacia",
+    "particle": "duneons:block/mountain_leaves_acacia",
+    "1": "duneons:block/mountain_leaves_acacia_outer",
+    "2": "duneons:block/mountain_leaves_acacia"
+  },
+  "render_type": "cutout"
+}

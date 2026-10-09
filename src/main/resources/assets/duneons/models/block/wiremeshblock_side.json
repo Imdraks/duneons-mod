@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "duneons:block/wire_mesh_block",
+    "edge": "duneons:block/wire_mesh_block",
+    "pane": "duneons:block/wire_mesh_block"
+  },
+  "render_type": "cutout_mipped"
+}

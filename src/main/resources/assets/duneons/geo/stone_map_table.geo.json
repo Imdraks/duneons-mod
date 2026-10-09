@@ -1,0 +1,84 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 256,
+				"texture_height": 128,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "stone_map_table",
+					"pivot": [0, 0, -1]
+				},
+				{
+					"name": "table",
+					"parent": "stone_map_table",
+					"pivot": [-19.5, 10, 18],
+					"cubes": [
+						{"origin": [-35, 0, -12], "size": [70, 2, 38], "uv": [1, 44]},
+						{"origin": [-35.5, 10, -12], "size": [71, 6, 38], "uv": [0, 0]},
+						{"origin": [-32, 2, -9], "size": [64, 8, 32], "uv": [3, 85]}
+					]
+				},
+				{
+					"name": "map",
+					"parent": "stone_map_table",
+					"pivot": [-7, 16, -8],
+					"cubes": [
+						{"origin": [-7, 16, -8], "size": [33, 0, 30], "inflate": 0.01, "uv": [28, 85]}
+					]
+				},
+				{
+					"name": "map2",
+					"parent": "map",
+					"pivot": [-7, 16, -8],
+					"rotation": [0, 0, 50],
+					"cubes": [
+						{"origin": [-11, 16, -8], "size": [4, 0, 30], "inflate": 0.01, "uv": [95, 85]}
+					]
+				},
+				{
+					"name": "map3",
+					"parent": "map2",
+					"pivot": [-11, 16, -8],
+					"rotation": [0, 0, 50],
+					"cubes": [
+						{"origin": [-15, 16, -8], "size": [4, 0, 30], "inflate": 0.01, "uv": [104, 85]}
+					]
+				},
+				{
+					"name": "map4",
+					"parent": "map3",
+					"pivot": [-15, 16, -8],
+					"rotation": [0, 0, 55],
+					"cubes": [
+						{"origin": [-19, 16, -8], "size": [4, 0, 30], "inflate": 0.01, "uv": [113, 85]}
+					]
+				},
+				{
+					"name": "map5",
+					"parent": "map4",
+					"pivot": [-19, 16, -8],
+					"rotation": [0, 0, 55],
+					"cubes": [
+						{"origin": [-22, 16, -8], "size": [3, 0, 30], "inflate": 0.01, "uv": [122, 85]}
+					]
+				},
+				{
+					"name": "map6",
+					"parent": "map5",
+					"pivot": [-22, 16, -8],
+					"rotation": [0, 0, 55],
+					"cubes": [
+						{"origin": [-25, 16, -8], "size": [3, 0, 30], "inflate": 0.01, "uv": [129, 85]}
+					]
+				}
+			]
+		}
+	]
+}

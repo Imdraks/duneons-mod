@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/rainbow_carpet",
+  "textures": {
+    "all": "duneons:block/rainbow_carpet",
+    "particle": "duneons:block/rainbow_carpet",
+    "1": "duneons:block/rainbow_carpet"
+  },
+  "render_type": "solid"
+}

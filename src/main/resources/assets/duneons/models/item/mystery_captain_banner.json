@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/mystery_captain_banner",
+  "textures": {
+    "0": "duneons:block/mystery_captain_banner",
+    "missing": "duneons:block/mystery_captain_banner",
+    "particle": "duneons:item/item"
+  }
+}

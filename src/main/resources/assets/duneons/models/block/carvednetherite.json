@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cut_polished_blackstone",
+    "up": "duneons:block/cut_polished_blackstone",
+    "north": "duneons:block/carved_netherite",
+    "east": "duneons:block/carved_netherite",
+    "south": "duneons:block/carved_netherite",
+    "west": "duneons:block/carved_netherite",
+    "particle": "duneons:block/cut_polished_blackstone"
+  },
+  "render_type": "solid"
+}

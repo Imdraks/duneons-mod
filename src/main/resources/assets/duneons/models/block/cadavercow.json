@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/cadaver_cow",
+  "textures": {
+    "all": "duneons:block/cadaver_cow",
+    "particle": "duneons:block/cadaver_cow",
+    "0": "duneons:block/cadaver_cow",
+    "missing": "duneons:block/cadaver_cow"
+  },
+  "render_type": "cutout"
+}

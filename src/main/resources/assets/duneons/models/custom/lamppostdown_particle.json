@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/lamppostdown",
+  "textures": {
+    "particle": "duneons:block/lamppost"
+  }
+}

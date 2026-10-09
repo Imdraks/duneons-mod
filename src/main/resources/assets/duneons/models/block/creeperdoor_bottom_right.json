@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "duneons:block/creeper_door_new_front",
+    "bottom": "duneons:block/creeper_door_new_front",
+    "top": "duneons:block/creeper_door_new"
+  },
+  "render_type": "cutout"
+}

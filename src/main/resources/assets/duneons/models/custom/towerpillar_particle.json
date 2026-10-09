@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/towerpillar.item",
+  "textures": {
+    "particle": "duneons:block/tower_pillar"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "slime_cube",
+      "from": [
+        -3,
+        0,
+        -4
+      ],
+      "to": [
+        20,
+        23,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          7
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            3.959,
+            8.072
+          ],
+          "texture": "#2"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8.082
+          ],
+          "texture": "#2"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            4.084,
+            8.058
+          ],
+          "texture": "#2"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            3.999,
+            8.105
+          ],
+          "texture": "#2"
+        },
+        "up": {
+          "uv": [
+            12,
+            8,
+            16,
+            12.007
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        },
+        "down": {
+          "uv": [
+            12,
+            8,
+            16,
+            11.921
+          ],
+          "rotation": 180,
+          "texture": "#2"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0.75,
+        -2.25
+      ],
+      "scale": [
+        0.26,
+        0.26,
+        0.26
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        1.5,
+        -2
+      ],
+      "scale": [
+        0.26,
+        0.26,
+        0.26
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        134.25,
+        0
+      ],
+      "translation": [
+        1.25,
+        -4.25,
+        -3
+      ],
+      "scale": [
+        0.42,
+        0.42,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        3.5,
+        -4.25,
+        -3
+      ],
+      "scale": [
+        0.42,
+        0.42,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -139,
+        0
+      ],
+      "translation": [
+        0,
+        -1.25,
+        0
+      ],
+      "scale": [
+        0.44,
+        0.44,
+        0.44
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        -1.5,
+        0
+      ],
+      "scale": [
+        0.69,
+        0.69,
+        0.69
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -1.5,
+        1.75
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "slime_cube",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/null_item",
+    "up": "duneons:block/null_item",
+    "north": "duneons:block/null_item",
+    "east": "duneons:block/null_item",
+    "south": "duneons:block/null_item",
+    "west": "duneons:block/null_item",
+    "particle": "duneons:block/null_item"
+  },
+  "render_type": "cutout"
+}

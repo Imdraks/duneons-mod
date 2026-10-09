@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "duneons:block/swamp_door_down",
+    "bottom": "duneons:block/swamp_door_down",
+    "top": "duneons:block/swamp_door_top"
+  },
+  "render_type": "cutout"
+}

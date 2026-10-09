@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/rewards_totem",
+  "textures": {
+    "particle": "duneons:block/rewards_totem"
+  }
+}

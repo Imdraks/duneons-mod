@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dungeons_charred_cobblestone",
+    "up": "duneons:block/dungeons_charred_cobblestone",
+    "north": "duneons:block/dungeons_charred_cobblestone",
+    "east": "duneons:block/dungeons_charred_cobblestone",
+    "south": "duneons:block/dungeons_charred_cobblestone",
+    "west": "duneons:block/dungeons_charred_cobblestone",
+    "particle": "duneons:block/dungeons_charred_cobblestone"
+  },
+  "render_type": "solid"
+}

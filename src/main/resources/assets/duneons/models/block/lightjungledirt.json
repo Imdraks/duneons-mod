@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/light_jungle_grass_down",
+    "up": "duneons:block/light_jungle_grass_down",
+    "north": "duneons:block/light_jungle_grass_down",
+    "east": "duneons:block/light_jungle_grass_down",
+    "south": "duneons:block/light_jungle_grass_down",
+    "west": "duneons:block/light_jungle_grass_down",
+    "particle": "duneons:block/light_jungle_grass_down"
+  },
+  "render_type": "solid"
+}

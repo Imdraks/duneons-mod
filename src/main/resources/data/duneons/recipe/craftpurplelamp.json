@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["a","b","c"],"key":{"a":"minecraft:purpur_block","b":"minecraft:redstone_lamp","c":"minecraft:purpur_slab"},"result":{"id":"duneons:purpur_lamp","count":16}}

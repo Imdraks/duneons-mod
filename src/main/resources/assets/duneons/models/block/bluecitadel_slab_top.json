@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/bluecitadel_planks",
+    "bottom": "duneons:block/bluecitadel_planks",
+    "top": "duneons:block/bluecitadel_planks",
+    "side": "duneons:block/bluecitadel_planks"
+  },
+  "render_type": "solid"
+}

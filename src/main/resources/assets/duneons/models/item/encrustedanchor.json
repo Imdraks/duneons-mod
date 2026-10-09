@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/encrusted_anchor",
+  "textures": {
+    "0": "duneons:block/encrusted_anchor",
+    "particle": "duneons:item/encrusted_anchor"
+  }
+}

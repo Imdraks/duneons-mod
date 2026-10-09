@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stronghold_metal_pillar_top",
+    "up": "duneons:block/stronghold_metal_pillar_top",
+    "north": "duneons:block/stronghold_metal_pillar_side",
+    "east": "duneons:block/stronghold_metal_pillar_side",
+    "south": "duneons:block/stronghold_metal_pillar_side",
+    "west": "duneons:block/stronghold_metal_pillar_side",
+    "particle": "duneons:block/stronghold_metal_pillar_top"
+  },
+  "render_type": "solid"
+}

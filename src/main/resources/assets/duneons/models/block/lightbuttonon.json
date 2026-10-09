@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/light_button_on",
+  "textures": {
+    "all": "duneons:block/ew_button",
+    "particle": "duneons:block/ew_button",
+    "0": "duneons:block/ew_button"
+  },
+  "render_type": "solid"
+}

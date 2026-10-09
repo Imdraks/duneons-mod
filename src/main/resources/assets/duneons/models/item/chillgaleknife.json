@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/chill_gale_knife",
+  "textures": {
+    "0": "duneons:block/chill_gale_knife",
+    "particle": "duneons:item/chill_gale_knife"
+  }
+}

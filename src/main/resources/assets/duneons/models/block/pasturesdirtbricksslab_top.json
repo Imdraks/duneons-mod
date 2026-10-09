@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/pastures_dirt_bricks",
+    "bottom": "duneons:block/pastures_dirt_bricks",
+    "top": "duneons:block/pastures_dirt_bricks",
+    "side": "duneons:block/pastures_dirt_bricks"
+  },
+  "render_type": "solid"
+}

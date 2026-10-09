@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/green_end_cobblestone",
+    "up": "duneons:block/green_end_cobblestone",
+    "north": "duneons:block/green_end_cobblestone",
+    "east": "duneons:block/green_end_cobblestone",
+    "south": "duneons:block/green_end_cobblestone",
+    "west": "duneons:block/green_end_cobblestone",
+    "particle": "duneons:block/green_end_cobblestone"
+  },
+  "render_type": "solid"
+}

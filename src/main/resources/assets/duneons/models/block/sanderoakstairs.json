@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/sander_oak",
+    "bottom": "duneons:block/sander_oak",
+    "top": "duneons:block/sander_oak",
+    "side": "duneons:block/sander_oak"
+  },
+  "render_type": "solid"
+}

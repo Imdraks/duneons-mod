@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/table_book",
+  "textures": {
+    "all": "duneons:block/table_book",
+    "particle": "duneons:block/table_book",
+    "0": "duneons:block/table_book",
+    "missing": "duneons:block/table_book"
+  },
+  "render_type": "cutout"
+}

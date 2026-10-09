@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/void_barrel_full",
+  "textures": {
+    "all": "duneons:block/void_barrel",
+    "particle": "duneons:block/void_barrel",
+    "0": "duneons:block/void_barrel",
+    "1": "duneons:block/void_blocks",
+    "missing": "duneons:block/void_barrel"
+  },
+  "render_type": "cutout"
+}

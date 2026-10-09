@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/shop_keeper_carpet",
+  "textures": {
+    "all": "duneons:block/shop_keeper_carpet",
+    "particle": "duneons:block/shop_keeper_carpet",
+    "1": "duneons:block/shop_keeper_carpet"
+  },
+  "render_type": "solid"
+}

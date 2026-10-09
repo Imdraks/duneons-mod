@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/jungle_bush2",
+    "particle": "duneons:block/jungle_bush2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/patterned_basalt",
+    "bottom": "duneons:block/patterned_basalt",
+    "top": "duneons:block/patterned_basalt",
+    "side": "duneons:block/patterned_basalt"
+  },
+  "render_type": "solid"
+}

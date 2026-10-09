@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/eyed_rug",
+  "textures": {
+    "all": "duneons:block/eyed_rug",
+    "particle": "duneons:block/eyed_rug",
+    "0": "duneons:block/eyed_rug"
+  },
+  "render_type": "cutout"
+}

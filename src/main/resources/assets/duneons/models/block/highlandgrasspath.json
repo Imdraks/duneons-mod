@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/highland_patch",
+  "textures": {
+    "all": "duneons:block/highland_grass_path",
+    "particle": "duneons:block/highland_grass_path",
+    "0": "duneons:block/highland_grass_path"
+  },
+  "render_type": "cutout"
+}

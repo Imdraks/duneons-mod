@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1712,
+    "separation": 8,
+    "spacing": 35
+  },
+  "structures": [
+    {
+      "structure": "duneons:gravestone",
+      "weight": 1
+    }
+  ]
+}

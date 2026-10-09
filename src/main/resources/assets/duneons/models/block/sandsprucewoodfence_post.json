@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "duneons:block/sand_spruce_wood",
+    "particle": "duneons:block/sand_spruce_wood"
+  },
+  "render_type": "solid"
+}

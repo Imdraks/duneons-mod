@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/sand_dust_stone_bricks",
+    "bottom": "duneons:block/sand_dust_stone_bricks",
+    "top": "duneons:block/sand_dust_stone_bricks",
+    "side": "duneons:block/sand_dust_stone_bricks"
+  },
+  "render_type": "solid"
+}

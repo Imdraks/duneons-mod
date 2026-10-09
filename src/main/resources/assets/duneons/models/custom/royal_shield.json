@@ -1,0 +1,252 @@
+{
+  "credit": "Made by MDE",
+  "parent": "royal_shield",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "board",
+      "from": [
+        1,
+        0,
+        8
+      ],
+      "to": [
+        15,
+        23,
+        9
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.25,
+            0.25,
+            3.75,
+            5.75
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0.25,
+            0.25,
+            5.75
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3.75,
+            0.25,
+            7.25,
+            5.75
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            0,
+            3.75,
+            5.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0,
+            3.25,
+            0.25
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            3.25,
+            0,
+            6.25,
+            0.25
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "name": "arm",
+      "from": [
+        7,
+        8,
+        9
+      ],
+      "to": [
+        9,
+        14,
+        15
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            7.25,
+            1.5,
+            8.75,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            9,
+            0,
+            9.5,
+            1.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            1.5,
+            10.75,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            0,
+            9.75,
+            1.5
+          ],
+          "texture": "#texture"
+        },
+        "down": {
+          "uv": [
+            9,
+            0,
+            9.5,
+            1.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        4,
+        -5,
+        3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        4,
+        -5,
+        3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        3,
+        0
+      ],
+      "translation": [
+        5,
+        -18,
+        -5
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        3,
+        0
+      ],
+      "translation": [
+        5,
+        -18,
+        -5
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        -0.25,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        173.46,
+        32.35,
+        -170.6
+      ],
+      "translation": [
+        -0.5,
+        -2,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "head": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        7.5,
+        -2.75
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -2.25,
+        -0.75
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/asteroid_cobblestone",
+    "up": "duneons:block/asteroid_cobblestone",
+    "north": "duneons:block/asteroid_cobblestone",
+    "east": "duneons:block/asteroid_cobblestone",
+    "south": "duneons:block/asteroid_cobblestone",
+    "west": "duneons:block/asteroid_cobblestone",
+    "particle": "duneons:block/asteroid_cobblestone"
+  },
+  "render_type": "solid"
+}

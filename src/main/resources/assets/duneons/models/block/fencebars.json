@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gravestone_bars",
+  "textures": {
+    "all": "duneons:block/villager_cage_1",
+    "particle": "duneons:block/villager_cage_1",
+    "0": "duneons:block/villager_cage_1"
+  },
+  "render_type": "cutout"
+}

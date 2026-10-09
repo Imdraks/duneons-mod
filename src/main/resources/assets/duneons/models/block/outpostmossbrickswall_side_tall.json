@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/outpost_moss_bricks",
+    "particle": "duneons:block/outpost_moss_bricks"
+  },
+  "render_type": "solid"
+}

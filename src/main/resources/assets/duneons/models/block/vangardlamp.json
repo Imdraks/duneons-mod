@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/light_block_on",
+  "textures": {
+    "all": "duneons:block/light_block",
+    "particle": "duneons:block/light_block",
+    "0": "duneons:block/light_block",
+    "missing": "duneons:block/light_block"
+  },
+  "render_type": "solid"
+}

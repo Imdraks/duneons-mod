@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/granite_bricks_kelp",
+    "up": "duneons:block/granite_bricks_kelp",
+    "north": "duneons:block/granite_bricks_kelp",
+    "east": "duneons:block/granite_bricks_kelp",
+    "south": "duneons:block/granite_bricks_kelp",
+    "west": "duneons:block/granite_bricks_kelp",
+    "particle": "duneons:block/granite_bricks_kelp"
+  },
+  "render_type": "solid"
+}

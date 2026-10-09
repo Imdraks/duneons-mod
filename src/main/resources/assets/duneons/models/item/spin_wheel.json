@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/spinblade",
+  "textures": {
+    "0": "duneons:block/spinblade",
+    "particle": "duneons:item/spinblade"
+  }
+}

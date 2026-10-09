@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tower_ladder",
+  "textures": {
+    "all": "duneons:block/tower_ladder",
+    "particle": "duneons:block/tower_ladder",
+    "0": "duneons:block/tower_ladder"
+  },
+  "render_type": "cutout"
+}

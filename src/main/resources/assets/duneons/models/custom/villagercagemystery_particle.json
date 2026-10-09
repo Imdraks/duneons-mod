@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/villager_cage_1",
+  "textures": {
+    "particle": "duneons:block/villager_cage_5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "duneons:block/wooden_window",
+    "edge": "duneons:block/wooden_window",
+    "pane": "duneons:block/wooden_window"
+  },
+  "render_type": "cutout_mipped"
+}

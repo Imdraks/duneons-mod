@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nameless",
+  "textures": {
+    "all": "duneons:block/nameless_king_boss",
+    "particle": "duneons:block/nameless_king_boss",
+    "0": "duneons:block/nameless_king_boss"
+  },
+  "render_type": "cutout"
+}

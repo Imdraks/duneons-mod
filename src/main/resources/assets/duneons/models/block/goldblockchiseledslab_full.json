@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/gold_block_detailed",
+    "bottom": "duneons:block/gold_block_detailed",
+    "top": "duneons:block/gold_block_detailed",
+    "side": "duneons:block/gold_block_detailed"
+  },
+  "render_type": "solid"
+}

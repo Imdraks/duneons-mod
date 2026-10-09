@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/telescope",
+  "textures": {
+    "all": "duneons:block/telescope",
+    "particle": "duneons:block/telescope",
+    "0": "duneons:block/telescope"
+  },
+  "render_type": "solid"
+}

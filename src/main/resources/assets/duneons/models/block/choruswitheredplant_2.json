@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/chorus_withered_plant_2",
+  "textures": {
+    "all": "duneons:block/t_chorusfullwithered",
+    "particle": "duneons:block/t_chorusfullwithered",
+    "0": "duneons:block/t_chorusfullwithered",
+    "missing": "duneons:block/t_chorusfullwithered"
+  },
+  "render_type": "solid"
+}

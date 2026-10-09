@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/crimson",
+  "textures": {
+    "0": "duneons:block/rimsonore",
+    "particle": "duneons:item/heart_stealer"
+  }
+}

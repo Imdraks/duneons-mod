@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mossy_mixed_jungle_bricks2",
+    "up": "duneons:block/moss_troom",
+    "north": "duneons:block/mossy_mixed_jungle_bricks2",
+    "east": "duneons:block/mossy_mixed_jungle_bricks2",
+    "south": "duneons:block/mossy_mixed_jungle_bricks2",
+    "west": "duneons:block/mossy_mixed_jungle_bricks2",
+    "particle": "duneons:block/mossy_mixed_jungle_bricks2"
+  },
+  "render_type": "solid"
+}

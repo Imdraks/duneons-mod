@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/runedoor_block_top",
+    "up": "duneons:block/runedoor_block_top",
+    "north": "duneons:block/runedoor_block_dungeon",
+    "east": "duneons:block/runedoor_block_dungeon",
+    "south": "duneons:block/runedoor_block_dungeon",
+    "west": "duneons:block/runedoor_block_dungeon",
+    "particle": "duneons:block/runedoor_block_top"
+  },
+  "render_type": "solid"
+}

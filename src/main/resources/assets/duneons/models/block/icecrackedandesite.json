@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ice_cracked_andesite",
+    "up": "duneons:block/ice_cracked_andesite",
+    "north": "duneons:block/ice_cracked_andesite",
+    "east": "duneons:block/ice_cracked_andesite",
+    "south": "duneons:block/ice_cracked_andesite",
+    "west": "duneons:block/ice_cracked_andesite",
+    "particle": "duneons:block/ice_cracked_andesite"
+  },
+  "render_type": "solid"
+}

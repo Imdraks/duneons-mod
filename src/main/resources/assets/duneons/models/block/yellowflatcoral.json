@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/yellow_flat_coral",
+  "textures": {
+    "all": "duneons:block/shelf_coral_yellow",
+    "particle": "duneons:block/shelf_coral_yellow",
+    "0": "duneons:block/shelf_coral_yellow",
+    "missing": "duneons:block/shelf_coral_yellow"
+  },
+  "render_type": "cutout"
+}

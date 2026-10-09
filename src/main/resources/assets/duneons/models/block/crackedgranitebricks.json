@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_granite_bricks",
+    "up": "duneons:block/cracked_granite_bricks",
+    "north": "duneons:block/cracked_granite_bricks",
+    "east": "duneons:block/cracked_granite_bricks",
+    "south": "duneons:block/cracked_granite_bricks",
+    "west": "duneons:block/cracked_granite_bricks",
+    "particle": "duneons:block/cracked_granite_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/lost_evocation",
+  "textures": {
+    "0": "duneons:block/lost_evocation",
+    "particle": "duneons:item/lost_evocation"
+  }
+}

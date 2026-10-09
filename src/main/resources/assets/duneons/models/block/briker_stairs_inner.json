@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/latticebriker",
+    "bottom": "duneons:block/latticebriker",
+    "top": "duneons:block/latticebriker",
+    "side": "duneons:block/latticebriker"
+  },
+  "render_type": "solid"
+}

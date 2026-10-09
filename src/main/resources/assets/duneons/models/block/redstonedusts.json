@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/redstone_dust",
+  "textures": {
+    "all": "duneons:block/t_redstonemine_concave",
+    "particle": "duneons:block/t_redstonemine_concave",
+    "0": "duneons:block/t_redstonemine_concave",
+    "missing": "duneons:block/t_redstonemine_concave"
+  },
+  "render_type": "solid"
+}

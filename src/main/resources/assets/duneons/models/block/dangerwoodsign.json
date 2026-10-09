@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/danger_wood_sign",
+  "textures": {
+    "all": "duneons:block/outpost_wood",
+    "particle": "duneons:block/outpost_wood",
+    "0": "duneons:block/danger_wood_sign"
+  },
+  "render_type": "solid"
+}

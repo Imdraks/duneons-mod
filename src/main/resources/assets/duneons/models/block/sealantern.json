@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/underwater_lantern",
+  "textures": {
+    "all": "duneons:block/underwater_lantern",
+    "particle": "duneons:block/underwater_lantern",
+    "0": "duneons:block/underwater_lantern",
+    "missing": "duneons:block/underwater_lantern"
+  },
+  "render_type": "cutout"
+}

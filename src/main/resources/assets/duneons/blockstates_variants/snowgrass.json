@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/snow_block/block/0"
+      },
+      {
+        "model": "block/snow_block/block/1"
+      },
+      {
+        "model": "block/snow_block/block/2"
+      },
+      {
+        "model": "block/snow_block/block/3"
+      },
+      {
+        "model": "block/snow_block/block/4"
+      },
+      {
+        "model": "block/snow_block/block/5"
+      },
+      {
+        "model": "block/snow_block/block/6"
+      }
+    ]
+  }
+}

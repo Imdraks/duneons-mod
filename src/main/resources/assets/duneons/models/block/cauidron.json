@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/cauidron",
+  "textures": {
+    "all": "duneons:block/cauldron_witch",
+    "particle": "duneons:block/cauldron_witch",
+    "1": "duneons:block/cauldron_witch"
+  },
+  "render_type": "cutout"
+}

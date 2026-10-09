@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/crimson_nylial_netherrack1",
+    "up": "duneons:block/crimson_nylial_netherrack1",
+    "north": "duneons:block/crimson_nylial_netherrack1",
+    "east": "duneons:block/crimson_nylial_netherrack1",
+    "south": "duneons:block/crimson_nylial_netherrack1",
+    "west": "duneons:block/crimson_nylial_netherrack1",
+    "particle": "duneons:block/crimson_nylial_netherrack1"
+  },
+  "render_type": "solid"
+}

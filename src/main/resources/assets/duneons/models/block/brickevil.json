@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_slab_side",
+    "up": "duneons:block/stone_slab_side",
+    "north": "duneons:block/stone_bricksosos",
+    "east": "duneons:block/stone_bricksosos",
+    "south": "duneons:block/stone_bricksosos",
+    "west": "duneons:block/stone_bricksosos",
+    "particle": "duneons:block/stone_slab_side"
+  },
+  "render_type": "solid"
+}

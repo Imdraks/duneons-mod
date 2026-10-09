@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sunken_banner1",
+  "textures": {
+    "all": "duneons:block/t_sunkenwatchtowerbanner",
+    "particle": "duneons:block/t_sunkenwatchtowerbanner",
+    "0": "duneons:block/t_sunkenwatchtowerbanner",
+    "missing": "duneons:block/t_sunkenwatchtowerbanner"
+  },
+  "render_type": "cutout"
+}

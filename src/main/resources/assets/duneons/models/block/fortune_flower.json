@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/fortuneflower",
+  "textures": {
+    "all": "duneons:block/coral_grass_top",
+    "particle": "duneons:block/coral_grass_top",
+    "0": "duneons:block/fortuneflower",
+    "missing": "duneons:block/fortuneflower"
+  },
+  "render_type": "cutout"
+}

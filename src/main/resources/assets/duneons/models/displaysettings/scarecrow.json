@@ -1,0 +1,129 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    128,
+    128
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        -1.25
+      ],
+      "scale": [
+        0.178,
+        0.178,
+        0.178
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        1.5,
+        -2.25
+      ],
+      "scale": [
+        0.178,
+        0.178,
+        0.178
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0.5,
+        -2.75,
+        0
+      ],
+      "scale": [
+        0.178,
+        0.178,
+        0.178
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        -2,
+        0
+      ],
+      "scale": [
+        0.178,
+        0.178,
+        0.178
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.148,
+        0.148,
+        0.148
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        138,
+        0
+      ],
+      "translation": [
+        -0.25,
+        -7.75,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        -4.75,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -5.25,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    }
+  },
+  "textures": {
+    "particle": "item/scarecrow"
+  }
+}

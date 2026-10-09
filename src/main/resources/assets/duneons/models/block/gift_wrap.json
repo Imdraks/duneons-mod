@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/gift_wrap",
+  "textures": {
+    "all": "duneons:block/t_giftwrap",
+    "particle": "duneons:block/t_giftwrap",
+    "0": "duneons:block/t_giftwrap",
+    "1": "duneons:block/giftwrap_side",
+    "missing": "duneons:block/t_giftwrap"
+  },
+  "render_type": "cutout"
+}

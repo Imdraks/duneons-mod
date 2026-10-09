@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/small_tallgrass_creeperwoods",
+    "particle": "duneons:block/small_tallgrass_creeperwoods"
+  },
+  "render_type": "cutout"
+}

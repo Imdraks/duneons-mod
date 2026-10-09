@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/white_terracotta",
+    "up": "duneons:block/white_terracotta",
+    "north": "duneons:block/white_terracotta",
+    "east": "duneons:block/white_terracotta",
+    "south": "duneons:block/white_terracotta",
+    "west": "duneons:block/white_terracotta",
+    "particle": "duneons:block/white_terracotta"
+  },
+  "render_type": "solid"
+}

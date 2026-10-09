@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/void_bow_pulling_2",
+  "textures": {
+    "0": "duneons:block/void_bow_pulling_2",
+    "particle": "duneons:item/voidbow"
+  }
+}

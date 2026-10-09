@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/flower_patch",
+  "textures": {
+    "all": "duneons:block/flower_patch",
+    "particle": "duneons:block/flower_patch",
+    "0": "duneons:block/flower_patch",
+    "missing": "duneons:block/flower_patch"
+  },
+  "render_type": "cutout"
+}

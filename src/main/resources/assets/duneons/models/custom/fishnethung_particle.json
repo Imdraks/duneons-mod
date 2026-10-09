@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/fishnet_hung",
+  "textures": {
+    "particle": "duneons:block/fishnet_hung"
+  }
+}

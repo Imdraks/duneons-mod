@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sand_layer3",
+  "textures": {
+    "all": "duneons:block/sand_granite_top",
+    "particle": "duneons:block/sand_granite_top",
+    "0": "duneons:block/sand_granite_top"
+  },
+  "render_type": "cutout"
+}

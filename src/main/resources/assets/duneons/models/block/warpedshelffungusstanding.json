@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/brush_blue",
+  "textures": {
+    "all": "duneons:block/warped_shelf_fungus_standing",
+    "particle": "duneons:block/warped_shelf_fungus_standing",
+    "0": "duneons:block/t_tealbrushdiffuse",
+    "missing": "duneons:block/t_tealbrushdiffuse"
+  },
+  "render_type": "cutout"
+}

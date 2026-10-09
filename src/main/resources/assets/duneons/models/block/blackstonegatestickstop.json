@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/blackstone_gate_sticks_top",
+  "textures": {
+    "all": "duneons:block/blackstone",
+    "particle": "duneons:block/blackstone",
+    "0": "duneons:block/blackstone",
+    "missing": "duneons:block/blackstone"
+  },
+  "render_type": "solid"
+}

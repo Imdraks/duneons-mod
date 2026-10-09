@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/small_tray",
+  "textures": {
+    "all": "duneons:block/small_tray",
+    "particle": "duneons:block/small_tray",
+    "0": "duneons:block/small_tray"
+  },
+  "render_type": "solid"
+}

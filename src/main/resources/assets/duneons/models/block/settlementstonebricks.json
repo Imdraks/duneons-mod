@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/settlement_stonebricks",
+    "up": "duneons:block/settlement_stonebricks",
+    "north": "duneons:block/settlement_stonebricks",
+    "east": "duneons:block/settlement_stonebricks",
+    "south": "duneons:block/settlement_stonebricks",
+    "west": "duneons:block/settlement_stonebricks",
+    "particle": "duneons:block/settlement_stonebricks"
+  },
+  "render_type": "solid"
+}

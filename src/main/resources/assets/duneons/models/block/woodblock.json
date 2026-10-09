@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/woodblock",
+  "textures": {
+    "all": "duneons:block/woodblock",
+    "particle": "duneons:block/woodblock",
+    "0": "duneons:block/woodblock"
+  },
+  "render_type": "cutout"
+}

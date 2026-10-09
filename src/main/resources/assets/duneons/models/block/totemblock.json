@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/trophy",
+  "textures": {
+    "all": "duneons:block/trophy_glass",
+    "particle": "duneons:block/trophy_glass",
+    "1": "duneons:block/mob_trophy"
+  },
+  "render_type": "cutout"
+}

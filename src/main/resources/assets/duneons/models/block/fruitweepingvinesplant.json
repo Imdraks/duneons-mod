@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/fruit_weeping_vines_plant",
+  "textures": {
+    "all": "duneons:block/fruit_weeping_vines_plant",
+    "particle": "duneons:block/fruit_weeping_vines_plant",
+    "1": "duneons:block/fruit_weeping_vines_plant",
+    "cross": "duneons:block/weeping_vines_plant"
+  },
+  "render_type": "cutout"
+}

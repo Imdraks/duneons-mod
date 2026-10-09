@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/bamboo_bricker_slab",
+    "bottom": "duneons:block/bamboo_bricker_slab",
+    "top": "duneons:block/bamboo_bricker_slab",
+    "side": "duneons:block/bamboo_bricker_slab"
+  },
+  "render_type": "solid"
+}

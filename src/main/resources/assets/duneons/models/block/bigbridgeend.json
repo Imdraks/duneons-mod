@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/big_bridge_end",
+  "textures": {
+    "all": "duneons:block/bridge",
+    "particle": "duneons:block/bridge",
+    "0": "duneons:block/bridge",
+    "missing": "duneons:block/bridge"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/crucible_lava",
+  "textures": {
+    "all": "duneons:block/crucible",
+    "particle": "duneons:block/dark_andesite",
+    "0": "duneons:block/crucible",
+    "1": "minecraft:block/lava_still",
+    "missing": "duneons:block/crucible"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/haunted_bow_pulling",
+  "textures": {
+    "0": "duneons:block/haunted_bow_pulling",
+    "particle": "duneons:item/bow_spooky1_gear"
+  }
+}

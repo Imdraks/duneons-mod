@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/creeperforest_coloon_chiseled",
+    "up": "duneons:block/creeperforest_coloon_chiseled",
+    "north": "duneons:block/creeperforest_coloon_chiseled",
+    "east": "duneons:block/creeperforest_coloon_chiseled",
+    "south": "duneons:block/creeperforest_coloon_chiseled",
+    "west": "duneons:block/creeperforest_coloon_chiseled",
+    "particle": "duneons:block/creeperforest_coloon_chiseled"
+  },
+  "render_type": "solid"
+}

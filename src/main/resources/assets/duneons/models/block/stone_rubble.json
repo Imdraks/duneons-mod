@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stones",
+  "textures": {
+    "all": "duneons:block/stone_rubble",
+    "particle": "duneons:block/stone_rubble",
+    "0": "duneons:block/stone_rubble"
+  },
+  "render_type": "solid"
+}

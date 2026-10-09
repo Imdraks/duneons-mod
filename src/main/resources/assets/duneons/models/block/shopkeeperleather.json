@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/shop_keeper_leather",
+  "textures": {
+    "all": "duneons:block/shop_keeper_leather",
+    "particle": "duneons:block/shop_keeper_leather",
+    "0": "duneons:block/shop_keeper_leather"
+  },
+  "render_type": "solid"
+}

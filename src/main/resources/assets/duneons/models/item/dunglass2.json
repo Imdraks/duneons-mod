@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:block/dungeon_glass2"
+  },
+  "render_type": "cutout_mipped"
+}

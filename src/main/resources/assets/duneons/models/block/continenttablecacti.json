@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/dungeon_table_map",
+  "textures": {
+    "all": "duneons:block/dungeon_table",
+    "particle": "duneons:block/dungeon_table",
+    "0": "duneons:block/dungeon_table"
+  },
+  "render_type": "cutout"
+}

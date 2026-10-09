@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/polished_granite",
+    "up": "duneons:block/polished_granite",
+    "north": "duneons:block/polished_granite",
+    "east": "duneons:block/polished_granite",
+    "south": "duneons:block/polished_granite",
+    "west": "duneons:block/polished_granite",
+    "particle": "duneons:block/polished_granite"
+  },
+  "render_type": "solid"
+}

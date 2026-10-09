@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/yellow_end_grass",
+    "particle": "duneons:block/yellow_end_grass"
+  },
+  "render_type": "cutout"
+}

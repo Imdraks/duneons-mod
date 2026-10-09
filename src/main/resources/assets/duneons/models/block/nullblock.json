@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/null",
+  "textures": {
+    "all": "duneons:block/null_item",
+    "particle": "duneons:block/null_item",
+    "0": "duneons:block/spawn",
+    "missing": "duneons:block/spawn"
+  },
+  "render_type": "cutout_mipped"
+}

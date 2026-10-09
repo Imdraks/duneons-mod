@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/dirt_floor_1.10_fix",
+  "textures": {
+    "all": "duneons:block/rocky_dirt",
+    "particle": "duneons:block/rocky_dirt",
+    "1": "duneons:block/rocky_dirt"
+  },
+  "render_type": "cutout"
+}

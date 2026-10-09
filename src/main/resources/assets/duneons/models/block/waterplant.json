@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/water_moss",
+  "textures": {
+    "all": "duneons:block/water_plant_icon",
+    "particle": "duneons:block/water_plant_icon",
+    "0": "duneons:block/water_plant"
+  },
+  "render_type": "cutout"
+}

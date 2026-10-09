@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gravestone_moss",
+  "textures": {
+    "all": "duneons:block/gravestone1",
+    "particle": "duneons:block/gravestone1",
+    "1": "duneons:block/gravestone1"
+  },
+  "render_type": "cutout"
+}

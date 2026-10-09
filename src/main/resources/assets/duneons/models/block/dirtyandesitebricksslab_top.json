@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/cracked_dirty_andesite_bricks1",
+    "bottom": "duneons:block/cracked_dirty_andesite_bricks1",
+    "top": "duneons:block/cracked_dirty_andesite_bricks1",
+    "side": "duneons:block/cracked_dirty_andesite_bricks1"
+  },
+  "render_type": "solid"
+}

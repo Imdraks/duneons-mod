@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/rune_gate",
+  "textures": {
+    "particle": "duneons:block/rune_gate"
+  }
+}

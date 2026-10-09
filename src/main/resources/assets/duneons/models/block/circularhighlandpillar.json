@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/circular_highland_pillar",
+    "up": "duneons:block/circular_highland_pillar",
+    "north": "duneons:block/circular_highland_pillar",
+    "east": "duneons:block/circular_highland_pillar",
+    "south": "duneons:block/circular_highland_pillar",
+    "west": "duneons:block/circular_highland_pillar",
+    "particle": "duneons:block/circular_highland_pillar"
+  },
+  "render_type": "solid"
+}

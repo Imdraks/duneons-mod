@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/granite_coolon_top",
+    "up": "duneons:block/granite_coolon_top",
+    "north": "duneons:block/granite_coolon_side",
+    "east": "duneons:block/granite_coolon_side",
+    "south": "duneons:block/granite_coolon_side",
+    "west": "duneons:block/granite_coolon_side",
+    "particle": "duneons:block/granite_coolon_top"
+  },
+  "render_type": "solid"
+}

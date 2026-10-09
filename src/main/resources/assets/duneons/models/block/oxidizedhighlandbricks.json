@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/oxidized_highland_bricks",
+    "up": "duneons:block/oxidized_highland_bricks2",
+    "north": "duneons:block/oxidized_highland_bricks",
+    "east": "duneons:block/oxidized_highland_bricks2",
+    "south": "duneons:block/oxidized_highland_bricks2",
+    "west": "duneons:block/oxidized_highland_bricks",
+    "particle": "duneons:block/oxidized_highland_bricks"
+  },
+  "render_type": "solid"
+}

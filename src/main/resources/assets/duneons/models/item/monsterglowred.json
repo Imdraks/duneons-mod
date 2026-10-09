@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/monster_glow_red"
+  },
+  "render_type": "translucent"
+}

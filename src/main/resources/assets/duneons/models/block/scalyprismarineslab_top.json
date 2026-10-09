@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/scaly_prismarine",
+    "bottom": "duneons:block/scaly_prismarine",
+    "top": "duneons:block/scaly_prismarine",
+    "side": "duneons:block/scaly_prismarine"
+  },
+  "render_type": "solid"
+}

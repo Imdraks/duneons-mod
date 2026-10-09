@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/mossy_dark_andesite_tiles",
+    "particle": "duneons:block/mossy_dark_andesite_tiles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/t_marketbooth_big_flat_ot_nopatch",
+  "textures": {
+    "all": "duneons:block/t_marketbooth_big_flat_ot_nopatch",
+    "particle": "duneons:block/t_marketbooth_big_flat_ot_nopatch",
+    "0": "duneons:block/t_marketbooth_big_flat_ot_nopatch",
+    "missing": "duneons:block/t_marketbooth_big_flat_ot_nopatch"
+  }
+}

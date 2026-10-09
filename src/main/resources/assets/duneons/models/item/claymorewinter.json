@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/claymore_winter",
+  "textures": {
+    "0": "duneons:block/claymore_winter",
+    "particle": "duneons:item/claymore_winter"
+  }
+}

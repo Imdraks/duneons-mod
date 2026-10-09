@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/tower_brown_cobblestone",
+    "up": "duneons:block/tower_brown_cobblestone",
+    "north": "duneons:block/tower_brown_cobblestone",
+    "east": "duneons:block/tower_brown_cobblestone",
+    "south": "duneons:block/tower_brown_cobblestone",
+    "west": "duneons:block/tower_brown_cobblestone",
+    "particle": "duneons:block/tower_brown_cobblestone"
+  },
+  "render_type": "solid"
+}

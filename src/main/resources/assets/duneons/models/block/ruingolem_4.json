@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/golem_ruin5",
+  "textures": {
+    "all": "duneons:block/dungeons_charred_cobblestone",
+    "particle": "duneons:block/dungeons_charred_cobblestone",
+    "0": "duneons:block/redstone_golem_noactive"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_end",
+  "textures": {
+    "all": "duneons:block/leaves_end",
+    "particle": "duneons:block/leaves_end",
+    "1": "duneons:block/end_leaves_outer",
+    "2": "duneons:block/end_leaves"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "duneons:block/painted_green_planks",
+    "texture": "duneons:block/painted_green_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ice_torch",
+  "textures": {
+    "all": "duneons:block/ice_torch",
+    "particle": "duneons:block/ice_torch",
+    "0": "duneons:block/ice_torch"
+  },
+  "render_type": "solid"
+}

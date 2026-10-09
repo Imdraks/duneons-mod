@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/coloon_top",
+    "bottom": "duneons:block/coloon_top",
+    "top": "duneons:block/coloon_top",
+    "side": "duneons:block/coloon"
+  },
+  "render_type": "solid"
+}

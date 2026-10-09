@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/highstone",
+    "bottom": "duneons:block/highstone",
+    "top": "duneons:block/highstone",
+    "side": "duneons:block/highstone"
+  },
+  "render_type": "solid"
+}

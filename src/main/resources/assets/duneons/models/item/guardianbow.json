@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/guardian_bow",
+  "textures": {
+    "0": "duneons:block/guardian_bow",
+    "particle": "duneons:item/guardian_bowicon"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:guardianbow_pulling": 1
+      },
+      "model": "duneons:item/guardianbow_0"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/dead_orange_long_standing_sorals_item"
+  },
+  "render_type": "translucent"
+}

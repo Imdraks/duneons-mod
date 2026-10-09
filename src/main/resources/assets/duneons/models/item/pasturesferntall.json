@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/pastures_fern_tall_item"
+  }
+}

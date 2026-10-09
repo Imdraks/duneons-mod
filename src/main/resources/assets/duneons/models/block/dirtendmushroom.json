@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt_end_mushroom",
+    "up": "duneons:block/dirt_end_mushroom",
+    "north": "duneons:block/dirt_end_mushroom",
+    "east": "duneons:block/dirt_end_mushroom",
+    "south": "duneons:block/dirt_end_mushroom",
+    "west": "duneons:block/dirt_end_mushroom",
+    "particle": "duneons:block/dirt_end_mushroom"
+  },
+  "render_type": "solid"
+}

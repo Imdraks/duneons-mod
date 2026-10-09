@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/troom_floor",
+    "up": "duneons:block/troom_floor",
+    "north": "duneons:block/troom_floor",
+    "east": "duneons:block/troom_floor",
+    "south": "duneons:block/troom_floor",
+    "west": "duneons:block/troom_floor",
+    "particle": "duneons:block/troom_floor"
+  },
+  "render_type": "solid"
+}

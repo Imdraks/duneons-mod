@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/green_end_stone",
+    "bottom": "duneons:block/green_end_stone",
+    "top": "duneons:block/green_end_stone",
+    "side": "duneons:block/green_end_stone"
+  },
+  "render_type": "solid"
+}

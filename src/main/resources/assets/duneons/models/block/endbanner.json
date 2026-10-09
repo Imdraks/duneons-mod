@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_banner",
+  "textures": {
+    "all": "duneons:block/t_endbanner",
+    "particle": "duneons:block/t_endbanner",
+    "0": "duneons:block/t_endbanner",
+    "missing": "duneons:block/t_endbanner"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/skill_brick",
+    "up": "duneons:block/skill_brick",
+    "north": "duneons:block/skill_brick",
+    "east": "duneons:block/skill_brick",
+    "south": "duneons:block/skill_brick",
+    "west": "duneons:block/skill_brick",
+    "particle": "duneons:block/skill_brick"
+  },
+  "render_type": "solid"
+}

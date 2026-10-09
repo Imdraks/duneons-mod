@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/yellow_root_mouth",
+  "textures": {
+    "0": "duneons:block/yellow_root",
+    "missing": "duneons:block/yellow_root",
+    "particle": "duneons:item/yellow_root"
+  }
+}

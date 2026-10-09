@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/creeperglowyellow"
+  },
+  "render_type": "translucent"
+}

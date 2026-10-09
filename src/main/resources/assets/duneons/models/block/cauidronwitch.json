@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/cauidron_witch",
+  "textures": {
+    "all": "duneons:block/cauldron_witch",
+    "particle": "duneons:block/cauldron_witch",
+    "1": "duneons:block/cauldron_witch",
+    "missing": "duneons:block/cauldron_witch"
+  },
+  "render_type": "cutout"
+}

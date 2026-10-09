@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/wagon",
+  "textures": {
+    "all": "duneons:block/wagon_block",
+    "particle": "duneons:block/wagon_block",
+    "0": "duneons:block/wagon_block",
+    "missing": "duneons:block/wagon_block"
+  },
+  "render_type": "solid"
+}

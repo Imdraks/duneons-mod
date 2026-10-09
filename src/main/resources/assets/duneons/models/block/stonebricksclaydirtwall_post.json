@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "duneons:block/stonebricks_clay",
+    "particle": "duneons:block/stonebricks_clay"
+  },
+  "render_type": "solid"
+}

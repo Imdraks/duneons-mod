@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/rustic_bed",
+  "textures": {
+    "all": "duneons:block/rustic_bed",
+    "particle": "duneons:block/graytower_planks",
+    "0": "duneons:block/rustic_bed",
+    "missing": "duneons:block/rustic_bed"
+  },
+  "render_type": "solid"
+}

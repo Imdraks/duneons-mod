@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/elkhorn_coral_death",
+  "textures": {
+    "all": "duneons:block/dead_elkhorn_coral",
+    "particle": "duneons:block/dead_elkhorn_coral",
+    "0": "duneons:block/dead_elkhorn_coral"
+  },
+  "render_type": "cutout_mipped"
+}

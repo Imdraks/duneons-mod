@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/villagerstatue_smooth",
+  "textures": {
+    "all": "duneons:block/t_villagerstatue",
+    "particle": "duneons:block/stone",
+    "0": "duneons:block/t_villagerstatue"
+  },
+  "render_type": "solid"
+}

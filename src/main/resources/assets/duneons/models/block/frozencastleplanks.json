@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/frozen_castle_planks",
+    "up": "duneons:block/frozen_castle_planks",
+    "north": "duneons:block/frozen_castle_planks",
+    "east": "duneons:block/frozen_castle_planks",
+    "south": "duneons:block/frozen_castle_planks",
+    "west": "duneons:block/frozen_castle_planks",
+    "particle": "duneons:block/frozen_castle_planks"
+  },
+  "render_type": "solid"
+}

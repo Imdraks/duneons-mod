@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/golem_summon_fix",
+  "textures": {
+    "0": "duneons:block/golem_summon",
+    "missing": "duneons:block/golem_summon",
+    "particle": "duneons:item/golem_kit"
+  }
+}

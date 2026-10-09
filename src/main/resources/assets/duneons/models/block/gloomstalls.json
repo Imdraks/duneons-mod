@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gloomstall",
+  "textures": {
+    "all": "duneons:block/gloomstalls",
+    "particle": "duneons:block/gloomstalls",
+    "0": "duneons:block/gloomstalls"
+  },
+  "render_type": "cutout"
+}

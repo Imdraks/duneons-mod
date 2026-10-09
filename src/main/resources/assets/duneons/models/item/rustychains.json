@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/rusty_chains"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/triangle_rug",
+  "textures": {
+    "all": "duneons:block/triangle_rug",
+    "particle": "duneons:block/triangle_rug",
+    "0": "duneons:block/triangle_rug"
+  },
+  "render_type": "cutout"
+}

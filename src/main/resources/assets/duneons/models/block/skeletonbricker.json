@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/creeperforest_coloon_top2",
+    "up": "duneons:block/creeperforest_coloon_top2",
+    "north": "duneons:block/bricker_skeleton",
+    "east": "duneons:block/bricker_skeleton",
+    "south": "duneons:block/bricker_skeleton",
+    "west": "duneons:block/bricker_skeleton",
+    "particle": "duneons:block/creeperforest_coloon_top2"
+  },
+  "render_type": "solid"
+}

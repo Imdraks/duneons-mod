@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/log_spruce_top",
+    "up": "duneons:block/log_spruce_top",
+    "north": "duneons:block/jungle_flower_log_side2",
+    "east": "duneons:block/jungle_flower_log_side2",
+    "south": "duneons:block/jungle_flower_log_side2",
+    "west": "duneons:block/jungle_flower_log_side2",
+    "particle": "duneons:block/log_spruce_top"
+  },
+  "render_type": "solid"
+}

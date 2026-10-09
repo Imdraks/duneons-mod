@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/carved_tower_stairs_bricks",
+    "up": "duneons:block/carved_tower_stairs_bricks",
+    "north": "duneons:block/carved_tower_stairs_bricks",
+    "east": "duneons:block/carved_tower_stairs_bricks",
+    "south": "duneons:block/carved_tower_stairs_bricks",
+    "west": "duneons:block/carved_tower_stairs_bricks",
+    "particle": "duneons:block/carved_tower_stairs_bricks"
+  },
+  "render_type": "solid"
+}

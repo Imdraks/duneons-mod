@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["a","b","a"],"key":{"a":"minecraft:gold_ingot","b":"duneons:goldchain"},"result":{"id":"duneons:giantgoldenchains","count":16}}

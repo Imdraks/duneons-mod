@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/chest_glow_purple"
+  },
+  "render_type": "translucent"
+}

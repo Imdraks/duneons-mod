@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/bamboo_plant_grass_bottom",
+    "particle": "duneons:block/bamboo_plant_grass_top"
+  },
+  "render_type": "cutout"
+}

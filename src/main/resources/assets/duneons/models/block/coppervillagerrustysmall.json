@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/copper_villager_rusty_small",
+  "textures": {
+    "all": "duneons:block/copper_villager_rusty_small",
+    "particle": "duneons:block/copper_villager_rusty_small",
+    "0": "duneons:block/copper_villager_rusty_small"
+  },
+  "render_type": "solid"
+}

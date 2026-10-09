@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stainedglass_blue",
+  "textures": {
+    "all": "duneons:block/stainedglass_blue",
+    "particle": "duneons:block/stainedglass_blue",
+    "0": "duneons:block/stainedglass_blue"
+  },
+  "render_type": "translucent"
+}

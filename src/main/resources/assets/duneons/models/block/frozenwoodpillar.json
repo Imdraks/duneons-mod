@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ice_door_brick_chiseled",
+    "up": "duneons:block/ice_door_brick_chiseled",
+    "north": "duneons:block/frozen_wood_pillar",
+    "east": "duneons:block/frozen_wood_pillar",
+    "south": "duneons:block/frozen_wood_pillar",
+    "west": "duneons:block/frozen_wood_pillar",
+    "particle": "duneons:block/ice_door_brick_chiseled"
+  },
+  "render_type": "solid"
+}

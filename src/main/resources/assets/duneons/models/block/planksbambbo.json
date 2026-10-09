@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/planks_bambbo",
+    "up": "duneons:block/planks_bambbo",
+    "north": "duneons:block/planks_bambbo",
+    "east": "duneons:block/planks_bambbo",
+    "south": "duneons:block/planks_bambbo",
+    "west": "duneons:block/planks_bambbo",
+    "particle": "duneons:block/planks_bambbo"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chorus_stem_top",
+    "up": "duneons:block/chorus_stem_top",
+    "north": "duneons:block/chorus_tree",
+    "east": "duneons:block/chorus_tree",
+    "south": "duneons:block/chorus_tree",
+    "west": "duneons:block/chorus_tree",
+    "particle": "duneons:block/chorus_stem_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/jungle_pillar_line",
+  "textures": {
+    "all": "duneons:block/jungle_pillar_line",
+    "particle": "duneons:block/jungle_pillar_line",
+    "0": "duneons:block/jungle_pillar_line"
+  },
+  "render_type": "solid"
+}

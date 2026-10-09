@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.towerpillar",
+				"texture_width": 32,
+				"texture_height": 96,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 7.5,
+				"visible_bounds_offset": [0, 3.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-24, 0, -8],
+							"size": [32, 95, 32],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [32, 96]},
+								"east": {"uv": [0, 0], "uv_size": [32, 93]},
+								"south": {"uv": [0, 0], "uv_size": [32, 96]},
+								"west": {"uv": [0, 0], "uv_size": [32, 96]},
+								"up": {"uv": [4, 37], "uv_size": [25, 25]},
+								"down": {"uv": [4, 78], "uv_size": [25, -25]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

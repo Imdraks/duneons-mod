@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cacti_clay_stained_cyan",
+    "up": "duneons:block/cacti_clay_stained_cyan",
+    "north": "duneons:block/cacti_clay_stained_cyan",
+    "east": "duneons:block/cacti_clay_stained_cyan",
+    "south": "duneons:block/cacti_clay_stained_cyan",
+    "west": "duneons:block/cacti_clay_stained_cyan",
+    "particle": "duneons:block/cacti_clay_stained_cyan"
+  },
+  "render_type": "solid"
+}

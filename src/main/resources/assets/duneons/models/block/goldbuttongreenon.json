@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gold_green_button_on",
+  "textures": {
+    "all": "duneons:block/gold_button_gs",
+    "particle": "duneons:block/gold_button_gs",
+    "0": "duneons:block/gold_button_gs"
+  },
+  "render_type": "solid"
+}

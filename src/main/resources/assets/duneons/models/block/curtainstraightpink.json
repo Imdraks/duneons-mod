@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/curtain_pink",
+  "textures": {
+    "all": "duneons:block/t_curtain_straight_pink",
+    "particle": "duneons:block/t_curtain_straight_pink",
+    "0": "duneons:block/t_curtain_straight_pink"
+  },
+  "render_type": "cutout"
+}

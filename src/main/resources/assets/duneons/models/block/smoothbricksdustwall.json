@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/smooth_bricks_dust",
+    "particle": "duneons:block/smooth_bricks_dust"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sandy_gravel",
+    "up": "duneons:block/sandy_gravel",
+    "north": "duneons:block/sandy_gravel",
+    "east": "duneons:block/sandy_gravel",
+    "south": "duneons:block/sandy_gravel",
+    "west": "duneons:block/sandy_gravel",
+    "particle": "duneons:block/sandy_gravel"
+  },
+  "render_type": "solid"
+}

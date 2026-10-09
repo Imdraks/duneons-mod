@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/hay_bale",
+  "textures": {
+    "all": "duneons:block/hay_bale",
+    "particle": "duneons:block/hay_bale",
+    "1": "duneons:block/hay_bale"
+  },
+  "render_type": "solid"
+}

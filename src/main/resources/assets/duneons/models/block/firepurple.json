@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/purple_fire",
+  "textures": {
+    "all": "duneons:block/fire_purple",
+    "particle": "duneons:block/fire_purple",
+    "0": "duneons:block/fire_purple",
+    "missing": "duneons:block/fire_purple"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/bridge_planks_side",
+    "bottom": "duneons:block/bridge_planks_side",
+    "top": "duneons:block/bridge_planks_side",
+    "side": "duneons:block/dungeons_planks"
+  },
+  "render_type": "solid"
+}

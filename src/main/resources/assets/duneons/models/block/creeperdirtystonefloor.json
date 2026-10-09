@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/creeper_dirty_stone_floor2",
+    "up": "duneons:block/creeper_dirty_stone_floor2",
+    "north": "duneons:block/creeper_dirty_stone_floor2",
+    "east": "duneons:block/creeper_dirty_stone_floor2",
+    "south": "duneons:block/creeper_dirty_stone_floor2",
+    "west": "duneons:block/creeper_dirty_stone_floor2",
+    "particle": "duneons:block/creeper_dirty_stone_floor2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/log_oak_top",
+    "up": "duneons:block/log_oak_top",
+    "north": "duneons:block/log_oak",
+    "east": "duneons:block/log_oak",
+    "south": "duneons:block/log_oak",
+    "west": "duneons:block/log_oak",
+    "particle": "duneons:block/log_oak_top"
+  },
+  "render_type": "solid"
+}

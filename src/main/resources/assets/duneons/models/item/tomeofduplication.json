@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/tome_of_dublication",
+  "textures": {
+    "0": "duneons:block/tome_duplication",
+    "missing": "duneons:block/tome_duplication",
+    "particle": "duneons:item/tome_of_duplication_icon"
+  }
+}

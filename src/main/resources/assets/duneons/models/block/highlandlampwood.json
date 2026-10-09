@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/highland_lamp_wood",
+  "textures": {
+    "all": "duneons:block/highland_lamp",
+    "particle": "duneons:block/highland_lamp",
+    "0": "duneons:block/highland_lamp"
+  },
+  "render_type": "solid"
+}

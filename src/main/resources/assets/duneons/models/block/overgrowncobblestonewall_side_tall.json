@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/overgrown_cobblestone",
+    "particle": "duneons:block/overgrown_cobblestone"
+  },
+  "render_type": "solid"
+}

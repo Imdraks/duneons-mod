@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/outpost_moss_bricks",
+    "bottom": "duneons:block/outpost_moss_bricks",
+    "top": "duneons:block/outpost_moss_bricks",
+    "side": "duneons:block/outpost_moss_bricks"
+  },
+  "render_type": "solid"
+}

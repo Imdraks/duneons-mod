@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/nether_tiles",
+    "up": "duneons:block/nether_tiles",
+    "north": "duneons:block/nether_tiles",
+    "east": "duneons:block/nether_tiles",
+    "south": "duneons:block/nether_tiles",
+    "west": "duneons:block/nether_tiles",
+    "particle": "duneons:block/nether_tiles"
+  },
+  "render_type": "solid"
+}

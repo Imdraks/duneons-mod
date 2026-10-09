@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/nether_tulip",
+    "particle": "duneons:block/nether_tulip"
+  },
+  "render_type": "cutout"
+}

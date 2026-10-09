@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/large_pot_new",
+  "textures": {
+    "all": "duneons:blocks/t_largepot",
+    "particle": "duneons:blocks/t_largepot",
+    "0": "duneons:blocks/t_largepot",
+    "missing": "duneons:blocks/t_largepot"
+  }
+}

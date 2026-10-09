@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/shelf_fungus",
+  "textures": {
+    "all": "duneons:block/shelf_fungus",
+    "particle": "duneons:block/shelf_fungus",
+    "0": "duneons:block/shelf_fungus"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/railing_metal",
+  "textures": {
+    "all": "duneons:block/railing_metal",
+    "particle": "duneons:block/railing_metal",
+    "0": "duneons:block/railing_metal",
+    "missing": "duneons:block/railing_metal"
+  },
+  "render_type": "cutout"
+}

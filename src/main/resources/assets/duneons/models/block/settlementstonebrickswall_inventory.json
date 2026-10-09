@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "duneons:block/settlement_stonebricks",
+    "particle": "duneons:block/settlement_stonebricks"
+  },
+  "render_type": "solid"
+}

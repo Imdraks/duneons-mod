@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "up": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "north": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "east": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "south": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "west": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "particle": "duneons:block/soggy_swamp_mossy_polished_andesite"
+  },
+  "render_type": "solid"
+}

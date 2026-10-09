@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","group":"wooden_fence","category":"misc","pattern":["aba","aba"],"key":{"a":"duneons:dirty_mossy_jungle_planks","b":"minecraft:stick"},"result":{"id":"duneons:dirty_mossy_jungle_fence","count":3}}

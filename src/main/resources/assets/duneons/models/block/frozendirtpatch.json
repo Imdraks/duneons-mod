@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/frozen_dirt_patch",
+    "up": "duneons:block/frozen_dirt_patch",
+    "north": "duneons:block/frozen_dirt_patch",
+    "east": "duneons:block/frozen_dirt_patch",
+    "south": "duneons:block/frozen_dirt_patch",
+    "west": "duneons:block/frozen_dirt_patch",
+    "particle": "duneons:block/frozen_dirt_patch"
+  },
+  "render_type": "solid"
+}

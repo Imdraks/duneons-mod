@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/polished_granite",
+    "bottom": "duneons:block/polished_granite",
+    "top": "duneons:block/polished_granite",
+    "side": "duneons:block/polished_granite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/enchanter_statue",
+  "textures": {
+    "particle": "duneons:block/deco_snowy_enchanter_statue"
+  }
+}

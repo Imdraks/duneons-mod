@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bookshelf_tiny_down",
+    "up": "duneons:block/bookshelf_tiny_down",
+    "north": "duneons:block/bookshelf_red_side",
+    "east": "duneons:block/bookshelf_red_side",
+    "south": "duneons:block/bookshelf_red_side",
+    "west": "duneons:block/bookshelf_red_side",
+    "particle": "duneons:block/bookshelf_tiny_down"
+  },
+  "render_type": "solid"
+}

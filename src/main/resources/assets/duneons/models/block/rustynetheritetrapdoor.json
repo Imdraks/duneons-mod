@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "duneons:block/netherite_trapdoor2",
+    "particle": "duneons:block/netherite_trapdoor2"
+  },
+  "render_type": "solid"
+}

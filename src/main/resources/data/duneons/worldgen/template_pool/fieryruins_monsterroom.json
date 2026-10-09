@@ -1,0 +1,17 @@
+{
+  "name": "duneons:fieryruins_monsterroom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "duneons:fiery_monsterroom",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

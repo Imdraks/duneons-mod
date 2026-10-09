@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/orange_terracotta",
+    "up": "duneons:block/orange_terracotta",
+    "north": "duneons:block/orange_terracotta",
+    "east": "duneons:block/orange_terracotta",
+    "south": "duneons:block/orange_terracotta",
+    "west": "duneons:block/orange_terracotta",
+    "particle": "duneons:block/orange_terracotta"
+  },
+  "render_type": "solid"
+}

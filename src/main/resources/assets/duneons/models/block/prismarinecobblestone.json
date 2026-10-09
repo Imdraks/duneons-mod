@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/prismarine_cobblestone",
+    "up": "duneons:block/prismarine_cobblestone",
+    "north": "duneons:block/prismarine_cobblestone",
+    "east": "duneons:block/prismarine_cobblestone",
+    "south": "duneons:block/prismarine_cobblestone",
+    "west": "duneons:block/prismarine_cobblestone",
+    "particle": "duneons:block/prismarine_cobblestone"
+  },
+  "render_type": "solid"
+}

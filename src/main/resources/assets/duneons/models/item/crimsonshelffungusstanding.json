@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/crimson_shelf_fungus_standing_item"
+  }
+}

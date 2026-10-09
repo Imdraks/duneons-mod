@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/overgrowncobblestone_patch",
+  "textures": {
+    "all": "duneons:block/overground_path_side",
+    "particle": "duneons:block/overground_path_side",
+    "0": "duneons:block/overground_path_side"
+  },
+  "render_type": "solid"
+}

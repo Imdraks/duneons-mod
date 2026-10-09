@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_citadel_criseled_bricks",
+    "up": "duneons:block/end_citadel_criseled_bricks",
+    "north": "duneons:block/end_citadel_criseled_bricks",
+    "east": "duneons:block/end_citadel_criseled_bricks",
+    "south": "duneons:block/end_citadel_criseled_bricks",
+    "west": "duneons:block/end_citadel_criseled_bricks",
+    "particle": "duneons:block/end_citadel_criseled_bricks"
+  },
+  "render_type": "solid"
+}

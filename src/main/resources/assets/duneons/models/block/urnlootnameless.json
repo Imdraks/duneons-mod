@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/urn_loot_nameless",
+  "textures": {
+    "all": "duneons:block/urn_loot_new_pattern03",
+    "particle": "duneons:block/urn_loot_new_pattern03",
+    "0": "duneons:block/urn_loot_new_pattern03"
+  },
+  "render_type": "cutout"
+}

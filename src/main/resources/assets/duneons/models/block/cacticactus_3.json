@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/cactus_big_03",
+  "textures": {
+    "all": "duneons:block/cactus04",
+    "particle": "duneons:block/cactus04",
+    "1": "duneons:block/cactus_big"
+  },
+  "render_type": "cutout"
+}

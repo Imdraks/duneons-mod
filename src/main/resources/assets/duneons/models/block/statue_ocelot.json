@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/statue_ocelot",
+  "textures": {
+    "all": "duneons:block/t_statue_ocelot_1",
+    "particle": "duneons:block/t_statue_ocelot_1",
+    "0": "duneons:block/t_statue_ocelot_1"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/bonegate",
+  "textures": {
+    "all": "duneons:block/t_bonegate",
+    "particle": "duneons:block/shelf_top",
+    "0": "duneons:block/t_bonegate",
+    "missing": "duneons:block/t_bonegate"
+  },
+  "render_type": "solid"
+}

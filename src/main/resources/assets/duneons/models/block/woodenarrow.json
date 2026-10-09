@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wooden_arrow_sign",
+  "textures": {
+    "all": "duneons:block/wooden__arrow",
+    "particle": "duneons:block/wooden__arrow",
+    "0": "duneons:block/wooden__arrow"
+  },
+  "render_type": "solid"
+}

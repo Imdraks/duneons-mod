@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_rocks",
+    "up": "duneons:block/highland_rocks",
+    "north": "duneons:block/highland_rocks",
+    "east": "duneons:block/highland_rocks",
+    "south": "duneons:block/highland_rocks",
+    "west": "duneons:block/highland_rocks",
+    "particle": "duneons:block/highland_rocks"
+  },
+  "render_type": "solid"
+}

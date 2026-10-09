@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/glow_shroom_01",
+  "textures": {
+    "all": "duneons:block/glow_shroom",
+    "particle": "duneons:block/glow_shroom",
+    "0": "duneons:block/glow_shroom",
+    "missing": "duneons:block/glow_shroom"
+  },
+  "render_type": "cutout"
+}

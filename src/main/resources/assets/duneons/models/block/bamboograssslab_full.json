@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/bamboo_dirt",
+    "bottom": "duneons:block/bamboo_dirt",
+    "top": "duneons:block/hardened_clay_stained_purple",
+    "side": "duneons:block/bamboo_grass_top_2"
+  },
+  "render_type": "solid"
+}

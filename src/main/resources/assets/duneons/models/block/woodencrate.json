@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/wooden_crate",
+    "up": "duneons:block/wooden_crate",
+    "north": "duneons:block/wooden_crate",
+    "east": "duneons:block/wooden_crate",
+    "south": "duneons:block/wooden_crate",
+    "west": "duneons:block/wooden_crate",
+    "particle": "duneons:block/wooden_crate"
+  },
+  "render_type": "solid"
+}

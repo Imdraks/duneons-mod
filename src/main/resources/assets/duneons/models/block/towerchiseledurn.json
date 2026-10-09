@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tower_chiseled_vase",
+  "textures": {
+    "all": "duneons:block/t_tower_iconics_d",
+    "particle": "duneons:block/t_tower_iconics_d",
+    "0": "duneons:block/t_tower_iconics_d"
+  },
+  "render_type": "cutout"
+}

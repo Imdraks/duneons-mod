@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "duneons:block/dusty_iron_door_lower",
+    "bottom": "duneons:block/dusty_iron_door_lower",
+    "top": "duneons:block/dusty_iron_door_upper"
+  },
+  "render_type": "solid"
+}

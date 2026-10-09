@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/brush_red",
+  "textures": {
+    "all": "duneons:block/red_brush",
+    "particle": "duneons:block/red_brush",
+    "0": "duneons:block/red_brush",
+    "missing": "duneons:block/red_brush"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/piglin_chest_small",
+  "textures": {
+    "0": "duneons:block/piglin_chest_small",
+    "particle": "duneons:item/piglinchest"
+  }
+}

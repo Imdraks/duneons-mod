@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/table_small",
+  "textures": {
+    "all": "duneons:block/t_table_hh",
+    "particle": "duneons:block/t_table_hh",
+    "0": "duneons:block/t_table_hh"
+  },
+  "render_type": "cutout"
+}

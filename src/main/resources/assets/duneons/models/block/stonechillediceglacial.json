@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_chilled_ice_glacial",
+    "up": "duneons:block/stone_chilled_ice_glacial",
+    "north": "duneons:block/stone_chilled_ice_glacial",
+    "east": "duneons:block/stone_chilled_ice_glacial",
+    "south": "duneons:block/stone_chilled_ice_glacial",
+    "west": "duneons:block/stone_chilled_ice_glacial",
+    "particle": "duneons:block/stone_chilled_ice_glacial"
+  },
+  "render_type": "solid"
+}

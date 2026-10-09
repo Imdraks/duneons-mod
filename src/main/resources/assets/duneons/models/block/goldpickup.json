@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gold_pickup",
+  "textures": {
+    "all": "duneons:block/gold_pickup",
+    "particle": "duneons:block/gold_pickup",
+    "0": "duneons:block/gold_pickup"
+  },
+  "render_type": "cutout_mipped"
+}

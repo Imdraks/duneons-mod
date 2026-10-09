@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/stronghold_double_plant_top"
+  }
+}

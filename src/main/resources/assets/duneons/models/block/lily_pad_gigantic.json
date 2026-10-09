@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/liy",
+  "textures": {
+    "all": "duneons:block/t_lilypad_gigantic",
+    "particle": "duneons:block/t_lilypad_gigantic",
+    "0": "duneons:block/t_lilypad_gigantic",
+    "missing": "duneons:block/t_lilypad_gigantic"
+  },
+  "render_type": "cutout"
+}

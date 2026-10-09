@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/sparkler_1.11",
+  "textures": {
+    "0": "duneons:block/sparkler",
+    "1": "duneons:block/sparkler_fire",
+    "particle": "duneons:item/sparkler"
+  }
+}

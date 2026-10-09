@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/battlestaff",
+  "textures": {
+    "0": "duneons:block/battlestaff",
+    "particle": "duneons:item/battlestaff"
+  }
+}

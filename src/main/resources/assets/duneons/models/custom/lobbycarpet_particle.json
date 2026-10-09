@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/lobby_carpet",
+  "textures": {
+    "particle": "duneons:block/lobby_carpet"
+  }
+}

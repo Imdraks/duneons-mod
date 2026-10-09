@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/jungleflower_leafy",
+  "textures": {
+    "all": "duneons:block/jungleflower_leaf_icon",
+    "particle": "duneons:block/jungleflower_leaf_icon",
+    "0": "duneons:block/t_jungleflower_leafy",
+    "missing": "duneons:block/t_jungleflower_leafy"
+  },
+  "render_type": "cutout"
+}

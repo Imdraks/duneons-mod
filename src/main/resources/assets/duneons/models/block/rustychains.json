@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/rusty_chains",
+  "textures": {
+    "all": "duneons:block/rusty_chains",
+    "particle": "duneons:block/rusty_chains",
+    "0": "duneons:block/rusty_chains"
+  },
+  "render_type": "cutout"
+}

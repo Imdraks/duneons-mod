@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/abyssal_stone_door",
+  "textures": {
+    "particle": "duneons:block/crimson_door"
+  }
+}

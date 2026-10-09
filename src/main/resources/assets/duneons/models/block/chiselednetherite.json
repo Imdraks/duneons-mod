@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chiseled_netherite",
+    "up": "duneons:block/chiseled_netherite",
+    "north": "duneons:block/chiseled_netherite",
+    "east": "duneons:block/chiseled_netherite",
+    "south": "duneons:block/chiseled_netherite",
+    "west": "duneons:block/chiseled_netherite",
+    "particle": "duneons:block/chiseled_netherite"
+  },
+  "render_type": "solid"
+}

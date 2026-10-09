@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/aqua_mde",
+  "textures": {
+    "all": "duneons:block/t_curtain_straight_aqua",
+    "particle": "duneons:block/t_curtain_straight_aqua",
+    "0": "duneons:block/t_curtain_straight_aqua"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/call_of_the_void",
+  "textures": {
+    "0": "duneons:block/call_of_the_void",
+    "particle": "duneons:item/voidbow_unique1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:callofthevoidbow_pulling": 1
+      },
+      "model": "duneons:item/callofthevoidbow_0"
+    }
+  ]
+}

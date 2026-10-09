@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/shelf_back3",
+    "up": "duneons:block/shelf_top",
+    "north": "duneons:block/b__shelf",
+    "east": "duneons:block/shelf_back",
+    "south": "duneons:block/shelf_back3",
+    "west": "duneons:block/shelf_back2",
+    "particle": "duneons:block/shelf_back3"
+  },
+  "render_type": "solid"
+}

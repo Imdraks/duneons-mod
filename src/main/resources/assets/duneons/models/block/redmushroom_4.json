@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/mushrooms_02",
+  "textures": {
+    "all": "duneons:block/big_mushroom",
+    "particle": "duneons:block/big_mushroom",
+    "0": "duneons:block/mushrooms_new"
+  },
+  "render_type": "cutout"
+}

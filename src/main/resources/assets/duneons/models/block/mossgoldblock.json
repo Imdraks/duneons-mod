@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/moss_gold_block",
+    "up": "duneons:block/moss_gold_block",
+    "north": "duneons:block/moss_gold_block",
+    "east": "duneons:block/moss_gold_block",
+    "south": "duneons:block/moss_gold_block",
+    "west": "duneons:block/moss_gold_block",
+    "particle": "duneons:block/moss_gold_block"
+  },
+  "render_type": "solid"
+}

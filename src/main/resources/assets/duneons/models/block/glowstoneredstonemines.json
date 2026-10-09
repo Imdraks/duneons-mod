@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/glowstone_redstonemines",
+    "up": "duneons:block/glowstone_redstonemines",
+    "north": "duneons:block/glowstone_redstonemines",
+    "east": "duneons:block/glowstone_redstonemines",
+    "south": "duneons:block/glowstone_redstonemines",
+    "west": "duneons:block/glowstone_redstonemines",
+    "particle": "duneons:block/glowstone_redstonemines"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/archstaff",
+  "textures": {
+    "0": "duneons:block/archstaff",
+    "particle": "duneons:item/item"
+  }
+}

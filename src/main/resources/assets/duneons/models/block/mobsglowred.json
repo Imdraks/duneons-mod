@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/mobs_glow_red",
+  "textures": {
+    "all": "duneons:block/t_2_orange",
+    "particle": "duneons:block/t_2_orange",
+    "1": "duneons:block/t_3_orange",
+    "missing": "duneons:block/t_3_orange"
+  },
+  "render_type": "cutout"
+}

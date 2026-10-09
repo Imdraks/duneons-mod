@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/anchor_block",
+  "textures": {
+    "all": "duneons:block/anchor_block",
+    "particle": "duneons:block/anchor_block",
+    "0": "duneons:block/anchor_block",
+    "missing": "duneons:block/anchor_block"
+  },
+  "render_type": "cutout"
+}

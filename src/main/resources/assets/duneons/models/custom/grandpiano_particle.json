@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/grand_piano",
+  "textures": {
+    "particle": "duneons:block/grand_piano"
+  }
+}

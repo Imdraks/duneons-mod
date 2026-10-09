@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_creeper",
+  "textures": {
+    "all": "duneons:block/leaves_creeperwoods",
+    "particle": "duneons:block/leaves_creeperwoods",
+    "1": "duneons:block/leaves_creeperwoods_outer",
+    "2": "duneons:block/leaves_creeperwoods"
+  },
+  "render_type": "cutout"
+}

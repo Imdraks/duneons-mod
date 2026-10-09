@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/throne",
+  "textures": {
+    "particle": "duneons:block/throne_blue"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/spider_succulent_stem_rotting",
+  "textures": {
+    "all": "duneons:block/spider_succulent_rotting",
+    "particle": "duneons:block/spider_succulent_rotting",
+    "0": "duneons:block/spider_succulent_rotting",
+    "missing": "duneons:block/spider_succulent_rotting"
+  },
+  "render_type": "cutout"
+}

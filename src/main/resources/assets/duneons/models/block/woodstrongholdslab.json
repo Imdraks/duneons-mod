@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/wood_stronghold",
+    "bottom": "duneons:block/wood_stronghold",
+    "top": "duneons:block/wood_stronghold",
+    "side": "duneons:block/wood_stronghold"
+  },
+  "render_type": "solid"
+}

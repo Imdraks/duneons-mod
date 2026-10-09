@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aba","c c"],"key":{"a":"minecraft:bone_block","b":"minecraft:soul_sand","c":"minecraft:bone"},"result":{"id":"duneons:bonetable","count":1}}

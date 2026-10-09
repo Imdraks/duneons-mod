@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/boots_of_swiftness",
+  "textures": {
+    "0": "duneons:block/boots_of_swiftness",
+    "particle": "duneons:item/t_bootsofswiftness_gearicon"
+  }
+}

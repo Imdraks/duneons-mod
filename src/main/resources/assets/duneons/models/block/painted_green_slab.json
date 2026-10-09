@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/painted_green_planks",
+    "bottom": "duneons:block/painted_green_planks",
+    "top": "duneons:block/painted_green_planks",
+    "side": "duneons:block/painted_green_planks"
+  },
+  "render_type": "solid"
+}

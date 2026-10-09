@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "duneons:block/stripped_chorus_planks_trapdoor",
+    "particle": "duneons:block/stripped_chorus_planks_trapdoor"
+  },
+  "render_type": "cutout"
+}

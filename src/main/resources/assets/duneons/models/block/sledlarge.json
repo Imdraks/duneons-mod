@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sled_large",
+  "textures": {
+    "all": "duneons:block/sled_large",
+    "particle": "duneons:block/sled_large",
+    "0": "duneons:block/sled_large"
+  },
+  "render_type": "solid"
+}

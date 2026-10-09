@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/soullantern",
+  "textures": {
+    "all": "duneons:block/soullantern",
+    "particle": "duneons:block/_tainedlass_lue_emiransparent",
+    "0": "duneons:block/soullantern",
+    "missing": "duneons:block/soullantern"
+  },
+  "render_type": "solid"
+}

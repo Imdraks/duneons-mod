@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/weathervane",
+  "textures": {
+    "particle": "duneons:block/weather_vane_spin"
+  }
+}

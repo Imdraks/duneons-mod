@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ender_vase1",
+  "textures": {
+    "all": "duneons:block/endinterior_props",
+    "particle": "duneons:block/endinterior_props",
+    "0": "duneons:block/endinterior_props"
+  },
+  "render_type": "cutout"
+}

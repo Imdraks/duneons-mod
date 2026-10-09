@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/warm_sealanter",
+    "up": "duneons:block/warm_sealanter",
+    "north": "duneons:block/warm_sealanter",
+    "east": "duneons:block/warm_sealanter",
+    "south": "duneons:block/warm_sealanter",
+    "west": "duneons:block/warm_sealanter",
+    "particle": "duneons:block/warm_sealanter"
+  },
+  "render_type": "solid"
+}

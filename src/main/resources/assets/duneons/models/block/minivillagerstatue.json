@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/mini_villager_statue",
+  "textures": {
+    "all": "duneons:block/mini_villager_statue",
+    "particle": "duneons:block/mini_villager_statue",
+    "0": "duneons:block/mini_villager_statue",
+    "missing": "duneons:block/mini_villager_statue"
+  },
+  "render_type": "solid"
+}

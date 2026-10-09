@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/eye_ice_top",
+    "up": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "north": "duneons:block/ice_chiseled_lostsettlement",
+    "east": "duneons:block/ice_chiseled_lostsettlement",
+    "south": "duneons:block/ice_chiseled_lostsettlement",
+    "west": "duneons:block/ice_chiseled_lostsettlement",
+    "particle": "duneons:block/eye_ice_top"
+  },
+  "render_type": "solid"
+}

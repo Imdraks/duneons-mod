@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "duneons:block/dust_end_cobblestone",
+    "particle": "duneons:block/dust_end_cobblestone"
+  },
+  "render_type": "solid"
+}

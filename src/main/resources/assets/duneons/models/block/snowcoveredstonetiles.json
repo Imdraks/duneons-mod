@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_andesite_frozenfjord",
+    "up": "duneons:block/stone_andesite_frozenfjord",
+    "north": "duneons:block/stone_andesite_frozenfjord",
+    "east": "duneons:block/stone_andesite_frozenfjord",
+    "south": "duneons:block/stone_andesite_frozenfjord",
+    "west": "duneons:block/stone_andesite_frozenfjord",
+    "particle": "duneons:block/stone_andesite_frozenfjord"
+  },
+  "render_type": "solid"
+}

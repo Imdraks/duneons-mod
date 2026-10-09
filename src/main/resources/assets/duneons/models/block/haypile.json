@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/hay_pile",
+  "textures": {
+    "all": "duneons:block/hay_pile",
+    "particle": "duneons:block/hay_pile",
+    "0": "duneons:block/hay_pile",
+    "missing": "duneons:block/hay_pile"
+  },
+  "render_type": "cutout"
+}

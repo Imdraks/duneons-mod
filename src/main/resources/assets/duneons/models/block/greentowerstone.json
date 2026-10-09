@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/green_tower_stone",
+    "up": "duneons:block/green_tower_stone",
+    "north": "duneons:block/green_tower_stone",
+    "east": "duneons:block/green_tower_stone",
+    "south": "duneons:block/green_tower_stone",
+    "west": "duneons:block/green_tower_stone",
+    "particle": "duneons:block/green_tower_stone"
+  },
+  "render_type": "solid"
+}

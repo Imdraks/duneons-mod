@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/soul_scythe_spooky",
+  "textures": {
+    "0": "duneons:block/soul_scythe_spooky",
+    "particle": "duneons:item/soul_scythe_spooky"
+  }
+}

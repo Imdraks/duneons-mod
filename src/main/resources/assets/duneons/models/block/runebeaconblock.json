@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/rune_beacon",
+  "textures": {
+    "all": "duneons:block/rune_beacon",
+    "particle": "duneons:block/rune_beacon",
+    "0": "duneons:block/rune_beacon",
+    "missing": "duneons:block/rune_beacon"
+  },
+  "render_type": "solid"
+}

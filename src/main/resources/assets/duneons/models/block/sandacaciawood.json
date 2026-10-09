@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sand_acacia_wood",
+    "up": "duneons:block/sand_acacia_wood",
+    "north": "duneons:block/sand_acacia_wood",
+    "east": "duneons:block/sand_acacia_wood",
+    "south": "duneons:block/sand_acacia_wood",
+    "west": "duneons:block/sand_acacia_wood",
+    "particle": "duneons:block/sand_acacia_wood"
+  },
+  "render_type": "solid"
+}

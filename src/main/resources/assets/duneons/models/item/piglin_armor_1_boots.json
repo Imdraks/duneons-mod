@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/piglin2_layer_2_item"
+  }
+}

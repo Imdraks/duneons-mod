@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/squall_golem_stand",
+  "textures": {
+    "all": "duneons:block/squall_golem_stand",
+    "particle": "duneons:block/squall_golem_stand",
+    "0": "duneons:block/squall_golem_stand"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_leaves_beer",
+  "textures": {
+    "all": "duneons:block/sign_tavern",
+    "particle": "duneons:block/sign_tavern",
+    "0": "duneons:block/sign_tavern",
+    "missing": "duneons:block/sign_tavern"
+  },
+  "render_type": "cutout"
+}

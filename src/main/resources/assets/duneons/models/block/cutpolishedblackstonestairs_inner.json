@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/cut_polished_blackstone",
+    "bottom": "duneons:block/cut_polished_blackstone",
+    "top": "duneons:block/cut_polished_blackstone",
+    "side": "duneons:block/cut_polished_blackstone"
+  },
+  "render_type": "solid"
+}

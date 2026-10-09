@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/flower_swamp",
+  "textures": {
+    "all": "duneons:block/flower_swamp_item",
+    "particle": "duneons:block/flower_swamp_item",
+    "1": "duneons:block/flower_swamp",
+    "missing": "duneons:block/flower_swamp"
+  },
+  "render_type": "cutout"
+}

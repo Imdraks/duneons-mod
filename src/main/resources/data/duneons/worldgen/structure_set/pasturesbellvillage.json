@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:pasturesbellvillage",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 18,
+    "salt": 327206739
+  }
+}

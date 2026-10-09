@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tiki_torch",
+  "textures": {
+    "all": "duneons:block/tiki_torch",
+    "particle": "duneons:block/tiki_torch",
+    "0": "duneons:block/tiki_torch"
+  },
+  "render_type": "cutout"
+}

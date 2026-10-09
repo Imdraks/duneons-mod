@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/purple_bubble_coral_dead"
+  },
+  "render_type": "translucent"
+}

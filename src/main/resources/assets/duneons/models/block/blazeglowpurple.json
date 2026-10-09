@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/blaze_glow_purple",
+  "textures": {
+    "all": "duneons:block/t_3_purple",
+    "particle": "duneons:block/t_3_purple",
+    "1": "duneons:block/t_3_purple",
+    "missing": "duneons:block/t_3_purple"
+  },
+  "render_type": "cutout"
+}

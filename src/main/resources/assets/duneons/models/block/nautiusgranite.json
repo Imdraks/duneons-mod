@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/nautius_granite",
+    "up": "duneons:block/nautius_granite",
+    "north": "duneons:block/nautius_granite",
+    "east": "duneons:block/nautius_granite",
+    "south": "duneons:block/nautius_granite",
+    "west": "duneons:block/nautius_granite",
+    "particle": "duneons:block/nautius_granite"
+  },
+  "render_type": "solid"
+}

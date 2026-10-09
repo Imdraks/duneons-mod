@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/creeperwoods_allium",
+    "particle": "duneons:block/creeperwoods_allium"
+  },
+  "render_type": "cutout"
+}

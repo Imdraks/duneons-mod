@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/mossy_cobblestone",
+    "bottom": "duneons:block/mossy_cobblestone",
+    "top": "duneons:block/mossy_cobblestone",
+    "side": "duneons:block/mossy_cobblestone"
+  },
+  "render_type": "solid"
+}

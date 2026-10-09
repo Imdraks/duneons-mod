@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/core",
+  "textures": {
+    "all": "duneons:block/core",
+    "particle": "duneons:block/core",
+    "0": "duneons:block/core"
+  },
+  "render_type": "cutout"
+}

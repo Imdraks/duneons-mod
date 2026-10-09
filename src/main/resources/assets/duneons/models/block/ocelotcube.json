@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ocelot_cube",
+  "textures": {
+    "all": "duneons:block/chiseled_stone_bricks_2",
+    "particle": "duneons:block/chiseled_stone_bricks_2",
+    "2": "duneons:block/t_dj_puzzleblocks"
+  },
+  "render_type": "solid"
+}

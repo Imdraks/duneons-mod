@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/flower_vase",
+  "textures": {
+    "all": "duneons:block/flower_vase",
+    "particle": "duneons:block/bamboo_grass_top1",
+    "0": "duneons:block/flower_vase"
+  },
+  "render_type": "cutout"
+}

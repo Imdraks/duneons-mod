@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_cacti2",
+  "textures": {
+    "all": "duneons:block/cacti_leaves",
+    "particle": "duneons:block/cacti_leaves",
+    "1": "duneons:block/cacti_leaves_outer",
+    "3": "duneons:block/cacti_leaves"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lever",
+  "textures": {
+    "all": "duneons:block/t_lever",
+    "particle": "duneons:block/t_lever",
+    "0": "duneons:block/t_lever",
+    "missing": "duneons:block/t_lever"
+  },
+  "render_type": "solid"
+}

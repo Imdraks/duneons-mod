@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/scaly_prismarine",
+    "up": "duneons:block/scaly_prismarine",
+    "north": "duneons:block/monument_bookshelf",
+    "east": "duneons:block/monument_bookshelf",
+    "south": "duneons:block/monument_bookshelf",
+    "west": "duneons:block/monument_bookshelf",
+    "particle": "duneons:block/scaly_prismarine"
+  },
+  "render_type": "solid"
+}

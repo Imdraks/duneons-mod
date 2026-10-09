@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/core_wire_coloon",
+  "textures": {
+    "all": "duneons:block/core",
+    "particle": "duneons:block/core",
+    "0": "duneons:block/core"
+  },
+  "render_type": "solid"
+}

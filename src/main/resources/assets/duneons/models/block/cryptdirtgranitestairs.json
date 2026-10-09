@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/crypt_dirt_granite",
+    "bottom": "duneons:block/crypt_dirt_granite",
+    "top": "duneons:block/crypt_dirt_granite",
+    "side": "duneons:block/crypt_dirt_granite"
+  },
+  "render_type": "solid"
+}

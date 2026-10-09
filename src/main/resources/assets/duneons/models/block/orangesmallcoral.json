@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/orange_small_coral",
+    "particle": "duneons:block/orange_small_coral"
+  },
+  "render_type": "cutout"
+}

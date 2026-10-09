@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/barrel_closed_beer",
+  "textures": {
+    "all": "duneons:block/barrel_closed_beer",
+    "particle": "duneons:block/barrelparticle",
+    "2": "duneons:block/barrel_closed_beer"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/gold_key_diamond",
+  "textures": {
+    "0": "duneons:block/key_diamond",
+    "1": "duneons:block/key_diamond_face1",
+    "particle": "duneons:item/diamond_key_icon"
+  }
+}

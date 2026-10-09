@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/highblockhalls_door.item",
+  "textures": {
+    "particle": "duneons:block/highblockhalls_enddoor"
+  }
+}

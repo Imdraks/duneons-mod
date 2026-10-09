@@ -1,0 +1,66 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/sandrise/block/0"
+      },
+      {
+        "model": "block/sandrise/block/1"
+      },
+      {
+        "model": "block/sandrise/block/2"
+      },
+      {
+        "model": "block/sandrise/block/3"
+      },
+      {
+        "model": "block/sandrise/block/4"
+      },
+      {
+        "model": "block/sandrise/block/5"
+      },
+      {
+        "model": "block/sandrise/block/6"
+      },
+      {
+        "model": "block/sandrise/block/7"
+      },
+      {
+        "model": "block/sandrise/block/8"
+      },
+      {
+        "model": "block/sandrise/block/9"
+      },
+      {
+        "model": "block/sandrise/block/10"
+      },
+      {
+        "model": "block/sandrise/block/11"
+      },
+      {
+        "model": "block/sandrise/block/12"
+      },
+      {
+        "model": "block/sandrise/block/13"
+      },
+      {
+        "model": "block/sandrise/block/14"
+      },
+      {
+        "model": "block/sandrise/block/15"
+      },
+      {
+        "model": "block/sandrise/block/16"
+      },
+      {
+        "model": "block/sandrise/block/17"
+      },
+      {
+        "model": "block/sandrise/block/18"
+      },
+      {
+        "model": "block/sandrise/block/19"
+      }
+    ]
+  }
+}

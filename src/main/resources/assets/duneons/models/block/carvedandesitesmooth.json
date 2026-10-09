@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bamboo_bricker",
+    "up": "duneons:block/bamboo_bricker",
+    "north": "duneons:block/carved_andesite_smooth",
+    "east": "duneons:block/carved_andesite_smooth",
+    "south": "duneons:block/carved_andesite_smooth",
+    "west": "duneons:block/carved_andesite_smooth",
+    "particle": "duneons:block/bamboo_bricker"
+  },
+  "render_type": "solid"
+}

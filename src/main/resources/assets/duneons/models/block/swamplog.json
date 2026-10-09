@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/wood_mossy_oak_top",
+    "up": "duneons:block/wood_mossy_oak_top",
+    "north": "duneons:block/swamp_log",
+    "east": "duneons:block/swamp_log",
+    "south": "duneons:block/swamp_log",
+    "west": "duneons:block/swamp_log",
+    "particle": "duneons:block/wood_mossy_oak_top"
+  },
+  "render_type": "solid"
+}

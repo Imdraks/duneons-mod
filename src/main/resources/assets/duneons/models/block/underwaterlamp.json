@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/underwater_lamp",
+  "textures": {
+    "all": "duneons:block/underwater_lamp",
+    "particle": "duneons:block/underwater_lamp",
+    "0": "duneons:block/underwater_lamp"
+  },
+  "render_type": "solid"
+}

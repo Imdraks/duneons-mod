@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/redstone_monstrosity_totem_new",
+  "textures": {
+    "all": "duneons:blocks/redstone_monstrosity_totem",
+    "particle": "duneons:blocks/redstone_monstrosity_totem",
+    "0": "duneons:blocks/redstone_monstrosity_totem",
+    "missing": "duneons:blocks/redstone_monstrosity_totem"
+  }
+}

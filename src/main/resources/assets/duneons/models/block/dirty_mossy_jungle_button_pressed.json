@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "duneons:block/dirty_mossy_jungle_planks",
+    "texture": "duneons:block/dirty_mossy_jungle_planks"
+  },
+  "render_type": "solid"
+}

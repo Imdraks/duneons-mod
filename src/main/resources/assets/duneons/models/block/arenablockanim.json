@@ -1,0 +1,12 @@
+{
+  "parent": "duneons:custom/arena_eye_active",
+  "textures": {
+    "all": "duneons:block/arena_eye_block_active",
+    "particle": "duneons:block/arena_eye_block_active",
+    "0": "duneons:block/arena_eye_block_active",
+    "2": "duneons:block/arena_eye_top",
+    "3": "duneons:block/arena_eye_block_down",
+    "4": "duneons:block/arena_eye_block_laser"
+  },
+  "render_type": "cutout"
+}

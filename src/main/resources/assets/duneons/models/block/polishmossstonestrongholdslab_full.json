@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/polish_moss_stone_stronghold",
+    "bottom": "duneons:block/polish_moss_stone_stronghold",
+    "top": "duneons:block/polish_moss_stone_stronghold",
+    "side": "duneons:block/polish_moss_stone_stronghold"
+  },
+  "render_type": "solid"
+}

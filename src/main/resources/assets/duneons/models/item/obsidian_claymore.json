@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/obsidianclaymore",
+  "textures": {
+    "0": "duneons:block/obsidianclaymore",
+    "particle": "duneons:item/obsidianclaymore"
+  }
+}

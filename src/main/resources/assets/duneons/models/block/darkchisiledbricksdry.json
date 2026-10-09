@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_chisiled_bricks_dry",
+    "up": "duneons:block/dark_chisiled_bricks_dry",
+    "north": "duneons:block/dark_chisiled_bricks_dry",
+    "east": "duneons:block/dark_chisiled_bricks_dry",
+    "south": "duneons:block/dark_chisiled_bricks_dry",
+    "west": "duneons:block/dark_chisiled_bricks_dry",
+    "particle": "duneons:block/dark_chisiled_bricks_dry"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/end_pink_flower",
+    "particle": "duneons:block/end_pink_flower"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/pastures_fern_tall_top",
+    "particle": "duneons:block/pastures_fern_tall_top"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ice_fort_lamp_off",
+    "up": "duneons:block/ice_fort_lamp_off",
+    "north": "duneons:block/ice_fort_lamp_off",
+    "east": "duneons:block/ice_fort_lamp_off",
+    "south": "duneons:block/ice_fort_lamp_off",
+    "west": "duneons:block/ice_fort_lamp_off",
+    "particle": "duneons:block/ice_fort_lamp_off"
+  },
+  "render_type": "solid"
+}

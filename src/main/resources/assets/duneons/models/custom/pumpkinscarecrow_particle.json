@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/scarecrow",
+  "textures": {
+    "particle": "duneons:block/scarecrow"
+  }
+}

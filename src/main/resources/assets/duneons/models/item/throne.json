@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/throne_back",
+  "textures": {
+    "0": "duneons:block/throne",
+    "missing": "duneons:block/throne",
+    "particle": "duneons:item/enchantermerchantcloth"
+  }
+}

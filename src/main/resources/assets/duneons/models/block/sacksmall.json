@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sack_small",
+  "textures": {
+    "all": "duneons:block/sack_small",
+    "particle": "duneons:block/sack_small",
+    "0": "duneons:block/sack_small"
+  },
+  "render_type": "solid"
+}

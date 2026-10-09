@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aaa","bbb"],"key":{"a":"minecraft:string","b":"duneons:bridgeplanks"},"result":{"id":"duneons:bigbridge","count":16}}

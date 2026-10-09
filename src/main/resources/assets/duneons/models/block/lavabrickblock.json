@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/piston_relay_top",
+    "up": "duneons:block/piston_relay_top",
+    "north": "duneons:block/relay_piston_side",
+    "east": "duneons:block/relay_piston_left",
+    "south": "duneons:block/lava_indicator_top",
+    "west": "duneons:block/relay_piston_right",
+    "particle": "duneons:block/piston_relay_top"
+  },
+  "render_type": "solid"
+}

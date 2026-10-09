@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/reeds_planes",
+  "textures": {
+    "all": "duneons:block/t_reed_planes",
+    "particle": "duneons:block/t_reed_planes",
+    "0": "duneons:block/t_reed_planes",
+    "missing": "duneons:block/t_reed_planes"
+  },
+  "render_type": "cutout"
+}

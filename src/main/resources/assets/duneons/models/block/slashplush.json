@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/slash_statuette",
+  "textures": {
+    "all": "duneons:block/slash_statuette",
+    "particle": "duneons:block/statuette_frame",
+    "1": "duneons:block/slash_statuette",
+    "2": "duneons:block/statuette_frame",
+    "missing": "duneons:block/slash_statuette"
+  },
+  "render_type": "cutout"
+}

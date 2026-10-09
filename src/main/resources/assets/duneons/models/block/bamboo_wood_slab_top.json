@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/planks_bambbo",
+    "bottom": "duneons:block/planks_bambbo",
+    "top": "duneons:block/planks_bambbo",
+    "side": "duneons:block/planks_bambbo"
+  },
+  "render_type": "solid"
+}

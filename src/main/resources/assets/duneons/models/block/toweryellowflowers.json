@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/yellow_flowers",
+  "textures": {
+    "all": "duneons:block/tower_yellow_flowers",
+    "particle": "duneons:block/tower_yellow_flowers",
+    "0": "duneons:block/tower_yellow_flowers",
+    "missing": "duneons:block/tower_yellow_flowers"
+  },
+  "render_type": "cutout"
+}

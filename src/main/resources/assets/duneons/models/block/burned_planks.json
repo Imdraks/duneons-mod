@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "duneons:block/burned_planks",
+    "particle": "duneons:block/burned_planks"
+  },
+  "render_type": "solid"
+}

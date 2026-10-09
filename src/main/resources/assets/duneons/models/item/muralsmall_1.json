@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/t_am_mural_small1_icon"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/soggydirt/block/0"
+      },
+      {
+        "model": "block/soggydirt/block/1"
+      },
+      {
+        "model": "block/soggydirt/block/2"
+      },
+      {
+        "model": "block/soggydirt/block/3"
+      },
+      {
+        "model": "block/soggydirt/block/4"
+      },
+      {
+        "model": "block/soggydirt/block/5"
+      },
+      {
+        "model": "block/soggydirt/block/6"
+      }
+    ]
+  }
+}

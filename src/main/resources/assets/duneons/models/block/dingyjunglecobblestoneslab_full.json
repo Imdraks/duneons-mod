@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/ingyjungle_obblestone",
+    "bottom": "duneons:block/ingyjungle_obblestone",
+    "top": "duneons:block/ingyjungle_obblestone",
+    "side": "duneons:block/ingyjungle_obblestone"
+  },
+  "render_type": "solid"
+}

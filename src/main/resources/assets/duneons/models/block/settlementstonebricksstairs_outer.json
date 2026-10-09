@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/settlement_stonebricks",
+    "bottom": "duneons:block/settlement_stonebricks",
+    "top": "duneons:block/settlement_stonebricks",
+    "side": "duneons:block/settlement_stonebricks"
+  },
+  "render_type": "solid"
+}

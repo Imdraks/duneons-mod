@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/green_vase_long",
+  "textures": {
+    "all": "duneons:block/fancy_urn_1",
+    "particle": "duneons:block/fancy_urn_1",
+    "0": "duneons:block/fancy_urn_1"
+  },
+  "render_type": "solid"
+}

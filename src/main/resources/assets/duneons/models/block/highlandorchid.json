@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/highland_orchid",
+    "particle": "duneons:block/highland_orchid"
+  },
+  "render_type": "cutout"
+}

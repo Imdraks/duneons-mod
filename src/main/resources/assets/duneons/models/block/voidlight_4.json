@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/void_light4",
+  "textures": {
+    "all": "duneons:block/void_light",
+    "particle": "duneons:block/void_light",
+    "0": "duneons:block/void_light"
+  },
+  "render_type": "translucent"
+}

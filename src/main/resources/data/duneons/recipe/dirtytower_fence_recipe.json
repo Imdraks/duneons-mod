@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","group":"wooden_fence","category":"misc","pattern":["aba","aba"],"key":{"a":"duneons:dirtytower_planks","b":"minecraft:stick"},"result":{"id":"duneons:dirtytower_fence","count":3}}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "duneons:block/swamp_grass_top",
+    "top": "duneons:block/swamp_grass_top",
+    "side": "duneons:block/swamp_grass_top",
+    "overlay": "duneons:block/swamp_grass_top",
+    "particle": "duneons:block/swamp_grass_top"
+  },
+  "render_type": "solid"
+}

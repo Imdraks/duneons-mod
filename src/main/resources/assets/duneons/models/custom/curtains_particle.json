@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/big_furnace",
+  "textures": {
+    "particle": "duneons:block/curtains"
+  }
+}

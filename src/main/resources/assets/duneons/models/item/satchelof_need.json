@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/satchelof_nourishment",
+  "textures": {
+    "0": "duneons:block/satchelofnourishment",
+    "missing": "duneons:block/satchelofnourishment",
+    "particle": "duneons:item/satchel_of_snacks_icon"
+  }
+}

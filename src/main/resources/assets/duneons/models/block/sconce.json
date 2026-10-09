@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sconce",
+  "textures": {
+    "all": "duneons:block/sconce",
+    "particle": "duneons:block/stone_ice",
+    "0": "duneons:block/sconce"
+  },
+  "render_type": "cutout"
+}

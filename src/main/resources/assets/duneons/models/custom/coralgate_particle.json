@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/coral_gate",
+  "textures": {
+    "particle": "duneons:block/coral_gate"
+  }
+}

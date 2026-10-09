@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/crate",
+  "textures": {
+    "all": "duneons:block/crate",
+    "particle": "duneons:block/crate",
+    "0": "duneons:block/crate"
+  },
+  "render_type": "solid"
+}

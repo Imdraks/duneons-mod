@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/content_block",
+  "textures": {
+    "all": "duneons:block/content_block_front",
+    "particle": "duneons:block/content_block_front",
+    "2": "duneons:block/content_block_front"
+  },
+  "render_type": "solid"
+}

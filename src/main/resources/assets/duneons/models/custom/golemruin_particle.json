@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/golem_ruin",
+  "textures": {
+    "particle": "duneons:block/redstone_golem_noactive"
+  }
+}

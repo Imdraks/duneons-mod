@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/moss_troom_grass",
+    "up": "duneons:block/moss_troom_grass",
+    "north": "duneons:block/moss_troom_grass",
+    "east": "duneons:block/moss_troom_grass",
+    "south": "duneons:block/moss_troom_grass",
+    "west": "duneons:block/moss_troom_grass",
+    "particle": "duneons:block/moss_troom_grass"
+  },
+  "render_type": "solid"
+}

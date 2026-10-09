@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/lonely_dirt",
+    "up": "duneons:block/lonely_dirt",
+    "north": "duneons:block/lonely_dirt",
+    "east": "duneons:block/lonely_dirt",
+    "south": "duneons:block/lonely_dirt",
+    "west": "duneons:block/lonely_dirt",
+    "particle": "duneons:block/lonely_dirt"
+  },
+  "render_type": "solid"
+}

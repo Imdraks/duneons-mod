@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/damaged_soggy__stone_bricks",
+    "up": "duneons:block/damaged_soggy__stone_bricks",
+    "north": "duneons:block/damaged_soggy__stone_bricks",
+    "east": "duneons:block/damaged_soggy__stone_bricks",
+    "south": "duneons:block/damaged_soggy__stone_bricks",
+    "west": "duneons:block/damaged_soggy__stone_bricks",
+    "particle": "duneons:block/damaged_soggy__stone_bricks"
+  },
+  "render_type": "solid"
+}

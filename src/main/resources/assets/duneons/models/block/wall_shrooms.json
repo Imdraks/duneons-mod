@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/wallshrooms_4",
+  "textures": {
+    "all": "duneons:block/wallshrooms",
+    "particle": "duneons:block/wallshrooms",
+    "0": "duneons:block/wallshrooms",
+    "missing": "duneons:block/wallshrooms"
+  },
+  "render_type": "cutout"
+}

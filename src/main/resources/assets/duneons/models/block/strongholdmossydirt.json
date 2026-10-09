@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stronghold_mossy_dirt",
+    "up": "duneons:block/stronghold_mossy_dirt",
+    "north": "duneons:block/stronghold_mossy_dirt",
+    "east": "duneons:block/stronghold_mossy_dirt",
+    "south": "duneons:block/stronghold_mossy_dirt",
+    "west": "duneons:block/stronghold_mossy_dirt",
+    "particle": "duneons:block/stronghold_mossy_dirt"
+  },
+  "render_type": "solid"
+}

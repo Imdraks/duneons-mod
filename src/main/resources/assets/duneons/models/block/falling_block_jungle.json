@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/fallingblock_jungle",
+    "up": "duneons:block/fallingblock_jungle",
+    "north": "duneons:block/fallingblock_jungle",
+    "east": "duneons:block/fallingblock_jungle",
+    "south": "duneons:block/fallingblock_jungle",
+    "west": "duneons:block/fallingblock_jungle",
+    "particle": "duneons:block/fallingblock_jungle"
+  },
+  "render_type": "solid"
+}

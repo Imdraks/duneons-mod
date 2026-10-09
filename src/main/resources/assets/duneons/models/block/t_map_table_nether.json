@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/dark_stone_table",
+  "textures": {
+    "all": "duneons:block/t_maptable",
+    "particle": "duneons:block/t_maptable",
+    "0": "duneons:block/t_maptable_nether",
+    "missing": "duneons:block/t_maptable_nether"
+  },
+  "render_type": "cutout"
+}

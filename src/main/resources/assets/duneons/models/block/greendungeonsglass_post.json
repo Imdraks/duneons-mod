@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "duneons:block/green_glass",
+    "edge": "duneons:block/green_glass",
+    "pane": "duneons:block/green_glass"
+  },
+  "render_type": "translucent"
+}

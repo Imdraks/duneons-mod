@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tent_final",
+  "textures": {
+    "all": "duneons:block/tent_final",
+    "particle": "duneons:block/tent_final",
+    "0": "duneons:block/tent_final"
+  },
+  "render_type": "cutout"
+}

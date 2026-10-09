@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/green_vase",
+  "textures": {
+    "all": "duneons:block/t_vase_big",
+    "particle": "duneons:block/t_vase_big",
+    "0": "duneons:block/t_vase_big",
+    "missing": "duneons:block/t_vase_big"
+  },
+  "render_type": "cutout"
+}

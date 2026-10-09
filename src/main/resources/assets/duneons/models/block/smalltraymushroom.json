@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/small_tray_mushroom",
+  "textures": {
+    "all": "duneons:block/small_tray_mushroom",
+    "particle": "duneons:block/small_tray",
+    "0": "duneons:block/small_tray_mushroom"
+  },
+  "render_type": "solid"
+}

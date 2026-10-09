@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/glaive",
+  "textures": {
+    "0": "duneons:block/glaive",
+    "particle": "duneons:item/spear_skeelton"
+  }
+}

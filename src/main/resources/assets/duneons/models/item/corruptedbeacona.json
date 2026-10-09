@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/corrupted_beacon.item",
+  "textures": {
+    "layer0": "duneons:item/corrupted_beacon"
+  }
+}

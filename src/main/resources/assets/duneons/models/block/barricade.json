@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/barricade",
+  "textures": {
+    "all": "duneons:block/barricade",
+    "particle": "duneons:block/barricade",
+    "0": "duneons:block/barricade"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/urn_closed",
+  "textures": {
+    "all": "duneons:block/urn_closed",
+    "particle": "duneons:block/urn_closed",
+    "0": "duneons:block/urn_closed",
+    "missing": "duneons:block/urn_closed"
+  },
+  "render_type": "solid"
+}

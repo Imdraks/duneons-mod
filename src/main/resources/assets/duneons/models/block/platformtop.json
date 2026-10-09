@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/platform_top",
+  "textures": {
+    "all": "duneons:block/platform",
+    "particle": "duneons:block/platform",
+    "0": "duneons:block/platform"
+  },
+  "render_type": "solid"
+}

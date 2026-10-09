@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/overgrown_cobblestone",
+    "up": "duneons:block/overgrown_cobblestone",
+    "north": "duneons:block/overgrown_cobblestone",
+    "east": "duneons:block/overgrown_cobblestone",
+    "south": "duneons:block/overgrown_cobblestone",
+    "west": "duneons:block/overgrown_cobblestone",
+    "particle": "duneons:block/overgrown_cobblestone"
+  },
+  "render_type": "solid"
+}

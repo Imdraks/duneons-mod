@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/worm_end_tille",
+    "up": "duneons:block/worm_end_tille",
+    "north": "duneons:block/worm_end_tille",
+    "east": "duneons:block/worm_end_tille",
+    "south": "duneons:block/worm_end_tille",
+    "west": "duneons:block/worm_end_tille",
+    "particle": "duneons:block/worm_end_tille"
+  },
+  "render_type": "solid"
+}

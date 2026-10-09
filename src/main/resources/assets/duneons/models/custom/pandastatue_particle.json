@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/pandastatue",
+  "textures": {
+    "particle": "duneons:block/dungeons_panda_statue"
+  }
+}

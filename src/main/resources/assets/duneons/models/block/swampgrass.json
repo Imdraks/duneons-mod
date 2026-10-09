@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/swamp_fern",
+    "particle": "duneons:block/swamp_fern"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/patterned_basalt",
+    "up": "duneons:block/patterned_basalt",
+    "north": "duneons:block/patterned_basalt",
+    "east": "duneons:block/patterned_basalt",
+    "south": "duneons:block/patterned_basalt",
+    "west": "duneons:block/patterned_basalt",
+    "particle": "duneons:block/patterned_basalt"
+  },
+  "render_type": "solid"
+}

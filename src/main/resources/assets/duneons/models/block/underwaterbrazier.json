@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/underwater_brazier_prismarine_crystals",
+  "textures": {
+    "all": "duneons:block/brazier_vase",
+    "particle": "duneons:block/stone_ice",
+    "0": "duneons:block/underwater_brazier",
+    "missing": "duneons:block/underwater_brazier"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/red_snake",
+  "textures": {
+    "0": "duneons:block/red_snake",
+    "particle": "duneons:item/red_snake"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:redsnakebow_pulling": 1
+      },
+      "model": "duneons:item/redsnakebow_0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/mobmasher",
+  "textures": {
+    "1": "duneons:block/t_powershaker",
+    "missing": "duneons:block/t_powershaker",
+    "particle": "duneons:item/t_mobmasher_gearicon"
+  }
+}

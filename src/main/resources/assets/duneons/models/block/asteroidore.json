@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/asteroid_ore",
+    "up": "duneons:block/asteroid_ore",
+    "north": "duneons:block/asteroid_ore",
+    "east": "duneons:block/asteroid_ore",
+    "south": "duneons:block/asteroid_ore",
+    "west": "duneons:block/asteroid_ore",
+    "particle": "duneons:block/asteroid_ore"
+  },
+  "render_type": "solid"
+}

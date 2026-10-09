@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cacti_moss",
+    "up": "duneons:block/cacti_moss",
+    "north": "duneons:block/cacti_moss",
+    "east": "duneons:block/cacti_moss",
+    "south": "duneons:block/cacti_moss",
+    "west": "duneons:block/cacti_moss",
+    "particle": "duneons:block/cacti_moss"
+  },
+  "render_type": "solid"
+}

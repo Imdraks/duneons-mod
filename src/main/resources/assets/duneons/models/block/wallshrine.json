@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/wallshrine",
+  "textures": {
+    "all": "duneons:block/wallshrine",
+    "particle": "duneons:block/wallshrine",
+    "0": "duneons:block/wallshrine",
+    "missing": "duneons:block/wallshrine"
+  },
+  "render_type": "cutout"
+}

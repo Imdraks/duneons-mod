@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/large_metal_brazier",
+  "textures": {
+    "all": "duneons:block/large_metal_brazier",
+    "particle": "duneons:block/large_metal_brazier",
+    "0": "duneons:block/large_metal_brazier",
+    "missing": "duneons:block/large_metal_brazier"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/wolf_boots_icon_dark"
+  }
+}

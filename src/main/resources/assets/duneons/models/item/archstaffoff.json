@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/staff_arch_item_off",
+  "textures": {
+    "particle": "duneons:item/the_green_menace"
+  }
+}

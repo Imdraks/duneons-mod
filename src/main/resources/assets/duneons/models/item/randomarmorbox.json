@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/randomarmorbox",
+  "textures": {
+    "0": "duneons:block/randomarmorbox",
+    "particle": "duneons:item/randomarmorbox"
+  }
+}

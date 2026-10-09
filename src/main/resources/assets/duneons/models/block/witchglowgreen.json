@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/witch_glow_green",
+  "textures": {
+    "all": "duneons:block/t_toweruv_symbols-03",
+    "particle": "duneons:block/t_toweruv_symbols-03",
+    "1": "duneons:block/t_toweruv_symbols-03",
+    "missing": "duneons:block/t_toweruv_symbols-03"
+  },
+  "render_type": "cutout"
+}

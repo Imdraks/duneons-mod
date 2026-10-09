@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/rune_cross",
+    "up": "duneons:block/rune_cross",
+    "north": "duneons:block/rune_cross",
+    "east": "duneons:block/rune_cross",
+    "south": "duneons:block/rune_cross",
+    "west": "duneons:block/rune_cross",
+    "particle": "duneons:block/rune_cross"
+  },
+  "render_type": "solid"
+}

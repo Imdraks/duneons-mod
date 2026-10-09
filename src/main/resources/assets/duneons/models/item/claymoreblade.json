@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/claymore_axeblade_1.11",
+  "textures": {
+    "0": "duneons:block/claymore_axeblade",
+    "missing": "duneons:block/claymore_axeblade",
+    "particle": "duneons:item/claymore_blade"
+  }
+}

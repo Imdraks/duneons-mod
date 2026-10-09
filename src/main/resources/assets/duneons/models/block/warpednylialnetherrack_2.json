@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/warped_nylial_netherrack2",
+    "up": "duneons:block/warped_nylial_netherrack2",
+    "north": "duneons:block/warped_nylial_netherrack2",
+    "east": "duneons:block/warped_nylial_netherrack2",
+    "south": "duneons:block/warped_nylial_netherrack2",
+    "west": "duneons:block/warped_nylial_netherrack2",
+    "particle": "duneons:block/warped_nylial_netherrack2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/humanvase",
+  "textures": {
+    "all": "duneons:block/humanvase",
+    "particle": "duneons:block/humanvase",
+    "0": "duneons:block/humanvase"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/firebrand",
+  "textures": {
+    "0": "duneons:block/halbrend",
+    "particle": "duneons:item/firebrand"
+  }
+}

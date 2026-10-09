@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/chainplane",
+  "textures": {
+    "all": "duneons:block/chainplane",
+    "particle": "duneons:block/chainplane",
+    "0": "duneons:block/chainplane"
+  },
+  "render_type": "cutout"
+}

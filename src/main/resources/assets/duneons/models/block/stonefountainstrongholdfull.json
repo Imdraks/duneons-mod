@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/stonefountain_stronghold_water",
+  "textures": {
+    "all": "duneons:block/stonefountain_stronghold",
+    "particle": "duneons:block/stonefountain_stronghold",
+    "0": "duneons:block/stonefountain_stronghold",
+    "2": "duneons:block/fountain_water"
+  },
+  "render_type": "solid"
+}

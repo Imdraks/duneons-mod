@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/corrupted_seeds",
+  "textures": {
+    "0": "duneons:block/corrupted_seeds",
+    "particle": "duneons:item/t_corruptedseeds_gearicon"
+  }
+}

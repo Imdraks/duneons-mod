@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_andesite",
+    "up": "duneons:block/highland_grass_top",
+    "north": "duneons:block/black_andesite_grass_side",
+    "east": "duneons:block/black_andesite_grass_side",
+    "south": "duneons:block/black_andesite_grass_side",
+    "west": "duneons:block/black_andesite_grass_side",
+    "particle": "duneons:block/highland_andesite"
+  },
+  "render_type": "solid"
+}

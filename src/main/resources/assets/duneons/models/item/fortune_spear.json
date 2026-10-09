@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/fortune_spear",
+  "textures": {
+    "0": "duneons:block/fortune_spear",
+    "particle": "duneons:item/fortune_spear"
+  }
+}

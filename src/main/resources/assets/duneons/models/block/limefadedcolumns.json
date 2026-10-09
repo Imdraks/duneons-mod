@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/lime_faded_columns_top",
+    "up": "duneons:block/lime_faded_columns_top",
+    "north": "duneons:block/lime_faded_columns",
+    "east": "duneons:block/lime_faded_columns",
+    "south": "duneons:block/lime_faded_columns",
+    "west": "duneons:block/lime_faded_columns",
+    "particle": "duneons:block/lime_faded_columns_top"
+  },
+  "render_type": "solid"
+}

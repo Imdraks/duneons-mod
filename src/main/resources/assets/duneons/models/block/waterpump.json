@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/water_pump",
+  "textures": {
+    "all": "duneons:block/water_pump",
+    "particle": "duneons:block/water_pump",
+    "2": "duneons:block/water_pump"
+  },
+  "render_type": "solid"
+}

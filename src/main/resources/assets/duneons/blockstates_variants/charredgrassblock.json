@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/charredgrassblock/block/0"
+      },
+      {
+        "model": "block/charredgrassblock/block/1"
+      },
+      {
+        "model": "block/charredgrassblock/block/2"
+      },
+      {
+        "model": "block/charredgrassblock/block/3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/cracked_smooth_prismarine4",
+    "particle": "duneons:block/cracked_smooth_prismarine4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/fossil_rock",
+    "up": "duneons:block/fossil_rock",
+    "north": "duneons:block/fossil_rock",
+    "east": "duneons:block/fossil_rock",
+    "south": "duneons:block/fossil_rock",
+    "west": "duneons:block/fossil_rock",
+    "particle": "duneons:block/fossil_rock"
+  },
+  "render_type": "solid"
+}

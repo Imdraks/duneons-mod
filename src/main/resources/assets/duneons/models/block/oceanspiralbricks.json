@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ocean_spirle_bricks",
+    "up": "duneons:block/ocean_spirle_bricks",
+    "north": "duneons:block/ocean_spirle_bricks",
+    "east": "duneons:block/ocean_spirle_bricks",
+    "south": "duneons:block/ocean_spirle_bricks",
+    "west": "duneons:block/ocean_spirle_bricks",
+    "particle": "duneons:block/ocean_spirle_bricks"
+  },
+  "render_type": "solid"
+}

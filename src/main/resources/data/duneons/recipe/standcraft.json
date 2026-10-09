@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["a ","ab","a "],"key":{"a":"minecraft:polished_andesite","b":"minecraft:torch"},"result":{"id":"duneons:standfortorch","count":1}}

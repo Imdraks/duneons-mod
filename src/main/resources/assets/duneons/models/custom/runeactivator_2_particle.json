@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/run_activator_2",
+  "textures": {
+    "particle": "duneons:block/run_activator_2"
+  }
+}

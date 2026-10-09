@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/vangard_door",
+  "textures": {
+    "all": "duneons:blocks/vangard_door",
+    "particle": "duneons:blocks/vangard_door",
+    "0": "duneons:blocks/vangard_door"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/hollowstonepillar",
+  "textures": {
+    "all": "duneons:block/blackstone_pillar_bricks",
+    "particle": "duneons:block/blackstone_pillar_bricks",
+    "1": "duneons:block/embedded_netherite",
+    "3": "duneons:block/embedded_blackstone_bricks"
+  },
+  "render_type": "solid"
+}

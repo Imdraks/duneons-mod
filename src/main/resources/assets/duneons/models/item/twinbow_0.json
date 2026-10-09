@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/twin_bow_pulling_2",
+  "textures": {
+    "0": "duneons:block/twin_bow_pulling_2",
+    "particle": "duneons:item/twin_bow"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/windhorn",
+  "textures": {
+    "1": "duneons:block/t_windhorn",
+    "particle": "duneons:item/wind_horn"
+  }
+}

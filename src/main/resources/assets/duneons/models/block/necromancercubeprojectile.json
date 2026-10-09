@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/necromancer_cube_projectile",
+  "textures": {
+    "all": "duneons:block/necromancer_ball",
+    "particle": "duneons:block/necromancer_ball",
+    "0": "duneons:block/necromancer_ball"
+  },
+  "render_type": "cutout"
+}

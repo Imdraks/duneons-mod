@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/dirty_dark_stone",
+    "bottom": "duneons:block/dirty_dark_stone",
+    "top": "duneons:block/dirty_dark_stone",
+    "side": "duneons:block/dirty_dark_stone"
+  },
+  "render_type": "solid"
+}

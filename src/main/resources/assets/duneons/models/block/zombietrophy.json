@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/zombie_trophy",
+  "textures": {
+    "all": "duneons:block/mob_trophy",
+    "particle": "duneons:block/trophy_glass",
+    "1": "duneons:block/mob_trophy",
+    "missing": "duneons:block/mob_trophy"
+  },
+  "render_type": "cutout"
+}

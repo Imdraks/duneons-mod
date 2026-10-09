@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/creeper_snow",
+    "up": "duneons:block/creeper_snow",
+    "north": "duneons:block/creeper_snow",
+    "east": "duneons:block/creeper_snow",
+    "south": "duneons:block/creeper_snow",
+    "west": "duneons:block/creeper_snow",
+    "particle": "duneons:block/creeper_snow"
+  },
+  "render_type": "solid"
+}

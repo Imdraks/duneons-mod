@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/kelp_stonebircks",
+    "up": "duneons:block/kelp_stonebircks",
+    "north": "duneons:block/kelp_stonebircks",
+    "east": "duneons:block/kelp_stonebircks",
+    "south": "duneons:block/kelp_stonebircks",
+    "west": "duneons:block/kelp_stonebircks",
+    "particle": "duneons:block/kelp_stonebircks"
+  },
+  "render_type": "solid"
+}

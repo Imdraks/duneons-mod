@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/anchor",
+  "textures": {
+    "0": "duneons:block/anchor",
+    "particle": "duneons:item/anchor"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/soul_healer",
+  "textures": {
+    "0": "duneons:block/soul_healer",
+    "particle": "duneons:item/soul_healer_item"
+  }
+}

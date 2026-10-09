@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wind_bars_gray",
+  "textures": {
+    "all": "duneons:block/wind_hole_grey",
+    "particle": "duneons:block/dungeons_charred_grass_up",
+    "0": "duneons:block/wind_hole_grey"
+  },
+  "render_type": "cutout"
+}

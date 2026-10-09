@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/sand_cobblestone",
+    "bottom": "duneons:block/sand_cobblestone",
+    "top": "duneons:block/sand_cobblestone",
+    "side": "duneons:block/sand_cobblestone"
+  },
+  "render_type": "solid"
+}

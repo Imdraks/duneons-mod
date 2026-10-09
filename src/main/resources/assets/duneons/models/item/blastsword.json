@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/claymore",
+  "textures": {
+    "0": "duneons:block/laymore",
+    "particle": "duneons:item/claymore"
+  }
+}

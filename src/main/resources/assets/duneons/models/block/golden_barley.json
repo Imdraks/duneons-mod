@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/golden_barley",
+    "particle": "duneons:block/golden_barley"
+  },
+  "render_type": "cutout"
+}

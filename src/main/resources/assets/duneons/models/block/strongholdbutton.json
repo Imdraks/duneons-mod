@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stronghold_button",
+  "textures": {
+    "all": "duneons:block/ah_button",
+    "particle": "duneons:block/stronghold_button",
+    "0": "duneons:block/ah_button"
+  },
+  "render_type": "solid"
+}

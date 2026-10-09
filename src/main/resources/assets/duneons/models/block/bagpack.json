@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bagpack",
+  "textures": {
+    "all": "duneons:block/intro_props",
+    "particle": "duneons:block/intro_props",
+    "0": "duneons:block/intro_props"
+  },
+  "render_type": "cutout_mipped"
+}

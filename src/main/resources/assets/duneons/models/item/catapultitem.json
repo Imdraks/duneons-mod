@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/catapult",
+  "textures": {
+    "layer0": "duneons:item/battering_ram_new"
+  }
+}

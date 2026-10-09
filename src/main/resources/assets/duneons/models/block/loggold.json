@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bedroll",
+  "textures": {
+    "all": "duneons:block/bedroll",
+    "particle": "duneons:block/bedroll",
+    "0": "duneons:block/bedroll"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "up": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "north": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "east": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "south": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "west": "duneons:block/stone_diorite_smooth_frozenfjord",
+    "particle": "duneons:block/stone_diorite_smooth_frozenfjord"
+  },
+  "render_type": "solid"
+}

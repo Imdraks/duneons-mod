@@ -1,0 +1,12 @@
+{
+  "parent": "duneons:custom/end_grass_layer2",
+  "textures": {
+    "all": "duneons:block/end_grass",
+    "particle": "duneons:block/end_grass",
+    "0": "duneons:block/end_meshfades_stone_grass_top",
+    "1": "duneons:block/end_grass",
+    "2": "duneons:block/end_meshfades_grass_layer",
+    "missing": "duneons:block/end_meshfades_stone_grass_top"
+  },
+  "render_type": "cutout"
+}

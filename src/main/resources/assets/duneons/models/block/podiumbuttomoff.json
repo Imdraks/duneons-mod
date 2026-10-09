@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/button",
+  "textures": {
+    "all": "duneons:block/t_basebutton",
+    "particle": "duneons:block/t_basebutton",
+    "0": "duneons:block/t_basebutton"
+  },
+  "render_type": "solid"
+}

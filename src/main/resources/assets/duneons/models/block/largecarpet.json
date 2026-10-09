@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/large_carpet_new",
+  "textures": {
+    "all": "duneons:block/carpets",
+    "particle": "duneons:block/carpets",
+    "0": "duneons:block/carpets"
+  },
+  "render_type": "cutout"
+}

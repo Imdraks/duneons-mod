@@ -1,0 +1,30 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"animation_length": 10000,
+			"bones": {
+				"left": {
+					"position": {
+						"0.0": [-40, 0, 0],
+						"3.4": [0, 0, 0]
+					}
+				},
+				"right": {
+					"position": {
+						"0.0": [40, 0, 0],
+						"3.4": [0, 0, 0]
+					}
+				},
+				"tower_door": {
+					"position": [0, 0, 0.15]
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "close"
+				}
+			}
+		}
+	}
+}

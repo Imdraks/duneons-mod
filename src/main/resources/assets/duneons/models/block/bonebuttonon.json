@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bone_button_diffuse_on",
+  "textures": {
+    "all": "duneons:block/bone_button_diffuse",
+    "particle": "duneons:block/bone_button_diffuse",
+    "0": "duneons:block/bone_button_diffuse"
+  },
+  "render_type": "solid"
+}

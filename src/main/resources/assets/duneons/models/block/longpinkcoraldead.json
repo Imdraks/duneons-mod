@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/double_pink_coral_dead",
+  "textures": {
+    "all": "duneons:block/long_pink_ones_topdead",
+    "particle": "duneons:block/long_pink_ones_topdead",
+    "1": "duneons:block/double_dead_pink_coral_top",
+    "2": "duneons:block/double_dead_pink_coral_bottom"
+  },
+  "render_type": "cutout"
+}

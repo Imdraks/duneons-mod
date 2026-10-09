@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wind_hole_ochre",
+  "textures": {
+    "all": "duneons:block/wind_hole_ochre",
+    "particle": "duneons:block/highland_bricks_top",
+    "0": "duneons:block/wind_hole_ochre"
+  },
+  "render_type": "cutout"
+}

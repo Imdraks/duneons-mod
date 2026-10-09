@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/glaive_spooky",
+  "textures": {
+    "0": "duneons:block/glaive_spooky",
+    "particle": "duneons:item/glaive_spooky"
+  }
+}

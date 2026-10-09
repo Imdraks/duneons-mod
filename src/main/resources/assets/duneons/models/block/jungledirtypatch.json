@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/jungle_dirty_patch",
+  "textures": {
+    "all": "duneons:block/jungle_dirty_patch",
+    "particle": "duneons:block/jungle_dirty_patch",
+    "0": "duneons:block/jungle_dirty_patch"
+  },
+  "render_type": "solid"
+}

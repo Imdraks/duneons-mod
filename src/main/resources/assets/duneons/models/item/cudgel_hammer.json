@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/boneclub",
+  "textures": {
+    "0": "duneons:block/boneclub",
+    "particle": "duneons:item/boneclub"
+  }
+}

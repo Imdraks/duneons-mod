@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "duneons:block/brick_sand",
+    "particle": "duneons:block/brick_sand"
+  },
+  "render_type": "solid"
+}

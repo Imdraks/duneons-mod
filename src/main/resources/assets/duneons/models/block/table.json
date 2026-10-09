@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/table_1",
+  "textures": {
+    "all": "duneons:block/table",
+    "particle": "duneons:block/table",
+    "0": "duneons:block/table"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/andesite_highland_stone",
+    "bottom": "duneons:block/andesite_highland_stone",
+    "top": "duneons:block/andesite_highland_stone",
+    "side": "duneons:block/andesite_highland_stone"
+  },
+  "render_type": "solid"
+}

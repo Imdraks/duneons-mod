@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_lamp",
+    "up": "duneons:block/end_lamp",
+    "north": "duneons:block/end_lamp",
+    "east": "duneons:block/end_lamp",
+    "south": "duneons:block/end_lamp",
+    "west": "duneons:block/end_lamp",
+    "particle": "duneons:block/end_lamp"
+  },
+  "render_type": "solid"
+}

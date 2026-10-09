@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bed_gothic",
+  "textures": {
+    "all": "duneons:block/bed_gothic",
+    "particle": "duneons:block/bed_gothic",
+    "0": "duneons:block/bed_gothic"
+  },
+  "render_type": "cutout_mipped"
+}

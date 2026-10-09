@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/break_bamboo_cobblestone",
+    "up": "duneons:block/break_bamboo_cobblestone",
+    "north": "duneons:block/break_bamboo_cobblestone",
+    "east": "duneons:block/break_bamboo_cobblestone",
+    "south": "duneons:block/break_bamboo_cobblestone",
+    "west": "duneons:block/break_bamboo_cobblestone",
+    "particle": "duneons:block/break_bamboo_cobblestone"
+  },
+  "render_type": "solid"
+}

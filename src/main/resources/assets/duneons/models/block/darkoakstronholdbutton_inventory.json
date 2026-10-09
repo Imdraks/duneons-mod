@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "duneons:block/dark_oak_wood_stronghold",
+    "texture": "duneons:block/dark_oak_wood_stronghold"
+  },
+  "render_type": "solid"
+}

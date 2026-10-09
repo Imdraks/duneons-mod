@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dingy_jungle_cracked_stone",
+    "up": "duneons:block/dingy_jungle_cracked_stone",
+    "north": "duneons:block/dingy_jungle_cracked_stone",
+    "east": "duneons:block/dingy_jungle_cracked_stone",
+    "south": "duneons:block/dingy_jungle_cracked_stone",
+    "west": "duneons:block/dingy_jungle_cracked_stone",
+    "particle": "duneons:block/dingy_jungle_cracked_stone"
+  },
+  "render_type": "solid"
+}

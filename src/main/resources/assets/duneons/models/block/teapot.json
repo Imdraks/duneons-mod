@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/teapot",
+  "textures": {
+    "all": "duneons:block/teapot",
+    "particle": "duneons:block/teapot",
+    "0": "duneons:block/teapot",
+    "missing": "duneons:block/teapot"
+  },
+  "render_type": "cutout"
+}

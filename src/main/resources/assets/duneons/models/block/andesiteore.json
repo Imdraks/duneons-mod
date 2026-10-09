@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/andesite_ore",
+    "up": "duneons:block/andesite_ore",
+    "north": "duneons:block/andesite_ore",
+    "east": "duneons:block/andesite_ore",
+    "south": "duneons:block/andesite_ore",
+    "west": "duneons:block/andesite_ore",
+    "particle": "duneons:block/andesite_ore"
+  },
+  "render_type": "solid"
+}

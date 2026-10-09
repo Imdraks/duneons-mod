@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/palm_log",
+  "textures": {
+    "all": "duneons:block/jungleplant_stem",
+    "particle": "duneons:block/jungleplant_stem",
+    "0": "duneons:block/jungleplant_stem"
+  },
+  "render_type": "cutout"
+}

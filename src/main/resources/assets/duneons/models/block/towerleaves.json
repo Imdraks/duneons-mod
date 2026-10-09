@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_tower",
+  "textures": {
+    "all": "duneons:block/tower_leaves",
+    "particle": "duneons:block/tower_leaves",
+    "1": "duneons:block/tower_leaves_outer",
+    "2": "duneons:block/tower_leaves"
+  },
+  "render_type": "cutout"
+}

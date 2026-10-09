@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soilsand_seashell",
+    "up": "duneons:block/soilsand_seashell",
+    "north": "duneons:block/soilsand_seashell",
+    "east": "duneons:block/soilsand_seashell",
+    "south": "duneons:block/soilsand_seashell",
+    "west": "duneons:block/soilsand_seashell",
+    "particle": "duneons:block/soilsand_seashell"
+  },
+  "render_type": "solid"
+}

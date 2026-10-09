@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_piglin",
+  "textures": {
+    "all": "duneons:block/t_sign_piglin",
+    "particle": "duneons:block/t_sign_piglin",
+    "0": "duneons:block/t_sign_piglin",
+    "missing": "duneons:block/t_sign_piglin"
+  },
+  "render_type": "cutout"
+}

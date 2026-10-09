@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/core_lid",
+  "textures": {
+    "all": "duneons:block/t_corelid",
+    "particle": "duneons:block/t_corelid",
+    "0": "duneons:block/t_corelid"
+  },
+  "render_type": "cutout"
+}

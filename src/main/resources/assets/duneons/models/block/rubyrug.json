@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ruby_rug",
+  "textures": {
+    "all": "duneons:block/ruby_rug",
+    "particle": "duneons:block/ruby_rug",
+    "2": "duneons:block/ruby_rug"
+  },
+  "render_type": "cutout"
+}

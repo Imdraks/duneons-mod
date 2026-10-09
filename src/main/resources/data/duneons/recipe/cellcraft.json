@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aba","ccc","aba"],"key":{"a":"duneons:latticebriker","b":"duneons:dark_brick","c":"minecraft:iron_bars"},"result":{"id":"duneons:cell","count":1}}

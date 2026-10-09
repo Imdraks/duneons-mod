@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cloudy_block46",
+    "up": "duneons:block/cloudy_block46",
+    "north": "duneons:block/cloudy_block46",
+    "east": "duneons:block/cloudy_block46",
+    "south": "duneons:block/cloudy_block46",
+    "west": "duneons:block/cloudy_block46",
+    "particle": "duneons:block/cloudy_block46"
+  },
+  "render_type": "solid"
+}

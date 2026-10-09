@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/floor_mandala",
+  "textures": {
+    "all": "duneons:block/floor_mandala",
+    "particle": "duneons:block/floor_mandala",
+    "0": "duneons:block/floor_mandala",
+    "missing": "duneons:block/floor_mandala"
+  },
+  "render_type": "cutout"
+}

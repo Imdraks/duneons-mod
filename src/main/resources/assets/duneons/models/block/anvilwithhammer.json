@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/big_anvil",
+  "textures": {
+    "all": "duneons:block/big_anvil",
+    "particle": "duneons:block/big_anvil",
+    "0": "duneons:block/big_anvil"
+  },
+  "render_type": "cutout"
+}

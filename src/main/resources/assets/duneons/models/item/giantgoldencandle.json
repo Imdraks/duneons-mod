@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/giant_golden_candle_item"
+  },
+  "render_type": "translucent"
+}

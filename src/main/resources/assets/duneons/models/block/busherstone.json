@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/busher_stone",
+    "up": "duneons:block/busher_stone",
+    "north": "duneons:block/busher_stone",
+    "east": "duneons:block/busher_stone",
+    "south": "duneons:block/busher_stone",
+    "west": "duneons:block/busher_stone",
+    "particle": "duneons:block/busher_stone"
+  },
+  "render_type": "solid"
+}

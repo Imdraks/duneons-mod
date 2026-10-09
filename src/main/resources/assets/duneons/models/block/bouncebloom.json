@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bouncebloom",
+  "textures": {
+    "all": "duneons:block/bouncebloom",
+    "particle": "duneons:block/bouncebloom",
+    "0": "duneons:block/bouncebloom"
+  },
+  "render_type": "cutout"
+}

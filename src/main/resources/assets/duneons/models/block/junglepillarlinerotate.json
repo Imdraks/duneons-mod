@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/jungle_pillar_line_rotate",
+  "textures": {
+    "all": "duneons:block/jungle_pillar_line2",
+    "particle": "duneons:block/jungle_pillar_line2",
+    "0": "duneons:block/jungle_pillar_line2"
+  },
+  "render_type": "solid"
+}

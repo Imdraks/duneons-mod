@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/shadow_splinter",
+  "textures": {
+    "0": "duneons:block/shadow_splinter",
+    "particle": "duneons:item/shadowsplinter"
+  }
+}

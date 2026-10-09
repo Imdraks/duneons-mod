@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/updrafttome",
+  "textures": {
+    "0": "duneons:block/updrafttome",
+    "missing": "duneons:block/updrafttome",
+    "particle": "duneons:item/t_updrafttome_icon"
+  }
+}

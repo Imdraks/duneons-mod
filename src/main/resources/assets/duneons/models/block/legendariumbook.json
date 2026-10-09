@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/legendarium",
+  "textures": {
+    "all": "duneons:block/legendarium",
+    "particle": "duneons:block/legendarium",
+    "0": "duneons:block/legendarium"
+  },
+  "render_type": "cutout"
+}

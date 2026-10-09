@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/fallen_barrel",
+  "textures": {
+    "all": "duneons:block/barrel_closed_new",
+    "particle": "duneons:block/barrelparticle",
+    "0": "duneons:block/barrel_closed_new",
+    "missing": "duneons:block/barrel_closed_new"
+  },
+  "render_type": "solid"
+}

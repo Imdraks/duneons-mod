@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "duneons:block/dirtytower_planks",
+    "particle": "duneons:block/dirtytower_planks"
+  },
+  "render_type": "solid"
+}

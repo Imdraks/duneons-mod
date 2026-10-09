@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/car",
+  "textures": {
+    "particle": "duneons:block/cart_broken"
+  }
+}

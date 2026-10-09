@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/endermanstatue",
+  "textures": {
+    "particle": "duneons:block/chess_statue_queen"
+  }
+}

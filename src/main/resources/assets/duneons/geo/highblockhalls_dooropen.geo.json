@@ -1,0 +1,59 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.highblockhalls_dooropen",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [-8, 0, 0],
+					"cubes": [
+						{
+							"origin": [-8, 0, -1],
+							"size": [16, 40, 2],
+							"uv": {
+								"north": {"uv": [4, 28], "uv_size": [32, 64]},
+								"east": {"uv": [0, 28], "uv_size": [4, 64]},
+								"south": {"uv": [36, 28], "uv_size": [-32, 64]},
+								"west": {"uv": [36, 13], "uv_size": [4, 79]},
+								"up": {"uv": [33, 28], "uv_size": [-32, -4]},
+								"down": {"uv": [36, 96], "uv_size": [-32, -4]}
+							}
+						},
+						{
+							"origin": [-4, 40, -1],
+							"size": [12, 7, 2],
+							"uv": {
+								"north": {"uv": [12, 20], "uv_size": [24, 8]},
+								"east": {"uv": [4, 16], "uv_size": [8, 4]},
+								"south": {"uv": [36, 20], "uv_size": [-24, 8]},
+								"west": {"uv": [36, 20], "uv_size": [4, 8]},
+								"up": {"uv": [12, 20], "uv_size": [24, -4]},
+								"down": {"uv": [12, 2], "uv_size": [-12, -2]}
+							}
+						},
+						{
+							"origin": [0, 47, -1],
+							"size": [8, 7, 2],
+							"uv": {
+								"north": {"uv": [20, 12], "uv_size": [16, 8]},
+								"east": {"uv": [12, 8], "uv_size": [8, 4]},
+								"south": {"uv": [36, 12], "uv_size": [-16, 8]},
+								"west": {"uv": [36, 12], "uv_size": [4, 8]},
+								"up": {"uv": [20, 12], "uv_size": [16, -4]},
+								"down": {"uv": [8, 2], "uv_size": [-8, -2]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

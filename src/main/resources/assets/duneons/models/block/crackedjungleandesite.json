@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_jungle_andesite",
+    "up": "duneons:block/cracked_jungle_andesite",
+    "north": "duneons:block/cracked_jungle_andesite",
+    "east": "duneons:block/cracked_jungle_andesite",
+    "south": "duneons:block/cracked_jungle_andesite",
+    "west": "duneons:block/cracked_jungle_andesite",
+    "particle": "duneons:block/cracked_jungle_andesite"
+  },
+  "render_type": "solid"
+}

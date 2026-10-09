@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/fence_grid",
+  "textures": {
+    "all": "duneons:block/fence_grid",
+    "particle": "duneons:block/wire_mesh_block",
+    "0": "duneons:block/fence_grid",
+    "missing": "duneons:block/fence_grid"
+  },
+  "render_type": "cutout"
+}

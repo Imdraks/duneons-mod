@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/purple_pink_coral",
+    "up": "duneons:block/purple_pink_coral",
+    "north": "duneons:block/purple_pink_coral",
+    "east": "duneons:block/purple_pink_coral",
+    "south": "duneons:block/purple_pink_coral",
+    "west": "duneons:block/purple_pink_coral",
+    "particle": "duneons:block/purple_pink_coral"
+  },
+  "render_type": "solid"
+}

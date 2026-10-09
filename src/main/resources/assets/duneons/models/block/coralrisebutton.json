@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/coralrise_button",
+  "textures": {
+    "all": "duneons:block/coral_rise_button",
+    "particle": "duneons:block/coral_rise_button",
+    "0": "duneons:block/coral_rise_button"
+  },
+  "render_type": "solid"
+}

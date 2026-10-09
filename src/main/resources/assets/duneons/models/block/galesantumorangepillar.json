@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/galesantum_orange_pillar",
+    "up": "duneons:block/galesantum_orange_pillar",
+    "north": "duneons:block/galesantum_orange_pillar",
+    "east": "duneons:block/galesantum_orange_pillar",
+    "south": "duneons:block/galesantum_orange_pillar",
+    "west": "duneons:block/galesantum_orange_pillar",
+    "particle": "duneons:block/galesantum_orange_pillar"
+  },
+  "render_type": "solid"
+}

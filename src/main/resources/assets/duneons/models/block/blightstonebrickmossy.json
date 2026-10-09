@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/blight_stonebrick_mossy",
+    "up": "duneons:block/blight_stonebrick_mossy",
+    "north": "duneons:block/blight_stonebrick_mossy",
+    "east": "duneons:block/blight_stonebrick_mossy",
+    "south": "duneons:block/blight_stonebrick_mossy",
+    "west": "duneons:block/blight_stonebrick_mossy",
+    "particle": "duneons:block/blight_stonebrick_mossy"
+  },
+  "render_type": "solid"
+}

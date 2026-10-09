@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/moss_soggy_dirt",
+    "up": "duneons:block/moss_soggy_dirt",
+    "north": "duneons:block/moss_soggy_dirt",
+    "east": "duneons:block/moss_soggy_dirt",
+    "south": "duneons:block/moss_soggy_dirt",
+    "west": "duneons:block/moss_soggy_dirt",
+    "particle": "duneons:block/moss_soggy_dirt"
+  },
+  "render_type": "solid"
+}

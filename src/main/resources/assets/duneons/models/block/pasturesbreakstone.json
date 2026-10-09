@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/pastures_break_stone",
+    "up": "duneons:block/pastures_break_stone",
+    "north": "duneons:block/pastures_break_stone",
+    "east": "duneons:block/pastures_break_stone",
+    "south": "duneons:block/pastures_break_stone",
+    "west": "duneons:block/pastures_break_stone",
+    "particle": "duneons:block/pastures_break_stone"
+  },
+  "render_type": "solid"
+}

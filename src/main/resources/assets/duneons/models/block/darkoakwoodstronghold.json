@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_oak_wood_stronghold",
+    "up": "duneons:block/dark_oak_wood_stronghold",
+    "north": "duneons:block/dark_oak_wood_stronghold",
+    "east": "duneons:block/dark_oak_wood_stronghold",
+    "south": "duneons:block/dark_oak_wood_stronghold",
+    "west": "duneons:block/dark_oak_wood_stronghold",
+    "particle": "duneons:block/dark_oak_wood_stronghold"
+  },
+  "render_type": "solid"
+}

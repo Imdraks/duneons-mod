@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/overgrown_gravel",
+    "up": "duneons:block/overgrown_gravel",
+    "north": "duneons:block/overgrown_gravel",
+    "east": "duneons:block/overgrown_gravel",
+    "south": "duneons:block/overgrown_gravel",
+    "west": "duneons:block/overgrown_gravel",
+    "particle": "duneons:block/overgrown_gravel"
+  },
+  "render_type": "solid"
+}

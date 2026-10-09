@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/cloudy_block46",
+    "particle": "duneons:block/cloudy_block46"
+  },
+  "render_type": "solid"
+}

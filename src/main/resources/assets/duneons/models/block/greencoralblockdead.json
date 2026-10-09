@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/green_coral_blockdead",
+    "up": "duneons:block/green_coral_blockdead",
+    "north": "duneons:block/green_coral_blockdead",
+    "east": "duneons:block/green_coral_blockdead",
+    "south": "duneons:block/green_coral_blockdead",
+    "west": "duneons:block/green_coral_blockdead",
+    "particle": "duneons:block/green_coral_blockdead"
+  },
+  "render_type": "solid"
+}

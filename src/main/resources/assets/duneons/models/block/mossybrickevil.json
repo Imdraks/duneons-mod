@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mossy_dark_andesite_tiles",
+    "up": "duneons:block/mossy_dark_andesite_tiles",
+    "north": "duneons:block/mossy_evilbricks",
+    "east": "duneons:block/mossy_evilbricks",
+    "south": "duneons:block/mossy_evilbricks",
+    "west": "duneons:block/mossy_evilbricks",
+    "particle": "duneons:block/mossy_dark_andesite_tiles"
+  },
+  "render_type": "solid"
+}

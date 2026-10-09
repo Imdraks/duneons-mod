@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/burst_gale_bow",
+  "textures": {
+    "0": "duneons:block/burst_gale_bow",
+    "particle": "duneons:item/burst_gale_bowicon"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:burstgale_pulling": 1
+      },
+      "model": "duneons:item/burstgale_0"
+    }
+  ]
+}

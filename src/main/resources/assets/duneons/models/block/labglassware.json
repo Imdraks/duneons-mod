@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/labglassware_1",
+  "textures": {
+    "all": "duneons:block/labglassware",
+    "particle": "duneons:block/labglassware",
+    "0": "duneons:block/labglassware"
+  },
+  "render_type": "solid"
+}

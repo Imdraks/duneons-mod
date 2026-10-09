@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "particle": "duneons:block/soggy_swamp_mossy_polished_andesite"
+  },
+  "render_type": "solid"
+}

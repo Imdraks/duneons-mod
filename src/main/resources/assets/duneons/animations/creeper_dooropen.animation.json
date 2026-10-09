@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true,
+			"bones": {
+				"door1": {
+					"rotation": {
+						"vector": [0, 98, 0],
+						"easing": "linear"
+					}
+				},
+				"door2": {
+					"rotation": {
+						"vector": [0, -98, 0],
+						"easing": "linear"
+					}
+				},
+				"closed": {
+					"scale": {
+						"vector": [0, 0, 0],
+						"easing": "linear"
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

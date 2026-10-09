@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/exit_sign",
+  "textures": {
+    "all": "duneons:block/exit_wood",
+    "particle": "duneons:block/exit_wood",
+    "0": "duneons:block/exit_wood"
+  },
+  "render_type": "solid"
+}

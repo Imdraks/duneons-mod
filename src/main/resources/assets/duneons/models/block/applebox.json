@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/food_apple",
+  "textures": {
+    "all": "duneons:block/apple_box_top",
+    "particle": "duneons:block/apple_box_top",
+    "0": "duneons:block/apple_box_top",
+    "1": "duneons:block/box_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/spiritscythe",
+  "textures": {
+    "0": "duneons:block/spiritscythe",
+    "particle": "duneons:item/candle_item"
+  }
+}

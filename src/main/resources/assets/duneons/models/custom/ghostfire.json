@@ -1,0 +1,529 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "ghostfire",
+  "texture_size": [
+    64,
+    32
+  ],
+  "elements": [
+    {
+      "name": "projectile",
+      "from": [
+        5,
+        1,
+        -1
+      ],
+      "to": [
+        11,
+        7,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            2.75,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            0,
+            6.5,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "projectile",
+      "from": [
+        5,
+        1,
+        19
+      ],
+      "to": [
+        11,
+        7,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            5.5,
+            3.5,
+            8.5
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            0,
+            6.5,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "projectile",
+      "from": [
+        5,
+        1,
+        -1
+      ],
+      "to": [
+        11,
+        1,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            2.75,
+            4.5
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            9.25,
+            0,
+            10.75,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "projectile",
+      "from": [
+        5,
+        7,
+        -1
+      ],
+      "to": [
+        11,
+        7,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            2.75,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            0,
+            10.75,
+            10
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "projectile",
+      "from": [
+        5,
+        1,
+        -1
+      ],
+      "to": [
+        5,
+        7,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            2.75,
+            4.5
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            0,
+            10.75,
+            10
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "projectile",
+      "from": [
+        11,
+        1,
+        -1
+      ],
+      "to": [
+        11,
+        7,
+        19
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          4,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            2.75,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            9.25,
+            0,
+            10.75,
+            10
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            13
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            10,
+            8,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            11.5,
+            13,
+            6.5,
+            10
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            10,
+            0,
+            13
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {},
+  "groups": [
+    {
+      "name": "projectile",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+}

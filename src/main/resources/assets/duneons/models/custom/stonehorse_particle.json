@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/statue_horse",
+  "textures": {
+    "particle": "duneons:block/t_statuehorse_new"
+  }
+}

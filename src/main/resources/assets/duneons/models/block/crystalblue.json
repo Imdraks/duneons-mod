@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/crystal",
+  "textures": {
+    "all": "duneons:block/blue_crystal",
+    "particle": "duneons:block/blue_crystal",
+    "0": "duneons:block/blue_crystal"
+  },
+  "render_type": "cutout"
+}

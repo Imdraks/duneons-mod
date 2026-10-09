@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/wood_with_growths",
+    "bottom": "duneons:block/wood_with_growths",
+    "top": "duneons:block/wood_with_growths",
+    "side": "duneons:block/wood_with_growths"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/long_cage",
+  "textures": {
+    "particle": "duneons:block/long_cage"
+  }
+}

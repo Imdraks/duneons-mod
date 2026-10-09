@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/loaf",
+  "textures": {
+    "all": "duneons:block/loaf",
+    "particle": "duneons:block/loaf",
+    "0": "duneons:block/loaf"
+  },
+  "render_type": "cutout_mipped"
+}

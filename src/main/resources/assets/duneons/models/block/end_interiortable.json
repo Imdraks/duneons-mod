@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_interior",
+  "textures": {
+    "all": "duneons:block/t_endinteriorprops",
+    "particle": "duneons:block/t_endinteriorprops",
+    "0": "duneons:block/t_endinteriorprops",
+    "missing": "duneons:block/t_endinteriorprops"
+  },
+  "render_type": "cutout"
+}

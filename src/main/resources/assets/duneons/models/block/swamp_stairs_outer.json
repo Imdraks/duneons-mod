@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/swamp_planks",
+    "bottom": "duneons:block/swamp_planks",
+    "top": "duneons:block/swamp_planks",
+    "side": "duneons:block/swamp_planks"
+  },
+  "render_type": "solid"
+}

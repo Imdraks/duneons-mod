@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/plenty_sand",
+  "textures": {
+    "all": "duneons:block/t_interactive_sand_02",
+    "particle": "duneons:block/t_interactive_sand_02",
+    "0": "duneons:block/t_interactive_sand_02",
+    "missing": "duneons:block/t_interactive_sand_02"
+  },
+  "render_type": "solid"
+}

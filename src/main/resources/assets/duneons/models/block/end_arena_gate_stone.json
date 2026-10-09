@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/end_gate",
+  "textures": {
+    "all": "duneons:block/t_endarenagatestone",
+    "particle": "duneons:block/t_endarenagatestone",
+    "0": "duneons:block/t_endarenagatestone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/redstonecrystal_1",
+  "textures": {
+    "all": "duneons:block/redstone_crystal",
+    "particle": "duneons:block/dungeon_red_glass",
+    "0": "duneons:block/redstonecrystal"
+  },
+  "render_type": "cutout"
+}

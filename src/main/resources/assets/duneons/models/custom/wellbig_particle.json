@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/well_big",
+  "textures": {
+    "particle": "duneons:block/well_big"
+  }
+}

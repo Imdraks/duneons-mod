@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/troom_goldblock",
+    "bottom": "duneons:block/troom_goldblock",
+    "top": "duneons:block/troom_goldblock",
+    "side": "duneons:block/troom_goldblock"
+  },
+  "render_type": "solid"
+}

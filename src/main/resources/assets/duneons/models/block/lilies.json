@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lilies",
+  "textures": {
+    "all": "duneons:block/lilies",
+    "particle": "duneons:block/lilies",
+    "0": "duneons:block/lilies",
+    "missing": "duneons:block/lilies"
+  },
+  "render_type": "cutout"
+}

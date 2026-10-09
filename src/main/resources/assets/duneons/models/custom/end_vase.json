@@ -1,0 +1,289 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    128,
+    128
+  ],
+  "elements": [
+    {
+      "name": "campfire",
+      "from": [
+        3.5,
+        0,
+        3.5
+      ],
+      "to": [
+        12.5,
+        18,
+        12.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12.625,
+            13.75,
+            13.75,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            13.75,
+            13.75,
+            14.875,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12.625,
+            13.75,
+            13.75,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            13.75,
+            13.75,
+            14.875,
+            16
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            16,
+            14.875,
+            14.875,
+            13.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            16,
+            14.875,
+            14.875,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "campfire",
+      "from": [
+        5.5,
+        18,
+        5.5
+      ],
+      "to": [
+        10.5,
+        22,
+        10.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            15.75,
+            13.125,
+            15.125,
+            13.625
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            15.125,
+            13.125,
+            15.75,
+            13.625
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            15.75,
+            13.125,
+            15.125,
+            13.625
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            15.125,
+            13.125,
+            15.75,
+            13.625
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            15.75,
+            14.625,
+            15.125,
+            14
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            15.75,
+            14,
+            15.125,
+            14.625
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        1.75,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        1.25,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        139,
+        0
+      ],
+      "translation": [
+        0,
+        -1.25,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        13.75,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -1.5,
+        0.5
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "campfire",
+      "origin": [
+        8,
+        6,
+        8
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": [
+        0,
+        1
+      ]
+    }
+  ]
+}

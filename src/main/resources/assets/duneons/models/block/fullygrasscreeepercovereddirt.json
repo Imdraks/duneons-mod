@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_dirt",
+    "up": "duneons:block/fully_grass_covered_dirt_top",
+    "north": "duneons:block/fully_grass_covered_dirt",
+    "east": "duneons:block/fully_grass_covered_dirt",
+    "south": "duneons:block/fully_grass_covered_dirt",
+    "west": "duneons:block/fully_grass_covered_dirt",
+    "particle": "duneons:block/dark_dirt"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/coloon_top",
+    "up": "duneons:block/coloon_top",
+    "north": "duneons:block/crashed_stonghold_coloon",
+    "east": "duneons:block/crashed_stonghold_coloon",
+    "south": "duneons:block/crashed_stonghold_coloon",
+    "west": "duneons:block/crashed_stonghold_coloon",
+    "particle": "duneons:block/coloon_top"
+  },
+  "render_type": "solid"
+}

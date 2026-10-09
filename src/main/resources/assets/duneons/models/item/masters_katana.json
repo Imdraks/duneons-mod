@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/masters_katana_1.11",
+  "textures": {
+    "0": "duneons:block/asters_atana",
+    "particle": "duneons:item/masters_katana"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/outpost_lamp_top_new",
+  "textures": {
+    "all": "duneons:block/t_windswept_props_trim",
+    "particle": "duneons:block/t_windswept_props_trim",
+    "0": "duneons:block/t_windswept_props_trim",
+    "missing": "duneons:block/t_windswept_props_trim"
+  },
+  "render_type": "solid"
+}

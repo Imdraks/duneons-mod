@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chiseled_stonebriksdirt",
+    "up": "duneons:block/chiseled_stonebriksdirt",
+    "north": "duneons:block/chiseled_stonebriksdirt",
+    "east": "duneons:block/chiseled_stonebriksdirt",
+    "south": "duneons:block/chiseled_stonebriksdirt",
+    "west": "duneons:block/chiseled_stonebriksdirt",
+    "particle": "duneons:block/chiseled_stonebriksdirt"
+  },
+  "render_type": "solid"
+}

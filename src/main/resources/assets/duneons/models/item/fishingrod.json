@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/fishing_rod",
+  "textures": {
+    "0": "duneons:block/fishing_rod_uncast",
+    "particle": "duneons:item/fishing_rod_uncast"
+  }
+}

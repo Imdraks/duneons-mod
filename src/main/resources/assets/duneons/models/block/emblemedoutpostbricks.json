@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/outpost_tiles",
+    "up": "duneons:block/outpost_bricks",
+    "north": "duneons:block/outpost_emblemed",
+    "east": "duneons:block/outpost_emblemed",
+    "south": "duneons:block/outpost_emblemed",
+    "west": "duneons:block/outpost_emblemed",
+    "particle": "duneons:block/outpost_tiles"
+  },
+  "render_type": "solid"
+}

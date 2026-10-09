@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/pastures_dirt_bricks",
+    "up": "duneons:block/pastures_dirt_bricks",
+    "north": "duneons:block/pastures_dirt_bricks",
+    "east": "duneons:block/pastures_dirt_bricks",
+    "south": "duneons:block/pastures_dirt_bricks",
+    "west": "duneons:block/pastures_dirt_bricks",
+    "particle": "duneons:block/pastures_dirt_bricks"
+  },
+  "render_type": "solid"
+}

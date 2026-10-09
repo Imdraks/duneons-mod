@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/small_cabinet",
+  "textures": {
+    "all": "duneons:block/small_cabinet",
+    "particle": "duneons:block/small_cabinet",
+    "0": "duneons:block/small_cabinet"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "duneons:block/swamp_planks",
+    "texture": "duneons:block/swamp_planks"
+  },
+  "render_type": "solid"
+}

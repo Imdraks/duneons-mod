@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "duneons:block/basalt_door_down",
+    "bottom": "duneons:block/basalt_door_down",
+    "top": "duneons:block/basalt_door_top"
+  },
+  "render_type": "solid"
+}

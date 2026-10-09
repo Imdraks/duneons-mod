@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_jungle_tille",
+    "up": "duneons:block/smooth_jungle_tille",
+    "north": "duneons:block/smooth_jungle_tille",
+    "east": "duneons:block/smooth_jungle_tille",
+    "south": "duneons:block/smooth_jungle_tille",
+    "west": "duneons:block/smooth_jungle_tille",
+    "particle": "duneons:block/smooth_jungle_tille"
+  },
+  "render_type": "solid"
+}

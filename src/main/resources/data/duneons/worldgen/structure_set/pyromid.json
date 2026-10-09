@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 12112,
+    "separation": 8,
+    "spacing": 33
+  },
+  "structures": [
+    {
+      "structure": "duneons:pyromid",
+      "weight": 1
+    }
+  ]
+}

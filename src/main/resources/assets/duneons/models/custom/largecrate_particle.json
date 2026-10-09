@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/large_crate",
+  "textures": {
+    "particle": "duneons:block/large_crate"
+  }
+}

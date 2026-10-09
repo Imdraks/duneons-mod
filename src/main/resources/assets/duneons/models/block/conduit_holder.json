@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/conduit_holder",
+  "textures": {
+    "all": "duneons:block/conduit_holder",
+    "particle": "duneons:block/conduit_holder",
+    "0": "duneons:block/conduit_holder",
+    "missing": "duneons:block/conduit_holder"
+  },
+  "render_type": "cutout"
+}

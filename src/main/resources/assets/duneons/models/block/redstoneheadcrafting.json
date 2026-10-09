@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/redstone_monstrosity_head_1.11",
+  "textures": {
+    "all": "duneons:block/redstone_monstrosity_head",
+    "particle": "duneons:block/monstrosity_particle",
+    "1": "duneons:block/redstone_monstrosity_head"
+  },
+  "render_type": "cutout"
+}

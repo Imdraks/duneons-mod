@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wind_orange_banner_down",
+  "textures": {
+    "all": "duneons:block/t_windswept_props_trim",
+    "particle": "duneons:block/t_windswept_props_trim",
+    "0": "duneons:block/windswept_blocks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/purple_wood",
+    "bottom": "duneons:block/purple_wood",
+    "top": "duneons:block/purple_wood",
+    "side": "duneons:block/purple_wood"
+  },
+  "render_type": "solid"
+}

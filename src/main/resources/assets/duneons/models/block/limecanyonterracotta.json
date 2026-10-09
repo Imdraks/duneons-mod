@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/hardened_clay_stained_lime",
+    "up": "duneons:block/hardened_clay_stained_lime",
+    "north": "duneons:block/hardened_clay_stained_lime",
+    "east": "duneons:block/hardened_clay_stained_lime",
+    "south": "duneons:block/hardened_clay_stained_lime",
+    "west": "duneons:block/hardened_clay_stained_lime",
+    "particle": "duneons:block/hardened_clay_stained_lime"
+  },
+  "render_type": "solid"
+}

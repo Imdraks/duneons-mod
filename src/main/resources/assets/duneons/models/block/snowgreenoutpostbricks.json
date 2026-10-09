@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/snow_green_outpost_bricks",
+    "up": "duneons:block/snow_green_outpost_bricks",
+    "north": "duneons:block/snow_green_outpost_bricks",
+    "east": "duneons:block/snow_green_outpost_bricks",
+    "south": "duneons:block/snow_green_outpost_bricks",
+    "west": "duneons:block/snow_green_outpost_bricks",
+    "particle": "duneons:block/snow_green_outpost_bricks"
+  },
+  "render_type": "solid"
+}

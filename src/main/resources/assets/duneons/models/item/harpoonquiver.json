@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/harpoon_quiver",
+  "textures": {
+    "0": "duneons:block/harpoon",
+    "particle": "duneons:item/harpoon_quivericon"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/red_sandstone_normal",
+    "up": "duneons:block/red_sandstone_normal",
+    "north": "duneons:block/sea_sandstone_carved",
+    "east": "duneons:block/sea_sandstone_carved",
+    "south": "duneons:block/sea_sandstone_carved",
+    "west": "duneons:block/sea_sandstone_carved",
+    "particle": "duneons:block/red_sandstone_normal"
+  },
+  "render_type": "solid"
+}

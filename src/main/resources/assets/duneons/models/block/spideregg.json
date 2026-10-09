@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/spider_egg",
+  "textures": {
+    "all": "duneons:block/spider_egg_icon",
+    "particle": "duneons:block/spider_egg_icon",
+    "0": "duneons:block/spider_egg"
+  },
+  "render_type": "cutout"
+}

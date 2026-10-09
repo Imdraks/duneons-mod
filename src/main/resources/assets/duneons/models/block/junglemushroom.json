@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/glowingmushrooms_5",
+  "textures": {
+    "all": "duneons:block/jungle_mushroom",
+    "particle": "duneons:block/jungle_mushroom",
+    "0": "duneons:block/t_mushroom_patch_e1"
+  },
+  "render_type": "cutout"
+}

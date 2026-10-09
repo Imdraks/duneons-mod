@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/keramika",
+    "up": "duneons:block/keramika",
+    "north": "duneons:block/keramika",
+    "east": "duneons:block/keramika",
+    "south": "duneons:block/keramika",
+    "west": "duneons:block/keramika",
+    "particle": "duneons:block/keramika"
+  },
+  "render_type": "solid"
+}

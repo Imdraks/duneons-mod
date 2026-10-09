@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 122712,
+    "separation": 9,
+    "spacing": 33
+  },
+  "structures": [
+    {
+      "structure": "duneons:rune_room",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/volcanic_block",
+  "textures": {
+    "all": "duneons:block/volcanic_block2",
+    "particle": "duneons:block/volcanic_block2",
+    "0": "duneons:block/volcanic_block2"
+  },
+  "render_type": "cutout"
+}

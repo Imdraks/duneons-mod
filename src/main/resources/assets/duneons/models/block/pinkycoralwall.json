@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/pinkywalldead",
+  "textures": {
+    "all": "duneons:block/pinky_coral",
+    "particle": "duneons:block/pinky_coral",
+    "0": "duneons:block/pinky_coral_walldead",
+    "missing": "duneons:block/pinky_coral_walldead"
+  },
+  "render_type": "cutout"
+}

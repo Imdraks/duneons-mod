@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "duneons:block/null_item",
+    "top": "duneons:block/null_item",
+    "side": "duneons:block/null_item",
+    "overlay": "duneons:block/null_item",
+    "particle": "duneons:block/null_item"
+  },
+  "render_type": "cutout"
+}

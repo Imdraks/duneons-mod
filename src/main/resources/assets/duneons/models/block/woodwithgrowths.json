@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/wood_with_growths",
+    "up": "duneons:block/wood_with_growths",
+    "north": "duneons:block/wood_with_growths",
+    "east": "duneons:block/wood_with_growths",
+    "south": "duneons:block/wood_with_growths",
+    "west": "duneons:block/wood_with_growths",
+    "particle": "duneons:block/wood_with_growths"
+  },
+  "render_type": "solid"
+}

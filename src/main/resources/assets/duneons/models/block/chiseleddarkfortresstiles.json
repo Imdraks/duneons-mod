@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "up": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "north": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "east": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "south": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "west": "duneons:block/chiseled_dark_fortress_tiles_blackstone",
+    "particle": "duneons:block/chiseled_dark_fortress_tiles_blackstone"
+  },
+  "render_type": "solid"
+}

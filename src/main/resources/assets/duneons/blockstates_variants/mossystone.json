@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/mossystone/block/0"
+      },
+      {
+        "model": "block/mossystone/block/1"
+      },
+      {
+        "model": "block/mossystone/block/2"
+      },
+      {
+        "model": "block/mossystone/block/3"
+      },
+      {
+        "model": "block/mossystone/block/4"
+      },
+      {
+        "model": "block/mossystone/block/5"
+      },
+      {
+        "model": "block/mossystone/block/6"
+      }
+    ]
+  }
+}

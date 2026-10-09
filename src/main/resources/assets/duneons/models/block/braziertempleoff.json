@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/brazier_temple",
+  "textures": {
+    "all": "duneons:block/brazier_temple",
+    "particle": "duneons:block/coloon_top",
+    "0": "duneons:block/brazier_temple",
+    "missing": "duneons:block/brazier_temple"
+  },
+  "render_type": "cutout"
+}

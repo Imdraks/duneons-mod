@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_dirt",
+    "up": "duneons:block/moss_stone_top",
+    "north": "duneons:block/creeper_woods_grass_front",
+    "east": "duneons:block/creeper_woods_grass_front",
+    "south": "duneons:block/creeper_woods_grass_front",
+    "west": "duneons:block/creeper_woods_grass_front",
+    "particle": "duneons:block/dark_dirt"
+  },
+  "render_type": "solid"
+}

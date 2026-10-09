@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/orange",
+  "textures": {
+    "all": "duneons:block/orange",
+    "particle": "duneons:block/orange",
+    "0": "duneons:block/orange",
+    "missing": "duneons:block/orange"
+  },
+  "render_type": "solid"
+}

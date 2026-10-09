@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "duneons:block/rusty_nether_bars",
+    "edge": "duneons:block/rusty_nether_bars",
+    "pane": "duneons:block/rusty_nether_bars"
+  },
+  "render_type": "cutout_mipped"
+}

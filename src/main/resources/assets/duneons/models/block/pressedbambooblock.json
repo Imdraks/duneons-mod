@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/pressed_bamboo_top",
+    "up": "duneons:block/pressed_bamboo_top",
+    "north": "duneons:block/pressed_bamboo",
+    "east": "duneons:block/pressed_bamboo_top",
+    "south": "duneons:block/pressed_bamboo",
+    "west": "duneons:block/pressed_bamboo",
+    "particle": "duneons:block/pressed_bamboo_top"
+  },
+  "render_type": "solid"
+}

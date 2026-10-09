@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/marine_magma",
+    "up": "duneons:block/marine_magma",
+    "north": "duneons:block/marine_magma",
+    "east": "duneons:block/marine_magma",
+    "south": "duneons:block/marine_magma",
+    "west": "duneons:block/marine_magma",
+    "particle": "duneons:block/marine_magma"
+  },
+  "render_type": "solid"
+}

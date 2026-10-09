@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/echo_of_the_valley_pulling_2",
+  "textures": {
+    "0": "duneons:block/echo_of_the_valley_pulling_2",
+    "particle": "duneons:item/windbow_unique1"
+  }
+}

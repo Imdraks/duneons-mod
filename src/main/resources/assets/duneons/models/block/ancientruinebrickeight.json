@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ancientruine_block6",
+    "up": "duneons:block/ancientruine_block37",
+    "north": "duneons:block/ancientruine_block39",
+    "east": "duneons:block/ancientruine_block38",
+    "south": "duneons:block/ancientruine_block41",
+    "west": "duneons:block/ancientruine_block40",
+    "particle": "duneons:block/ancientruine_block6"
+  },
+  "render_type": "solid"
+}

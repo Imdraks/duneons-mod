@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/scaffold",
+  "textures": {
+    "particle": "duneons:block/scaffold_new"
+  }
+}

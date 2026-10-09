@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/tomb_lid",
+  "textures": {
+    "particle": "duneons:block/tomb_lid"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/creeperforest_chiseled_bricks",
+    "bottom": "duneons:block/creeperforest_chiseled_bricks",
+    "top": "duneons:block/creeperforest_chiseled_bricks",
+    "side": "duneons:block/creeperforest_chiseled_bricks"
+  },
+  "render_type": "solid"
+}

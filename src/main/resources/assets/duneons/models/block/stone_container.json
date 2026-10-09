@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stone_container",
+  "textures": {
+    "all": "duneons:block/stone_container",
+    "particle": "duneons:block/stone_container",
+    "0": "duneons:block/stone_container"
+  },
+  "render_type": "solid"
+}

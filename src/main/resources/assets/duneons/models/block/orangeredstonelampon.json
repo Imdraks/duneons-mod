@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/redstone_lamp_on",
+    "up": "duneons:block/redstone_lamp_on",
+    "north": "duneons:block/redstone_lamp_on",
+    "east": "duneons:block/redstone_lamp_on",
+    "south": "duneons:block/redstone_lamp_on",
+    "west": "duneons:block/redstone_lamp_on",
+    "particle": "duneons:block/redstone_lamp_on"
+  },
+  "render_type": "solid"
+}

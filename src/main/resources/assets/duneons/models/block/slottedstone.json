@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/runedoor_block_top",
+    "up": "duneons:block/stone_slab_side",
+    "north": "duneons:block/dungeons_creeperwood_slotted_stone",
+    "east": "duneons:block/dungeons_creeperwood_slotted_stone",
+    "south": "duneons:block/dungeons_creeperwood_slotted_stone",
+    "west": "duneons:block/dungeons_creeperwood_slotted_stone",
+    "particle": "duneons:block/runedoor_block_top"
+  },
+  "render_type": "solid"
+}

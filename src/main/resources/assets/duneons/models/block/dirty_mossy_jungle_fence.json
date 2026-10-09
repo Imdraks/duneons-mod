@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "duneons:block/dirty_mossy_jungle_planks",
+    "particle": "duneons:block/dirty_mossy_jungle_planks"
+  },
+  "render_type": "solid"
+}

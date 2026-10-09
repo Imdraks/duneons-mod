@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/end_vine_final",
+  "textures": {
+    "all": "duneons:block/t_bouncebloom_bc_002",
+    "particle": "duneons:block/t_bouncebloom_bc_002",
+    "0": "duneons:block/t_bouncebloom_bc_002"
+  },
+  "render_type": "cutout"
+}

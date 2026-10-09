@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/prismarine_plinth",
+  "textures": {
+    "all": "duneons:block/prismarine_plinth",
+    "particle": "duneons:block/prismarine_plinth",
+    "0": "duneons:block/prismarine_plinth"
+  },
+  "render_type": "solid"
+}

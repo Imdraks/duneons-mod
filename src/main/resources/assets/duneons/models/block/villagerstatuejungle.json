@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/villagerstatue_jungle",
+  "textures": {
+    "all": "duneons:block/villagerstatue_jungle",
+    "particle": "duneons:block/bamboo_stonebricks",
+    "0": "duneons:block/villagerstatue_jungle"
+  },
+  "render_type": "solid"
+}

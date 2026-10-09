@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/green_stronghold_mushrooms",
+    "particle": "duneons:block/green_stronghold_mushrooms"
+  },
+  "render_type": "cutout"
+}

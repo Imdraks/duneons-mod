@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/key_glow_green",
+  "textures": {
+    "all": "duneons:block/glow_green_variant",
+    "particle": "duneons:block/glow_green_variant",
+    "1": "duneons:block/glow_green_variant",
+    "missing": "duneons:block/glow_green_variant"
+  },
+  "render_type": "cutout"
+}

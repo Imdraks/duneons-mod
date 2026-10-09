@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/bearrug_square",
+  "textures": {
+    "particle": "duneons:block/bearrug_square"
+  }
+}

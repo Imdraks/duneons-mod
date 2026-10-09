@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/pirsmarine_cross_bricks",
+    "up": "duneons:block/pirsmarine_cross_bricks",
+    "north": "duneons:block/pirsmarine_cross_bricks",
+    "east": "duneons:block/pirsmarine_cross_bricks",
+    "south": "duneons:block/pirsmarine_cross_bricks",
+    "west": "duneons:block/pirsmarine_cross_bricks",
+    "particle": "duneons:block/pirsmarine_cross_bricks"
+  },
+  "render_type": "solid"
+}

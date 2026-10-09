@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "duneons:block/end_stone_tille",
+    "particle": "duneons:block/end_stone_tille"
+  },
+  "render_type": "solid"
+}

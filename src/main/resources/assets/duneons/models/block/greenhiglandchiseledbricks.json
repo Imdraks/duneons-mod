@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/green_higland_chiseled_bricks",
+    "up": "duneons:block/green_higland_chiseled_bricks",
+    "north": "duneons:block/green_higland_chiseled_bricks",
+    "east": "duneons:block/green_higland_chiseled_bricks",
+    "south": "duneons:block/green_higland_chiseled_bricks",
+    "west": "duneons:block/green_higland_chiseled_bricks",
+    "particle": "duneons:block/green_higland_chiseled_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/snow_berry_bush_2",
+    "particle": "duneons:block/snow_berry_bush_2"
+  },
+  "render_type": "cutout"
+}

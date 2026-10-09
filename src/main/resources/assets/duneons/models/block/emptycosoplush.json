@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/emptycoso_statuette",
+  "textures": {
+    "all": "duneons:block/emptycoso",
+    "particle": "duneons:block/statuette_frame",
+    "1": "duneons:block/emptycoso",
+    "2": "duneons:block/statuette_frame"
+  },
+  "render_type": "cutout"
+}

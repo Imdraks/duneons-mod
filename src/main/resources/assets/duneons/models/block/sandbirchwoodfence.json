@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "duneons:block/sand_birch_wood",
+    "particle": "duneons:block/sand_birch_wood"
+  },
+  "render_type": "solid"
+}

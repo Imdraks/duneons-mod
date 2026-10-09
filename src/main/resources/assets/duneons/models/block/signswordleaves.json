@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_leaves_sword",
+  "textures": {
+    "all": "duneons:block/sign_sword",
+    "particle": "duneons:block/sign_sword",
+    "0": "duneons:block/sign_sword",
+    "missing": "duneons:block/sign_sword"
+  },
+  "render_type": "cutout"
+}

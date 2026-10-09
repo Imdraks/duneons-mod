@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/cacti_long_grass_top",
+    "particle": "duneons:block/cacti_long_grass_top"
+  },
+  "render_type": "cutout"
+}

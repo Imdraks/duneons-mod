@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/battlestaff_of_terror",
+  "textures": {
+    "0": "duneons:block/battlestaff_of_terror",
+    "particle": "duneons:item/battlestaff_of_terror"
+  }
+}

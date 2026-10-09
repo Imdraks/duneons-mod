@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "particle": "duneons:block/highland_bars",
+    "pane": "duneons:block/highland_bars"
+  },
+  "render_type": "cutout_mipped"
+}

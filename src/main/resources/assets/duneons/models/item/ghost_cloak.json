@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/ghostcloak",
+  "textures": {
+    "0": "duneons:block/t_ghostcloak",
+    "missing": "duneons:block/t_ghostcloak",
+    "particle": "duneons:item/t_ghostcloak_gearicon"
+  }
+}

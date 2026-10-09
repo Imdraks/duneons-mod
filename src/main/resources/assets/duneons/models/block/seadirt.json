@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sea_dirt",
+    "up": "duneons:block/sea_dirt",
+    "north": "duneons:block/sea_dirt",
+    "east": "duneons:block/sea_dirt",
+    "south": "duneons:block/sea_dirt",
+    "west": "duneons:block/sea_dirt",
+    "particle": "duneons:block/sea_dirt"
+  },
+  "render_type": "solid"
+}

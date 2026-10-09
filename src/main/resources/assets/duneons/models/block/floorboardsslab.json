@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/floorboards_1",
+    "bottom": "duneons:block/floorboards_1",
+    "top": "duneons:block/floorboards",
+    "side": "duneons:block/floorboards"
+  },
+  "render_type": "solid"
+}

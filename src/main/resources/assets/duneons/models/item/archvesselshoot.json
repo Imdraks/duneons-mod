@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/corrupted_beacon_final",
+  "textures": {
+    "0": "duneons:block/corrupted_beacon",
+    "particle": "duneons:item/item"
+  }
+}

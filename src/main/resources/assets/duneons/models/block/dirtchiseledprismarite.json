@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt__chiseled_prismarite",
+    "up": "duneons:block/dirt__chiseled_prismarite",
+    "north": "duneons:block/dirt__chiseled_prismarite",
+    "east": "duneons:block/dirt__chiseled_prismarite",
+    "south": "duneons:block/dirt__chiseled_prismarite",
+    "west": "duneons:block/dirt__chiseled_prismarite",
+    "particle": "duneons:block/dirt__chiseled_prismarite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "duneons:block/black_cobblestone",
+    "particle": "duneons:block/black_cobblestone"
+  },
+  "render_type": "solid"
+}

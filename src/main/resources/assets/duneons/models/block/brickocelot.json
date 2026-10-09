@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_andesite_smooth",
+    "up": "duneons:block/stone_andesite_smooth",
+    "north": "duneons:block/brick_ocelot",
+    "east": "duneons:block/brick_ocelot",
+    "south": "duneons:block/brick_ocelot",
+    "west": "duneons:block/brick_ocelot",
+    "particle": "duneons:block/stone_andesite_smooth"
+  },
+  "render_type": "solid"
+}

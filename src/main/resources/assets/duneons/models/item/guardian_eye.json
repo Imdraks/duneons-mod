@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/guardianeye",
+  "textures": {
+    "0": "duneons:block/t_guardianeye",
+    "particle": "duneons:item/item"
+  }
+}

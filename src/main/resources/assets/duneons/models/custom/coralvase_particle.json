@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/coral_vase",
+  "textures": {
+    "particle": "duneons:block/coral_vase"
+  }
+}

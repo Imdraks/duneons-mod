@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/golem_trophy",
+  "textures": {
+    "all": "duneons:block/mob_trophy",
+    "particle": "duneons:block/trophy_glass",
+    "1": "duneons:block/mob_trophy",
+    "2": "duneons:block/t_redstonegolemskull",
+    "missing": "duneons:block/mob_trophy"
+  },
+  "render_type": "cutout"
+}

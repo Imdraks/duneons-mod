@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"walk": {
+			"loop": true,
+			"animation_length": 0.58333,
+			"bones": {
+				"wagon": {
+					"rotation": {
+						"0.0": [-5, 0, 0],
+						"0.25": [2.5, 0, 0],
+						"0.5": [-5, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

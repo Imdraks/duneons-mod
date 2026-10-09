@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/creeper_pillar_alt",
+  "textures": {
+    "particle": "duneons:block/obsidian_creeper"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/longbluebanner",
+  "textures": {
+    "particle": "duneons:block/banner_wall_long"
+  }
+}

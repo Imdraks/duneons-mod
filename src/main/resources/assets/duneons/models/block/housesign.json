@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/large_sign",
+  "textures": {
+    "all": "duneons:block/large_sign",
+    "particle": "duneons:block/large_sign",
+    "0": "duneons:block/large_sign"
+  },
+  "render_type": "cutout"
+}

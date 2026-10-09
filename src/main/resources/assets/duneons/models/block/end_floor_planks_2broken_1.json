@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/endfloorplanks2_broken",
+    "up": "duneons:block/endfloorplanks2_broken",
+    "north": "duneons:block/endfloorplanks2_broken",
+    "east": "duneons:block/endfloorplanks2_broken",
+    "south": "duneons:block/endfloorplanks2_broken",
+    "west": "duneons:block/endfloorplanks2_broken",
+    "particle": "duneons:block/endfloorplanks2_broken"
+  },
+  "render_type": "solid"
+}

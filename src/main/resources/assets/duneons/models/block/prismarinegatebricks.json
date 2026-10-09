@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/granite_coolon_top",
+    "up": "duneons:block/granite_coolon_top",
+    "north": "duneons:block/prismarine_gate_bricks",
+    "east": "duneons:block/prismarine_gate_bricks",
+    "south": "duneons:block/prismarine_gate_bricks",
+    "west": "duneons:block/prismarine_gate_bricks",
+    "particle": "duneons:block/granite_coolon_top"
+  },
+  "render_type": "solid"
+}

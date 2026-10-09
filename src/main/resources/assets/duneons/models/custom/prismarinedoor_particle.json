@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/prismarine_door",
+  "textures": {
+    "particle": "duneons:block/prismarine_door"
+  }
+}

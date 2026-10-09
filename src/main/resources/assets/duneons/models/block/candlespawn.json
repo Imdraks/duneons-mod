@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nameless_candle_on",
+  "textures": {
+    "all": "duneons:block/candle_nameless_on",
+    "particle": "duneons:block/candle_nameless_on",
+    "0": "duneons:block/candle_nameless_on"
+  },
+  "render_type": "cutout"
+}

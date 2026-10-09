@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/log_acacia_top_lostsettlement",
+    "up": "duneons:block/log_acacia_top_lostsettlement",
+    "north": "duneons:block/ice_oak_wood",
+    "east": "duneons:block/ice_oak_wood",
+    "south": "duneons:block/ice_oak_wood",
+    "west": "duneons:block/ice_oak_wood",
+    "particle": "duneons:block/log_acacia_top_lostsettlement"
+  },
+  "render_type": "solid"
+}

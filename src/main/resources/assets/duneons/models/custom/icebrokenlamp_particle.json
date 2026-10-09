@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/ice_broken_lamp.item",
+  "textures": {
+    "particle": "duneons:block/t_ropehang"
+  }
+}

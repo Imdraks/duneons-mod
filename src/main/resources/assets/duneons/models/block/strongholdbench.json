@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/stronghold_bench",
+  "textures": {
+    "all": "duneons:block/t_strongholdobjectsgroupd",
+    "particle": "duneons:block/t_strongholdobjectsgroupd",
+    "0": "duneons:block/t_strongholdobjectsgroupd",
+    "missing": "duneons:block/t_strongholdobjectsgroupd"
+  },
+  "render_type": "solid"
+}

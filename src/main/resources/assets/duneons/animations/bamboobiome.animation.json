@@ -1,0 +1,73 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 4,
+			"anim_time_update": "q.anim_time+math.pow(2,q.has_target)/2*q.delta_time*3",
+			"bones": {
+				"rods": {
+					"rotation": {
+						"vector": ["math.sin(q.anim_time*90-45)*3", "q.anim_time*180", "math.cos(q.anim_time*90-45)*3"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [0, "math.sin(q.anim_time*180)", 0],
+						"easing": "linear"
+					}
+				},
+				"top": {
+					"rotation": {
+						"vector": ["-math.sin(q.anim_time*90-45)*2", 0, "-math.cos(q.anim_time*90-45)*2"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-math.cos(q.anim_time*90)*0.5", "math.sin(q.anim_time*180-45)*0.4", "math.sin(q.anim_time*90)*0.5"],
+						"easing": "linear"
+					}
+				},
+				"mid": {
+					"rotation": {
+						"vector": ["math.cos(q.anim_time*90)", 0, "-math.sin(q.anim_time*90)"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["-math.cos(q.anim_time*90-45)*0.25", "-math.cos(q.anim_time*180)*0.2", "math.sin(q.anim_time*90-45)*0.25"],
+						"easing": "linear"
+					}
+				},
+				"right_arm2": {
+					"rotation": {
+						"vector": ["-math.sin(q.anim_time*180)*5", 0, "-math.cos(q.anim_time*90)*5"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["math.sin(q.anim_time*90)*0.5", "math.sin(q.anim_time*180+45)", 0],
+						"easing": "linear"
+					}
+				},
+				"left_arm2": {
+					"rotation": {
+						"vector": ["-math.sin(q.anim_time*180)*5", 0, "-math.cos(q.anim_time*90)*5"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["math.sin(q.anim_time*90)*0.5", "math.sin(q.anim_time*180+45)", 0],
+						"easing": "linear"
+					}
+				},
+				"biome": {
+					"rotation": {
+						"vector": ["-math.sin(q.anim_time*180)*1", 0, "-math.cos(q.anim_time*90)*1"],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": ["math.sin(q.anim_time*90)*0.5", "math.sin(q.anim_time*180+45)", 0],
+						"easing": "linear"
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

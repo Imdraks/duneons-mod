@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/witch_pole",
+  "textures": {
+    "all": "duneons:block/witch_pole",
+    "particle": "duneons:block/witch_pole",
+    "0": "duneons:block/witch_pole"
+  },
+  "render_type": "solid"
+}

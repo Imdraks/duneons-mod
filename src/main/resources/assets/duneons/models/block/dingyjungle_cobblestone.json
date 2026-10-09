@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ingyjungle_obblestone",
+    "up": "duneons:block/ingyjungle_obblestone",
+    "north": "duneons:block/ingyjungle_obblestone",
+    "east": "duneons:block/ingyjungle_obblestone",
+    "south": "duneons:block/ingyjungle_obblestone",
+    "west": "duneons:block/ingyjungle_obblestone",
+    "particle": "duneons:block/ingyjungle_obblestone"
+  },
+  "render_type": "solid"
+}

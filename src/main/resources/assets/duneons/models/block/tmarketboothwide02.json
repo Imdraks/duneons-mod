@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/t_marketboothwide02",
+  "textures": {
+    "all": "duneons:block/t_marketboothwide02",
+    "particle": "duneons:block/t_marketboothwide02",
+    "0": "duneons:block/t_marketboothwide02",
+    "missing": "duneons:block/t_marketboothwide02"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/stone_path_edge",
+    "bottom": "duneons:block/stone_path_edge",
+    "top": "duneons:block/stone_path_edge",
+    "side": "duneons:block/stone_path_edge"
+  },
+  "render_type": "solid"
+}

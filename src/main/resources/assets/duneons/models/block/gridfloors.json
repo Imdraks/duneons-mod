@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/grid_floors",
+  "textures": {
+    "all": "duneons:block/grid_floors",
+    "particle": "duneons:block/grid_floors",
+    "0": "duneons:block/grid_floors"
+  },
+  "render_type": "cutout"
+}

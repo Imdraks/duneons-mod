@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/curtains_closes_small_fix",
+  "textures": {
+    "all": "duneons:block/custainss_2",
+    "particle": "duneons:block/custainss_2",
+    "0": "duneons:block/t_curtains",
+    "missing": "duneons:block/t_curtains"
+  },
+  "render_type": "cutout"
+}

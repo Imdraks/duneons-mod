@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/underwater_vase",
+  "textures": {
+    "all": "duneons:block/underwater_vase",
+    "particle": "duneons:block/underwater_vase",
+    "0": "duneons:block/underwater_vase"
+  },
+  "render_type": "solid"
+}

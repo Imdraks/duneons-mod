@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ice_rocky",
+    "up": "duneons:block/ice_rocky",
+    "north": "duneons:block/ice_rocky",
+    "east": "duneons:block/ice_rocky",
+    "south": "duneons:block/ice_rocky",
+    "west": "duneons:block/ice_rocky",
+    "particle": "duneons:block/ice_rocky"
+  },
+  "render_type": "solid"
+}

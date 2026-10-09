@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ice_wood_button_on",
+  "textures": {
+    "all": "duneons:block/ice_button_ffj",
+    "particle": "duneons:block/ice_button_ffj",
+    "0": "duneons:block/ice_button_ffj"
+  },
+  "render_type": "solid"
+}

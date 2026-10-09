@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_swamp",
+  "textures": {
+    "all": "duneons:block/dungeons_swamp_leaves",
+    "particle": "duneons:block/dungeons_swamp_leaves",
+    "1": "duneons:block/dungeons_swamp_leaves_outer",
+    "2": "duneons:block/dungeons_swamp_leaves"
+  },
+  "render_type": "cutout"
+}

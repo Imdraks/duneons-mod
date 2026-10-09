@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/spear_spooky2",
+  "textures": {
+    "0": "duneons:block/spear_spooky2",
+    "particle": "duneons:item/spear_spooky2"
+  }
+}

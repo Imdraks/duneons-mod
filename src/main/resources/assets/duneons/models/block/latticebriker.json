@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/latticebriker",
+    "up": "duneons:block/latticebriker",
+    "north": "duneons:block/latticebriker",
+    "east": "duneons:block/latticebriker",
+    "south": "duneons:block/latticebriker",
+    "west": "duneons:block/latticebriker",
+    "particle": "duneons:block/latticebriker"
+  },
+  "render_type": "solid"
+}

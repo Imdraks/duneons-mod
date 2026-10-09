@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "duneons:block/grass_top",
+    "particle": "duneons:block/grass_top"
+  },
+  "render_type": "solid"
+}

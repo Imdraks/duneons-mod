@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/barrel_snow",
+  "textures": {
+    "all": "duneons:block/barrel_closed_snow",
+    "particle": "duneons:block/barrelparticle",
+    "1": "duneons:block/barrel_closed_snow"
+  },
+  "render_type": "solid"
+}

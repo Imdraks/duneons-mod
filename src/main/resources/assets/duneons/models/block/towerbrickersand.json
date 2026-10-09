@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bricker_slab",
+    "up": "duneons:block/chiseled_stone_bricks_2",
+    "north": "duneons:block/chiseled_sandy_andesite_2",
+    "east": "duneons:block/chiseled_sandy_andesite_2",
+    "south": "duneons:block/chiseled_sandy_andesite_2",
+    "west": "duneons:block/chiseled_sandy_andesite_2",
+    "particle": "duneons:block/bricker_slab"
+  },
+  "render_type": "solid"
+}

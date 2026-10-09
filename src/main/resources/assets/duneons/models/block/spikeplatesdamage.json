@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/spikeplates_damage",
+  "textures": {
+    "all": "duneons:block/spikeplates",
+    "particle": "duneons:block/spikeplates",
+    "0": "duneons:block/spikeplates"
+  },
+  "render_type": "solid"
+}

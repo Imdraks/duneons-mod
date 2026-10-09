@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chiseled_fortress_tiles",
+    "up": "duneons:block/chiseled_fortress_tiles",
+    "north": "duneons:block/chiseled_fortress_tiles",
+    "east": "duneons:block/chiseled_fortress_tiles",
+    "south": "duneons:block/chiseled_fortress_tiles",
+    "west": "duneons:block/chiseled_fortress_tiles",
+    "particle": "duneons:block/chiseled_fortress_tiles"
+  },
+  "render_type": "solid"
+}

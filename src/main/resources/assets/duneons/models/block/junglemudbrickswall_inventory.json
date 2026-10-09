@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "duneons:block/jungle_mud_top",
+    "particle": "duneons:block/jungle_mud_top"
+  },
+  "render_type": "solid"
+}

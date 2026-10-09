@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/enchanter_carpet",
+  "textures": {
+    "all": "duneons:block/enchanter_carpet",
+    "particle": "duneons:block/enchanter_carpet",
+    "1": "duneons:block/enchanter_carpet"
+  },
+  "render_type": "solid"
+}

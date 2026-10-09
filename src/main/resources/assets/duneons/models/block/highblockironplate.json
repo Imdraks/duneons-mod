@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highblock_iron_plate",
+    "up": "duneons:block/highblock_iron_plate",
+    "north": "duneons:block/highblock_iron_plate",
+    "east": "duneons:block/highblock_iron_plate",
+    "south": "duneons:block/highblock_iron_plate",
+    "west": "duneons:block/highblock_iron_plate",
+    "particle": "duneons:block/highblock_iron_plate"
+  },
+  "render_type": "solid"
+}

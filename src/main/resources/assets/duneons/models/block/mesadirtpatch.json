@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mesa_patch",
+    "up": "duneons:block/mesa_patch",
+    "north": "duneons:block/mesa_patch",
+    "east": "duneons:block/mesa_patch",
+    "south": "duneons:block/mesa_patch",
+    "west": "duneons:block/mesa_patch",
+    "particle": "duneons:block/mesa_patch"
+  },
+  "render_type": "solid"
+}

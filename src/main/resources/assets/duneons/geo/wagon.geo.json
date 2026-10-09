@@ -1,0 +1,55 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.wagon",
+				"texture_width": 512,
+				"texture_height": 256,
+				"visible_bounds_width": 10,
+				"visible_bounds_height": 5.5,
+				"visible_bounds_offset": [0, 2.25, 0]
+			},
+			"bones": [
+				{
+					"name": "wagon",
+					"pivot": [-4, 10, 2],
+					"cubes": [
+						{"origin": [-65, 9, -23], "size": [17, 5, 4], "pivot": [-45, 10, 19], "rotation": [0, 0, -22.5], "uv": [3, 71]},
+						{"origin": [-65, 9, 17], "size": [17, 5, 4], "pivot": [-45, 10, 19], "rotation": [0, 0, -22.5], "uv": [3, 71]},
+						{"origin": [12, 55, -7], "size": [12, 13, 12], "uv": [160, 120]},
+						{"origin": [-49, 8, -25], "size": [99, 47, 48], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Wheel",
+					"pivot": [-24, 10, -26],
+					"cubes": [
+						{"origin": [-35, 0, -27], "size": [22, 21, 2], "uv": [15, 163]}
+					]
+				},
+				{
+					"name": "Wheel2",
+					"pivot": [-24, 10, 24],
+					"cubes": [
+						{"origin": [-35, 0, 23], "size": [22, 21, 2], "uv": [15, 163]}
+					]
+				},
+				{
+					"name": "Wheel3",
+					"pivot": [-24, 10, -26],
+					"cubes": [
+						{"origin": [10, 0, -27], "size": [22, 21, 2], "uv": [15, 163]}
+					]
+				},
+				{
+					"name": "Wheel4",
+					"pivot": [-24, 10, -26],
+					"cubes": [
+						{"origin": [10, 0, 23], "size": [22, 21, 2], "uv": [15, 163]}
+					]
+				}
+			]
+		}
+	]
+}

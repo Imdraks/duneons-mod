@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/scarecrow",
+  "textures": {
+    "all": "duneons:block/scarecrow_new",
+    "particle": "duneons:block/scarecrow_new",
+    "0": "duneons:block/scarecrow_new"
+  },
+  "render_type": "cutout"
+}

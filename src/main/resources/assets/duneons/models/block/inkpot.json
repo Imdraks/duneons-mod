@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ink_pot",
+  "textures": {
+    "all": "duneons:block/ink_pot",
+    "particle": "duneons:block/ink_pot",
+    "0": "duneons:block/ink_pot"
+  },
+  "render_type": "solid"
+}

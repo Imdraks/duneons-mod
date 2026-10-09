@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/dirt",
+    "bottom": "duneons:block/dirt",
+    "top": "duneons:block/dirt",
+    "side": "duneons:block/dirt"
+  },
+  "render_type": "solid"
+}

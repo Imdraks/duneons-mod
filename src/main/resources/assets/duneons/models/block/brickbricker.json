@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/coloon_top",
+    "up": "duneons:block/coloon_top",
+    "north": "duneons:block/eye_angry_bricker",
+    "east": "duneons:block/eye_angry_bricker",
+    "south": "duneons:block/eye_angry_bricker",
+    "west": "duneons:block/eye_angry_bricker",
+    "particle": "duneons:block/coloon_top"
+  },
+  "render_type": "solid"
+}

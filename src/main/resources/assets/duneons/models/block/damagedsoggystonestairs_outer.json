@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/damaged_soggy__stone_bricks",
+    "bottom": "duneons:block/damaged_soggy__stone_bricks",
+    "top": "duneons:block/damaged_soggy__stone_bricks",
+    "side": "duneons:block/damaged_soggy__stone_bricks"
+  },
+  "render_type": "solid"
+}

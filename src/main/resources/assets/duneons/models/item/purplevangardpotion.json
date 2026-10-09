@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/shadow_brew",
+  "textures": {
+    "0": "duneons:block/shadow_brew",
+    "missing": "duneons:block/shadow_brew",
+    "particle": "duneons:item/shadow_brew"
+  }
+}

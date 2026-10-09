@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/fortress_tiles_netherrack2",
+    "up": "duneons:block/fortress_tiles_netherrack2",
+    "north": "duneons:block/fortress_tiles_netherrack2",
+    "east": "duneons:block/fortress_tiles_netherrack2",
+    "south": "duneons:block/fortress_tiles_netherrack2",
+    "west": "duneons:block/fortress_tiles_netherrack2",
+    "particle": "duneons:block/fortress_tiles_netherrack2"
+  },
+  "render_type": "solid"
+}

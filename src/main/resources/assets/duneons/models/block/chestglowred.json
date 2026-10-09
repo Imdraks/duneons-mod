@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/chest_glow_red",
+  "textures": {
+    "all": "duneons:block/t_2_orange",
+    "particle": "duneons:block/t_2_orange",
+    "2": "duneons:block/t_2_orange",
+    "missing": "duneons:block/t_2_orange"
+  },
+  "render_type": "cutout"
+}

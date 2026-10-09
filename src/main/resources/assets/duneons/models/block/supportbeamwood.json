@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/support_beam_down",
+  "textures": {
+    "all": "duneons:block/t_supportbeam_large",
+    "particle": "duneons:block/t_supportbeam_large",
+    "0": "duneons:block/t_supportbeam_large"
+  },
+  "render_type": "cutout"
+}

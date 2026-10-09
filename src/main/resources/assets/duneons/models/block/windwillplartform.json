@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/windwill_plartform",
+  "textures": {
+    "all": "duneons:block/windwill",
+    "particle": "duneons:block/windwill",
+    "0": "duneons:block/windwill"
+  },
+  "render_type": "solid"
+}

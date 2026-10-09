@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/big_green_highlandbanner",
+  "textures": {
+    "particle": "duneons:block/highland_anners"
+  }
+}

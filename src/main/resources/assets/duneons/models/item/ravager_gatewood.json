@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/ravager_gate_item_wood"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/mural_small2",
+  "textures": {
+    "all": "duneons:block/mural_small2",
+    "particle": "duneons:block/mural_small2",
+    "0": "duneons:block/mural_small2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:monstrosity_boss",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 23,
+    "separation": 13,
+    "salt": 1807052682
+  }
+}

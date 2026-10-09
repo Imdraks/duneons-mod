@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/rune_relay_top",
+    "up": "duneons:block/rune_relay_top",
+    "north": "duneons:block/rune_relay",
+    "east": "duneons:block/rune_relay",
+    "south": "duneons:block/rune_relay",
+    "west": "duneons:block/rune_relay",
+    "particle": "duneons:block/rune_relay_top"
+  },
+  "render_type": "solid"
+}

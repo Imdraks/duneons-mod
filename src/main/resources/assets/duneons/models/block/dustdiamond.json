@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/dust_diamond",
+  "textures": {
+    "all": "duneons:block/dust_diamond",
+    "particle": "duneons:block/dust_diamond",
+    "1": "duneons:block/dust_diamond",
+    "missing": "duneons:block/dust_diamond"
+  },
+  "render_type": "solid"
+}

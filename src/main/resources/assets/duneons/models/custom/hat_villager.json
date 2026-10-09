@@ -1,0 +1,189 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "villagerstatue_frost",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "from": [
+        3,
+        -2,
+        3
+      ],
+      "to": [
+        13,
+        4,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          12,
+          2,
+          12
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            10.25,
+            1.5
+          ],
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            10.5,
+            1.5
+          ],
+          "texture": "#1"
+        },
+        "south": {
+          "uv": [
+            13.25,
+            0,
+            15.25,
+            1.5
+          ],
+          "texture": "#1"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            1.5
+          ],
+          "texture": "#1"
+        },
+        "up": {
+          "uv": [
+            10.5,
+            2,
+            13,
+            4.5
+          ],
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            10.5,
+            2,
+            13,
+            4.5
+          ],
+          "texture": "#1"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        3.75,
+        0
+      ],
+      "scale": [
+        0.55,
+        0.5,
+        0.59
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        5.25,
+        0
+      ],
+      "scale": [
+        0.55,
+        1,
+        0.59
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        4.25,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        5.25,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        2.25,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.48,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        44.25,
+        -45.25,
+        0
+      ],
+      "translation": [
+        0.25,
+        4,
+        0
+      ],
+      "scale": [
+        0.84,
+        0.84,
+        0.84
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        16.75,
+        0
+      ],
+      "scale": [
+        1.61,
+        1.48,
+        1.61
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        6,
+        2
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "head",
+      "origin": [
+        0,
+        24,
+        0
+      ],
+      "shade": false,
+      "children": [
+        0
+      ]
+    }
+  ]
+}

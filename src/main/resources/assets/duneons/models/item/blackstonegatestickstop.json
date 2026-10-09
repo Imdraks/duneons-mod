@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/blackstone_sticks_icon"
+  },
+  "render_type": "translucent"
+}

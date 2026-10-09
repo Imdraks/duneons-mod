@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/mde_statuette",
+  "textures": {
+    "all": "duneons:block/mde_skin",
+    "particle": "duneons:block/statuette_frame",
+    "1": "duneons:block/mde_skin",
+    "2": "duneons:block/statuette_frame"
+  },
+  "render_type": "cutout"
+}

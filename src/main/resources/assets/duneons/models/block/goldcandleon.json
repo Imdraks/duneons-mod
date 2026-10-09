@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/candle_gold_on",
+  "textures": {
+    "all": "duneons:block/candle_gold_on",
+    "particle": "duneons:block/candle_gold_on",
+    "0": "duneons:block/candle_gold_on"
+  },
+  "render_type": "solid"
+}

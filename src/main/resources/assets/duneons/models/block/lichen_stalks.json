@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lichen_stalks_large",
+  "textures": {
+    "all": "duneons:block/lichen_stalks",
+    "particle": "duneons:block/lichen_stalks",
+    "0": "duneons:block/lichen_stalks",
+    "missing": "duneons:block/lichen_stalks"
+  },
+  "render_type": "cutout"
+}

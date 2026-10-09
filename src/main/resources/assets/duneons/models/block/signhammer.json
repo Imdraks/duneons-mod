@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_hammer",
+  "textures": {
+    "all": "duneons:block/sign_smithy",
+    "particle": "duneons:block/sign_smithy",
+    "0": "duneons:block/sign_smithy",
+    "missing": "duneons:block/sign_smithy"
+  },
+  "render_type": "cutout"
+}

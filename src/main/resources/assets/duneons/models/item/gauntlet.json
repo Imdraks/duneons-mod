@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/gauntlet_1_new",
+  "textures": {
+    "0": "duneons:block/gauntlet_1",
+    "particle": "duneons:item/gauntlets"
+  }
+}

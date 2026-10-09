@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bone_lader",
+  "textures": {
+    "all": "duneons:block/bone_ladder",
+    "particle": "duneons:block/bone_ladder",
+    "0": "duneons:block/bone_ladder"
+  },
+  "render_type": "cutout"
+}

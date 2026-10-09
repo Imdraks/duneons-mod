@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/gravel_dark_cobblestone",
+    "particle": "duneons:block/gravel_dark_cobblestone"
+  },
+  "render_type": "solid"
+}

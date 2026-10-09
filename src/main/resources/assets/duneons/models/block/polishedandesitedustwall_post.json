@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "duneons:block/polished_andesite_dust",
+    "particle": "duneons:block/polished_andesite_dust"
+  },
+  "render_type": "solid"
+}

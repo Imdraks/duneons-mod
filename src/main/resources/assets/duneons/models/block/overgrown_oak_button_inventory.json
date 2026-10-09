@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "duneons:block/overgrown_oak_planks",
+    "texture": "duneons:block/overgrown_oak_planks"
+  },
+  "render_type": "solid"
+}

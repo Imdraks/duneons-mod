@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/mixed_outpost_bricks",
+    "bottom": "duneons:block/mixed_outpost_bricks",
+    "top": "duneons:block/mixed_outpost_bricks_top",
+    "side": "duneons:block/mixed_outpost_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/pumpkingrassblock/block/0"
+      },
+      {
+        "model": "block/pumpkingrassblock/block/1"
+      },
+      {
+        "model": "block/pumpkingrassblock/block/2"
+      },
+      {
+        "model": "block/pumpkingrassblock/block/3"
+      }
+    ]
+  }
+}

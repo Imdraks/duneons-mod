@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/button_iceruin_on",
+  "textures": {
+    "all": "duneons:block/ice_button_ruin",
+    "particle": "duneons:block/ice_button_ruin",
+    "0": "duneons:block/ice_button_ruin"
+  },
+  "render_type": "solid"
+}

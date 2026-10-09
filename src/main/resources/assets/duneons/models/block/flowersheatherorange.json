@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/flowers_heather_orange",
+  "textures": {
+    "all": "duneons:block/flowers",
+    "particle": "duneons:block/flowers",
+    "0": "duneons:block/flowers",
+    "missing": "duneons:block/flowers"
+  },
+  "render_type": "cutout"
+}

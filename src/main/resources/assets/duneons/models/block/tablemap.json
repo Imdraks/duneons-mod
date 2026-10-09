@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/table_map",
+  "textures": {
+    "all": "duneons:block/map_table",
+    "particle": "duneons:block/map_table",
+    "0": "duneons:block/map_table",
+    "1": "duneons:block/compass",
+    "missing": "duneons:block/map_table"
+  },
+  "render_type": "cutout"
+}

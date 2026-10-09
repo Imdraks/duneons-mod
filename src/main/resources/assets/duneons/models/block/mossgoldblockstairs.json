@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/moss_gold_block",
+    "bottom": "duneons:block/moss_gold_block",
+    "top": "duneons:block/moss_gold_block",
+    "side": "duneons:block/moss_gold_block"
+  },
+  "render_type": "solid"
+}

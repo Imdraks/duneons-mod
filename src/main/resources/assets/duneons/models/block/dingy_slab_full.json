@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/dingy_planks",
+    "bottom": "duneons:block/dingy_planks",
+    "top": "duneons:block/dingy_planks",
+    "side": "duneons:block/dingy_planks"
+  },
+  "render_type": "solid"
+}

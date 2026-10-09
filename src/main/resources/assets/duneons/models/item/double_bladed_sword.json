@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/doublebladedsword",
+  "textures": {
+    "0": "duneons:block/oubleladedword",
+    "particle": "duneons:item/dobble_blade"
+  }
+}

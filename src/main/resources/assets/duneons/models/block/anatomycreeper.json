@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/anatomy_of_creeper",
+  "textures": {
+    "all": "duneons:block/anatomy_of_creeper",
+    "particle": "duneons:block/anatomy_of_creeper",
+    "0": "duneons:block/anatomy_of_creeper",
+    "missing": "duneons:block/anatomy_of_creeper"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/frozen_bricks",
+    "up": "duneons:block/frozen_bricks",
+    "north": "duneons:block/frozen_bricks",
+    "east": "duneons:block/frozen_bricks",
+    "south": "duneons:block/frozen_bricks",
+    "west": "duneons:block/frozen_bricks",
+    "particle": "duneons:block/frozen_bricks"
+  },
+  "render_type": "solid"
+}

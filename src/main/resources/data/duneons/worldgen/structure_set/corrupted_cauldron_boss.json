@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:corrupted_cauldron_boss",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 16,
+    "salt": 189725803
+  }
+}

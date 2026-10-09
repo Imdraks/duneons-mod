@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "duneons:block/planks_bambbo",
+    "texture": "duneons:block/planks_bambbo"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.wardrobe",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-24, 0, -7],
+							"size": [32, 40, 14],
+							"uv": {
+								"north": {"uv": [0, 26], "uv_size": [32, 40]},
+								"east": {"uv": [32, 26], "uv_size": [14, 40]},
+								"south": {"uv": [46, 40], "uv_size": [32, 40]},
+								"west": {"uv": [32, 26], "uv_size": [14, 40]},
+								"up": {"uv": [32, 12], "uv_size": [-32, 14]},
+								"down": {"uv": [32, 80], "uv_size": [-32, -14]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

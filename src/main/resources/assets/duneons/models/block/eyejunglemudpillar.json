@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/jungle_mud_pillar_top",
+    "up": "duneons:block/jungle_mud_pillar_top",
+    "north": "duneons:block/eye_jungle_mud_pillar",
+    "east": "duneons:block/eye_jungle_mud_pillar",
+    "south": "duneons:block/eye_jungle_mud_pillar",
+    "west": "duneons:block/eye_jungle_mud_pillar",
+    "particle": "duneons:block/jungle_mud_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/double_pink_coral",
+  "textures": {
+    "all": "duneons:block/long_pink_ones_top",
+    "particle": "duneons:block/long_pink_ones_top",
+    "1": "duneons:block/double_pink_coral_top",
+    "2": "duneons:block/double_pink_coral_bottom"
+  },
+  "render_type": "cutout"
+}

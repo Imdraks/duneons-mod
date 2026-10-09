@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stronghold_stone_tille",
+    "up": "duneons:block/stronghold_stone_tille",
+    "north": "duneons:block/stronghold_stone_tille",
+    "east": "duneons:block/stronghold_stone_tille",
+    "south": "duneons:block/stronghold_stone_tille",
+    "west": "duneons:block/stronghold_stone_tille",
+    "particle": "duneons:block/stronghold_stone_tille"
+  },
+  "render_type": "solid"
+}

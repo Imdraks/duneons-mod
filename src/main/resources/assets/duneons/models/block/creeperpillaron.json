@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/creeper_pillar_1.11_on",
+  "textures": {
+    "all": "duneons:block/creeper_pillar_on",
+    "particle": "duneons:block/stone",
+    "0": "duneons:block/creeper_pillar_on"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/stronghold_stone_chair",
+  "textures": {
+    "all": "duneons:block/t_stonechair_stronghold",
+    "particle": "duneons:block/t_stonechair_stronghold",
+    "0": "duneons:block/t_stonechair_stronghold",
+    "missing": "duneons:block/t_stonechair_stronghold"
+  },
+  "render_type": "solid"
+}

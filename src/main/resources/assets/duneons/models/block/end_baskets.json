@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/endbaskets",
+  "textures": {
+    "all": "duneons:block/endbaskets",
+    "particle": "duneons:block/endbaskets",
+    "0": "duneons:block/t_endbasketscrates",
+    "missing": "duneons:block/t_endbasketscrates"
+  },
+  "render_type": "solid"
+}

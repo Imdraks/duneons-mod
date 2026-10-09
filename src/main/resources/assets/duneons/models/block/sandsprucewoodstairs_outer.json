@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/sand_spruce_wood",
+    "bottom": "duneons:block/sand_spruce_wood",
+    "top": "duneons:block/sand_spruce_wood",
+    "side": "duneons:block/sand_spruce_wood"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tube_coral",
+  "textures": {
+    "all": "duneons:block/purple_tube_coral",
+    "particle": "duneons:block/purple_tube_coral",
+    "0": "duneons:block/purple_tube_coral"
+  },
+  "render_type": "cutout"
+}

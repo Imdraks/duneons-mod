@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/urn03",
+  "textures": {
+    "all": "duneons:block/urn03",
+    "particle": "duneons:block/urn03",
+    "0": "duneons:block/urn03"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_mesh_pick",
+  "textures": {
+    "all": "duneons:block/end_meshfades_stone",
+    "particle": "duneons:block/end_meshfades_stone",
+    "0": "duneons:block/end_meshfades_stone",
+    "missing": "duneons:block/end_meshfades_stone"
+  },
+  "render_type": "solid"
+}

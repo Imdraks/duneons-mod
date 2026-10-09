@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/fence_big_1.11",
+  "textures": {
+    "all": "duneons:block/long_fence",
+    "particle": "duneons:block/shelf_top",
+    "0": "duneons:block/long_fence"
+  },
+  "render_type": "solid"
+}

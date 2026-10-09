@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/boneclub_fix",
+  "textures": {
+    "0": "duneons:block/t_boneclub_unique1",
+    "missing": "duneons:block/t_boneclub_unique1",
+    "particle": "duneons:item/bone_cudgel"
+  }
+}

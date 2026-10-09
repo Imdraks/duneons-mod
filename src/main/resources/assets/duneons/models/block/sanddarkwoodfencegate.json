@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "particle": "duneons:block/sand_dark_wood",
+    "texture": "duneons:block/sand_dark_wood"
+  },
+  "render_type": "solid"
+}

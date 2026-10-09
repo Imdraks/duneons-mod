@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/hammerofgravity",
+  "textures": {
+    "1": "duneons:block/t_hammer_unique2",
+    "particle": "duneons:item/hammer_of__gravity"
+  }
+}

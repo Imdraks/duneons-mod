@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/outpostwood_planks",
+    "bottom": "duneons:block/outpostwood_planks",
+    "top": "duneons:block/outpostwood_planks",
+    "side": "duneons:block/outpostwood_planks"
+  },
+  "render_type": "solid"
+}

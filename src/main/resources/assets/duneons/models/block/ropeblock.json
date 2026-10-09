@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/robe_block",
+  "textures": {
+    "all": "duneons:block/t_windswept_props_trim",
+    "particle": "duneons:block/outpost_wood",
+    "0": "duneons:block/t_windswept_props_trim"
+  },
+  "render_type": "solid"
+}

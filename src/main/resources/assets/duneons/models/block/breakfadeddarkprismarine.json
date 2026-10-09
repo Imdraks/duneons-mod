@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/break_faded_dark_prismarine_path",
+    "up": "duneons:block/break_faded_dark_prismarine_path",
+    "north": "duneons:block/break_faded_dark_prismarine_path",
+    "east": "duneons:block/break_faded_dark_prismarine_path",
+    "south": "duneons:block/break_faded_dark_prismarine_path",
+    "west": "duneons:block/break_faded_dark_prismarine_path",
+    "particle": "duneons:block/break_faded_dark_prismarine_path"
+  },
+  "render_type": "solid"
+}

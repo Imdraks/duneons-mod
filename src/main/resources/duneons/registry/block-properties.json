@@ -1,0 +1,12142 @@
+{
+  "ablebook": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "abyssal_doorpainting_2": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "abyssalwallsmall": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "anatomycreeper": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "anchorblock": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ancientruinebrick": {
+    "facing": [
+      "south",
+      "west"
+    ]
+  },
+  "ancientruinebrickfive": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "ancientruinebrickseven": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "ancientruinebricksfour": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "ancientruinebrickssix": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "ancientruinebrickstwo": {
+    "facing": [
+      "south",
+      "west"
+    ]
+  },
+  "ancientruinebrickthree": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ]
+  },
+  "andesitecolumn": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "andesitehighlandstone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "andesitskeleton": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "andesitskeletonslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "anviliron": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "anvilwithhammer": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "apple": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "applebox": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "aquabricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "aquabricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "aquabrickswall": {
+    "east": [
+      "low",
+      "none"
+    ],
+    "north": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "south": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "aquasandbricksslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "aquasandbricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "aquasandbrickswall": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "south": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none",
+      "tall"
+    ]
+  },
+  "archcouch": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "arenaeyeblock": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "armchair": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "armorstand": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "arrow": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "arrowtarget": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "axolotlglowblue": {
+    "facing": [
+      "down",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "axolotlglowgreen": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "axolotlglowpurple": {
+    "facing": [
+      "down",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "axolotlglowred": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "axolotlglowyellow": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bagpack": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboo_fire_pillar": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboo_wood": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "bamboo_wood_button": {
+    "face": [
+      "floor",
+      "wall"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboo_wood_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboo_wood_slab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboo_wood_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboobiggrass": {
+    "age": [
+      "14",
+      "legacy_unused"
+    ],
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "bamboobrickerslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboobrickslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboocobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bamboocobblestoneslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboodirtleaf": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bamboofloor": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bambooflowerlog": {
+    "axis": [
+      "y",
+      "z"
+    ]
+  },
+  "bamboogoldslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboograssslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bamboolog": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "bamboomelon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bamboooldplant": {
+    "age": [
+      "0",
+      "10",
+      "14",
+      "15",
+      "2",
+      "4",
+      "8"
+    ]
+  },
+  "bambooreeds": {
+    "age": [
+      "0",
+      "12",
+      "6",
+      "7",
+      "9"
+    ]
+  },
+  "bamboostonebricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "barrelbeer": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "barricade": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "basalticblackstone": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "batglowblue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "batglowgreen": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "batglowpurple": {
+    "facing": [
+      "down",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "batglowred": {
+    "facing": [
+      "down",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "batglowyellow": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "beetrootshelf": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bell": {
+    "animation": [
+      "1",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "berries": {
+    "distance": [
+      "7",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ]
+  },
+  "big_clay_pot": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigbridge": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigbridgeend": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigcandle": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigclayvase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigendlantern": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigfernbamboo": {
+    "age": [
+      "0",
+      "legacy_unused"
+    ],
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "bigferncreeperwoods": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "biggrasscreeper": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "biggreenhighlandbanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bighighlandbanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigi_illagerfurnace": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigorangehighlandbanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigtombstone": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigtowerbannergreen": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigtowerbannerred": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bigwellwater": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blackdungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "blackstonegatestickstop": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazecube": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazeglowblue": {
+    "facing": [
+      "down",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazeglowgreen": {
+    "facing": [
+      "east",
+      "north",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazeglowpurple": {
+    "facing": [
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazeglowred": {
+    "facing": [
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blazeglowyellow": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluebanner": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluebook": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluebook_2": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluedoorbricks": {
+    "type": [
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "blueglassdungeons": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "bluerubberduck": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluevangardglass": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluevangardvase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bluevase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "boneladder": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bonelanternfloor": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "books": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bookshelfdun": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bookshelfpainting": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bookshelfredbooks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bottle": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bowglowblue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bowglowgreen": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bowglowpurple": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bowglowred": {
+    "facing": [
+      "down",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bowglowyellow": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "boxfood": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brazierhighland": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brazieroff": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "braziertemple": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brickbricker": {
+    "axis": [
+      "y",
+      "z"
+    ]
+  },
+  "brickcolon": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brickcolonium": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "bricker_fence": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none"
+    ]
+  },
+  "brickerfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "variant": [
+      "cobblestone",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "brickermoss": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "brickerslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brickevil": {
+    "axis": [
+      "x",
+      "y"
+    ]
+  },
+  "brickocelot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bricksand_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bricksandstairs": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ]
+  },
+  "bridgeblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bridgeplanks": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "briker_stairs": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brikercolon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brikerstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ]
+  },
+  "broom": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brownbook": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brownbook_2": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "brownbook_3": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "browncoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bubble_colume": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "bubblecolumemagma": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "burned_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "burned_log": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "burned_slab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "burned_stairs": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "burnedcharreddirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "burnfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "burnmossblock": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "busher": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "busherstone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "bushfern": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "bushsmall": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "cactilonggrass": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "cadavercow": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cage": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "caldrondungeon": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "campcubesblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "candle": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "candle_3": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "candle_4": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "candlebras": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "candleon": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "carrotshelf": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "cart": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cartbrokensnow": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "carvedandesiteslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "carvedprismarineslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "carvedtowerdirtbricks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "carvedtowerdirtbricksslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "carvedtowerdoorbricks": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "carvedtowerstairsbricks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "cauidron": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cauidronwitch": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cell": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chain": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chain_plane": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chainfly": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "chair": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chandelier": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "charredfarmland": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "charredgrassblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "chest_piglin_rare": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chest_piglin_small": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chestglowblue": {
+    "facing": [
+      "down",
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chestglowgreen": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chestglowpurple": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chestglowred": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chestglowyellow": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chickenjockeystatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chiseledlightbricks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "chiseledstonebricks": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "choppedredwindsweptlog": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "choppedredwindsweptwood": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "chorus_leaves": {
+    "distance": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "chorusflowerlog": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "chorustree": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "clam_jump": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "clam_jumpopen": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "clam_prop": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "clam_propopen": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "claycap": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "clayvase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "closedbook": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "closedbook_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "closedbookleft": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "closedbookright": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coarsedirtslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cobwebdig": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coins": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coinsmall": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coinsstage_1": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coinsstage_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "compressednetherrack": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "conduit_holder": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "continenttablecacti": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "coppervillager": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coral_vase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "coralgate": {
+    "animation": [
+      "0",
+      "3"
+    ],
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "core": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "corelid": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "corewire": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "corewirecoloon": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cornbox": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "corrupted_log": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "crackeddarkstoneslab": {
+    "type": [
+      "double",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeper_pillarjungle": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperbanner": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creepercube": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperdoor": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "half": [
+      "lower",
+      "upper"
+    ],
+    "hinge": [
+      "left",
+      "right"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperdoors": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperglowblue": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperglowgreen": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperglowpurple": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperglowred": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperglowyellow": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperstatue": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperstonebrickstairs": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creepertotem": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creepertrophy": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "creeperwoodsgalka": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "creeperwoodsmoss": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "crimson_ivy": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "crucible": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "cruciblelava": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "cryptchiseledcoloon": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "cryptsmoothslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "crystalblue": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubebanner": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubeglowblue": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubeglowgreen": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubeglowlime": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubeglowpurple": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cubeglowred": {
+    "facing": [
+      "down",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtain_straightgrey": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtainssmall": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtainssmallclose": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtainstraightblack": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtainstraightmde": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "curtainstraightred": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "cyanglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "dangerwoodsign": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "darkbrick": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "darkclaybrickslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkcobblestoneslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkcobblestonestairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkcobblestonewall": {
+    "east": [
+      "none",
+      "tall"
+    ],
+    "north": [
+      "none",
+      "tall"
+    ],
+    "south": [
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "none",
+      "tall"
+    ]
+  },
+  "darkdirtpath": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkdirtpebbles": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "darknesschest": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkprismarineslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darksandprismarine": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "darkstone_bricks_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkstonebricks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "darkstoneslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "darkstonewall": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "south": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none",
+      "tall"
+    ]
+  },
+  "deadsign": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "deadtree": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "deathcoraldirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "deerrugsquare": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "demonstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "desertcarpet": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "deserturn": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "desertvase": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "developerstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "diamondchest": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dingyjungle_cobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dingyjunglecobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dingyjunglecobblestoneslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dirtbambbostone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dirtdark": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dirtyandesitebricks": {
+    "facing": [
+      "east",
+      "south"
+    ]
+  },
+  "dirtyprismarineslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dirtystone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dirtytower_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "dirtytower_slab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "doordesertdiamond": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "doordeserttemple": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "doubleplanthighlandfern": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "dragonstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "driedhaybales": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "drumcymbal": {
+    "facing": [
+      "south",
+      "west"
+    ]
+  },
+  "dry_leaves": {
+    "distance": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonbarrel": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonbarrelbeer": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonbarrelfish": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeoncactus": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonglass": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonredglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonscharredcobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dungeonscharredcobblestoneslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonscharredcobblestonewall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "legacy_unused",
+      "none"
+    ],
+    "south": [
+      "legacy_unused",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "dungeonscharreddirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "dungeonschessstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonslantern": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dungeonsmalltable": {
+    "facing": [
+      "north",
+      "south"
+    ]
+  },
+  "dungeonsmalltablebook": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "dungeonsmalltablemap": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "dunglass2": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "dustdiamond": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "dustybookshelf": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "embeddedblackstonebricks": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "emeraldchest": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "emptycosoplush": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "enchantedcarpet": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "enchantercarpet": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "end_baskets": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endbanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endcandle": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endcitadelcriseledslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endcitadelcriseledstairs": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endcitadelcriseledwall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "none",
+      "tall"
+    ],
+    "south": [
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "none",
+      "tall"
+    ]
+  },
+  "endcitadelpillarchiseledslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "enddoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "enddoorwall": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "endercube": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanglowblue": {
+    "facing": [
+      "down",
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanglowgreen": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanglowpurple": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanglowred": {
+    "facing": [
+      "down",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanglowyellow": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endermanstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endglowblue": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endglowgreen": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endglowpurple": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endglowred": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "endmeshfadespick": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "endmeshfadesstonestairs": {
+    "east": [
+      "low",
+      "none"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none"
+    ]
+  },
+  "endpurplevine": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "endtorch": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "evokerpainting": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "exitwood": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "eyedrug": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fallenbarrel": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fan": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fancyfence": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fancyfence_corner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fancyfence_end": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fancyfence_straight": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fanon": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fencebars": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fencebig": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fencecorner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fenceend": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fencestraight": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fencetcorner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "firepit": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "firepumkin": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "fishbox": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fishnet_hung": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fishnethung": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "flask": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "floorboards": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "floorboardsstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "floormandala": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "floralrug": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "flowerpurplecoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "flowerrug": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fortresstilesnetherrack_1": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "fortresstilesnetherrack_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "fossilrock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "frozenbricksslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "frozenbricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "frozenbrickswall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "legacy_unused",
+      "none"
+    ],
+    "south": [
+      "legacy_unused",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "frozenspruceleaves": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "fruitweepingvinesplant": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "galkaice": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "gate_barsbittom": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gate_barsclose": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gate_pickle": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gatebarsbittoff": {
+    "animation": [
+      "0",
+      "3"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gateblock": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "gatecoloon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "gearon": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "giantgoldencandle": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "giantgoldenchains": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "giantnetheritechains": {
+    "axis": [
+      "x",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gift_wrap": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "glowmelonroot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "glowstoneredstonemines": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "gold_button": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "gold_buttongreen": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "goldapplebox": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldbench": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldblockchiseledslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldcandle": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldcandlefire": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldchain": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldchest": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "golddeserttemplebrick": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldiron_butto": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "goldplartform": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "goldplartformright": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "goldtrabdoor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "goldwindhole": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "golemruin": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "golemruin_2": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "golemruin_3": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "grandpiano": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "granitebrickskelp": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "granitebrickskelpslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "granitevase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "grass3": {
+    "type": [
+      "dandelion",
+      "legacy_unused"
+    ]
+  },
+  "grassmoss": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "gravestonecreeper": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gravestonecreepermoss": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "graydungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "graytower_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "graytower_slab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "graytower_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "greenbubblecoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "greencarpet": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "greendungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "greenendstone_slab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "greenlongvase": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "greenvase": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "gridfloors": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "groupbook": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "guidebeacon": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "haybale": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "haypile": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highbigtallgrass": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "highlandbannerblue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandbars": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandbricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandbricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandfloor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "highlandlamp": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandlampwood": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandlog": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "down",
+      "north",
+      "south",
+      "up",
+      "west"
+    ]
+  },
+  "highlandoakfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandoakstairs": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "highlandplantable": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "higlandoakslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "hoglinskull": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "housecarpet": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "housesign": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "hoveringinfernostatue": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "humanvase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "i_illagerfurnacesmall": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_dark_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_dark_slab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_dark_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "legacy_unused",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_dark_wood": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "ice_oak_fence_gate": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "in_wall": [
+      "false",
+      "true"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_oak_pressure_plate": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_oak_slab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_oak_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ice_oak_wood": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "ice_spikes": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "iceblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "icebrazier": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icebrick": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "icebricker": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "icebricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icebricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icebrokenlamp": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icebutton": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "icebuttonruin": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "icechiseledbrickslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icechiseledlostsettlement": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "icecoloon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "icecoloontop": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "icedoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "icedoorbrick": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "icelatticebrick": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "iceoakwood": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "iceoakwoodfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "icerocky": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "iceropelampdown": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "iceropelamptop": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "iceropelampwood": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "icetorch": {
+    "axis": [
+      "y",
+      "z"
+    ]
+  },
+  "icewoodbuttom": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "icicles": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "illager_gargoyle": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "illagergargoyle": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "illagergargoylehat": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "inkpot": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "inventorytable": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ironbell": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "irongoldenchains": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "jungleflowerleafy_2": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "keyglowblue": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "keyglowgreen": {
+    "facing": [
+      "down",
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "keyglowpurple": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "keyglowred": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "keyglowyellow": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "knifetrap": {
+    "animation": [
+      "1",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "labglassware": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "labglasswaresmall": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lamppostdown": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lamppostdownsnow": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lampposttop": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "lampposttopsnow": {
+    "facing": [
+      "east",
+      "south"
+    ]
+  },
+  "lantern_big": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "large_crate": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "large_crate_carpet": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "large_metal_brazier": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "largecarpet": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "largechain": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "largerlfence": {
+    "facing": [
+      "south",
+      "west"
+    ]
+  },
+  "latticestonedirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "lavabrickblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "lavacobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "leaf2": {
+    "facing": [
+      "south",
+      "west"
+    ]
+  },
+  "leaverpalm": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "leavesbamboo": {
+    "distance": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "leavesbigbamboo": {
+    "distance": [
+      "7",
+      "legacy_unused"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ]
+  },
+  "leavescreeperwoods": {
+    "distance": [
+      "7",
+      "legacy_unused"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ]
+  },
+  "leavesend": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "leaveswindswept": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "light_button": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "lightbluedungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "lightbook": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lightbook_2": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lighthouselamp": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lightpinkcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lily_pad_gigantic": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lilypadgigantic": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "limevase": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "loaf": {
+    "facing": [
+      "east",
+      "south"
+    ]
+  },
+  "lobby_carpet": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "loggold": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lonelycarpet_1": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "lonelycarpet_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "longbluebanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "longpinkcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "longredbanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "longredhighlandbanner": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "looseearth": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "loot_biggreen": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "loot_biggrey": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "luxury_carpet": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "luxurybanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "luxurybooth": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "magentadungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "magmacubelantern": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "marinemagma": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "marketboothbigtent": {
+    "animation": [
+      "1",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "marketboothbigtentgreen": {
+    "animation": [
+      "1",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "marketboothbigtentpurple": {
+    "animation": [
+      "1",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "marketboothblue": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "marketboothred": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mesagrss": {
+    "type": [
+      "dandelion",
+      "legacy_unused"
+    ]
+  },
+  "mesapainting": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "messagrass": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "metalcube": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "metalcubechain": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "milkjug": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "minecartpille": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "miniflages": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "miniorangeflag": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "minivillagerstatue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mixedblacknetherbricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "legacy_unused",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mixedcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mobsglowblue": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mobsglowgreen": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mobsglowpurple": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mobsglowred": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mobsglowyellow": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monsterglowblue": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monsterglowgreen": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monsterglowlime": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monsterglowpurple": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monsterglowred": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monstrosityglowblue": {
+    "facing": [
+      "down",
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monstrosityglowgreen": {
+    "facing": [
+      "down",
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monstrosityglowpurple": {
+    "facing": [
+      "down",
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monstrosityglowred": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "monstrosityglowyellow": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mosscloudy_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "mossdirtpumpkin": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossenbambbocobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossendirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossplant": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "mossslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossstone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mosstroom": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mosstroomgrass": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mosstroomslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossy_ocelotstatue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossybrickevil": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "mossycobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossycobblestoneslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossycobblestonestairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossydarkandesitetiles": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossydarkandesitetilesstairs": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mossystone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "mossystoneslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mudwithstones": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "muralsmall_1": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "muralsmall_2": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mushroomcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "mushroompainting": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "mysterycarpet": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "nameless": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "namelesscandleon": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "namelessstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "naturalcandle": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "nether_brazier": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "netherchisiledgoldenbricks": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "nethergatechisiledgoldwall": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none"
+    ]
+  },
+  "netheritetrapdoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "netheturewall": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "south": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none",
+      "tall"
+    ]
+  },
+  "obsidiancreeper": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "obsidianloot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "ocelotcube": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "openedbook": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "openedbookleft": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "openedbookright": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "opengift": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "orangecoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "orangerose": {
+    "type": [
+      "dandelion",
+      "legacy_unused"
+    ]
+  },
+  "orangesvase": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpost": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpost_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostblueslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostbricksslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostbrickswall": {
+    "east": [
+      "low",
+      "none"
+    ],
+    "north": [
+      "legacy_unused",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none"
+    ]
+  },
+  "outpostlampdown": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostlamptop": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpoststairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outposttent": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostwood_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "outpostwood_slab": {
+    "type": [
+      "legacy_unused",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "palmlog": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pandastatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "paper_graph_01": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "paper_graph_02": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "paper_graph_03": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "parturesorangeplant": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "pasturesbreakstoneslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pasturesdirtbricksslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pasturesdirtbricksstairs": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pasturesferntall": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "pasturesmossyslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pasturesmossystonebrickswall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "pattern": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "patternedbasaltslab": {
+    "type": [
+      "double",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "patternedbasaltstairs": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "patternedbriker": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "pear": {
+    "facing": [
+      "north",
+      "south"
+    ]
+  },
+  "peonydied": {
+    "type": [
+      "dandelion",
+      "legacy_unused"
+    ]
+  },
+  "pillagerfurnace": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ]
+  },
+  "pillagerglowblue": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pillagerglowgreen": {
+    "facing": [
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pillagerglowpurple": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pillagerglowred": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pillagerglowyellow": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pillarhighland": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "pillartowerbricks": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "pinkflatcoral": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pinklongcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pinknamelessvase": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pinkycoral": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pipegreenvase": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pipepinkvase": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "plant1": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "planter": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "planterlong": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "planterlongbig": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "platform": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ]
+  },
+  "platformtop": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "playersglowblue": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "playersglowgreen": {
+    "facing": [
+      "legacy_unused",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "playersglowlime": {
+    "facing": [
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "playersglowpurple": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "playersglowred": {
+    "facing": [
+      "east",
+      "north",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "playerstatuesfortress": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "plentysand": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "plinth": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "podium": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "podiumbuttomoff": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "polishedgraniteslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "prismarinebricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "prismarinedoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "prismarinetable": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "prismarinevillager": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "prismarinewalls": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "pumpkinscarecrow": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "pumpkinscarecrowfecre": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "punkindoor": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "lower",
+      "upper"
+    ],
+    "hinge": [
+      "left",
+      "right"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "purplebubblecoral": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "purpleendstonemoss": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "purplevase": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "purplewoodstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "purpur_lamp": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "raidrewardchest": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "railingmetal": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "rainbowcarpet": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rainbowglass": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rampartbrazier": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ravager_gatewood": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ravagergateiron": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ravagergateiron_2": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ravagergatewood_2": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ravagergatewood_3": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "red_stonecrystal_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redbook_2": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redbook_3": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "reddungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "redgoldvangard": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redgoldvangardcarpet": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redleaves": {
+    "distance": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redrubberduck": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecoreblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecrystal2": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecrystal3": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecrystal_1": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecrystal_3": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonecrystal_4": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonedustcobblestone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redstonedusts": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "redtallflower": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "reedbook": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rewardstotem": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rewardstotem_top": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rope": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ropeberries": {
+    "facing": [
+      "down",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ropeblock": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ropeladder": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "ropewood": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rottedpumpkintop": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "rottenapple": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rottenjunglelog": {
+    "axis": [
+      "legacy_unused",
+      "x"
+    ]
+  },
+  "rubyrug": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rug": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rug_2": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rug_3": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rug_huge": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rugmetal": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "runeactivator": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "runeblock": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "runedoorblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "runefloor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "runegate": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "runerelay": {
+    "axis": [
+      "legacy_unused",
+      "z"
+    ]
+  },
+  "runetowerslab": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rustychains": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "rustynetheritetrapdoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sack": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sacksmall": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sanctumstonecuttop_stairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "legacy_unused",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sanctumstonecuttopslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sanctumstonepattern": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sanctumstoneslab": {
+    "type": [
+      "legacy_unused",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sanctumstonestairs": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandbrick_fence": {
+    "east": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "north": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "south": [
+      "low",
+      "none",
+      "tall"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none",
+      "tall"
+    ]
+  },
+  "sandbrickslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandcarvedprismarine": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandcarvedsla": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandcobblestoneslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandcobblestonestairs": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sanddirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandduststoneslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandduststonestairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandgranite": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandgranitebricksslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandgraniteslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandgrass": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "sandlayer": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandlayer_2": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandlayer_3": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandmoss": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "sandrise": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandstar": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "sandstonebrickcrackedslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandstonebrickcrackedstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sandstonebricks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandstonefull": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sandycobblestoneslab": {
+    "type": [
+      "bottom",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sawcutsprucelog": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "sawsprucecoloon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "sawstone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "scalyprismarineslab": {
+    "type": [
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "scarecrow": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "scarytotem": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "sconce": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "seabone": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "seadarkwoodfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "seagrass": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sealantern": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "seastatuevillager": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "settlementstonebrickswall": {
+    "east": [
+      "low",
+      "none"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "low",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "low",
+      "none"
+    ]
+  },
+  "shield_johan": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "shieldmobspawner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "shopkeeperleather": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "shumansatue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signarrowleaves": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signbeer": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signbeerleaves": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signchain": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signchainleaves": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signhammer": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signhammerleaves": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signharpicleaves": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signmde": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signmdeleaves": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signpiglinleaves": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signsword": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "signswordleaves": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "sinker": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonbricker": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "skeletoncube": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonglowblue": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonglowgreen": {
+    "facing": [
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonglowpurple": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonglowred": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletonglowyellow": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "skeletontrophy": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "slabjunglewoodovergrown": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "slashplush": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "slimecube": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "slottedstone": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "smallbigseagrass": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smallcabinet": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "smalllatticedrug": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smalltray": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smalltraylobbyplant": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smoothbricksdust": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "smoothdarkstonebricksslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smoothdarkstonebricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "smoothdarkstonebrickswall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "legacy_unused",
+      "none"
+    ],
+    "south": [
+      "legacy_unused",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "smoothtroom": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ]
+  },
+  "smoothtroomblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "snakeglowblue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snakeglowgreen": {
+    "facing": [
+      "down",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snakeglowpurple": {
+    "facing": [
+      "down",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snakeglowred": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snakeglowyellow": {
+    "facing": [
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snowcoveredstonetiles": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "snowdoubleplantgrasstop": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "snowflakerug": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "snowneddirt": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "snowydoubleplantfern": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "soggybridge": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "soggyswamobricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "soggyswampbricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "soilcactistonestairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "soultrophy": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spiderglowblue": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spiderglowgreen": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spiderglowred": {
+    "facing": [
+      "down",
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spiderglowyellow": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spidersucculent": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spidersucculentstem": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spike_plates": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "spikeplatesdamage": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "squallgolemstand": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stabledoor": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stackofbooks": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stainedglass": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stairstroom": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "standfortorch": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "standfortorchgold": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "statue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "statue_ocelot": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stone_container": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stone_rubble": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebricker": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebricksdirtslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebricksdirtstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebricksnowslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebricksnowstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonebrickssniwferce": {
+    "east": [
+      "low",
+      "none"
+    ],
+    "north": [
+      "low",
+      "none"
+    ],
+    "south": [
+      "legacy_unused",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "stonehorse": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonehorse2": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "stoneocelot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "stonepath": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonetablemap": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stonetablemaping": {
+    "animation": [
+      "0",
+      "2"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "storagechest": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "strongcolon": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "strongcolonstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "stronghold_table": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "strongholdbench": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "strongholdchair": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "strongholdstonechair": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "summonnecromancer": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "sundial": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "supportbeam": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "supportbeamcross": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "supportbeams": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "supportbeamwood": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "swamp_fence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "swamp_slab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "swamp_stairs": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "swampleaves": {
+    "distance": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "persistent": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "swamplog": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "swamptallgrass": {
+    "half": [
+      "lower",
+      "upper"
+    ]
+  },
+  "t_map_table_nether": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "t_market_booth_wide_02": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "t_marketbooth_big_flat_ot_no_patch": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "t_marketbooth_big_tent_ot_no_patch": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "t_wooden_chest": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "table": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tablebook": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tablecloth": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tablemap": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tablemedium": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tablesmall": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tawningred": {
+    "facing": [
+      "north",
+      "south"
+    ]
+  },
+  "tcurtains": {
+    "facing": [
+      "east",
+      "west"
+    ]
+  },
+  "teapot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "teddybear": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "telescope": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tent": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "teracottamase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "testblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "testillager": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "testtubes": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "thin_end_table": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "thoneice": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "throneblock": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "tightlyfrozenbricks": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "tikitorch": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tlargepot": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tmarketboothbigtentotnopatch": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ]
+  },
+  "tomb": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tombpainting": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "tombstone": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "toolstowerbricks": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "totemblock": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "tower_wooded_door": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerbluevase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerbookshelfcobweb": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "towerbookshelfpaper": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ]
+  },
+  "towerbricksslab": {
+    "type": [
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerbricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerchiseledurn": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerdoorbricks": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "toweremblemepillar": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "towerglowblue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerglowgreen": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerglowpurple": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerglowred": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerglowyellow": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towergongbricks": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "towergraypillar": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ]
+  },
+  "towergreenbanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerkeeperstatue": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "towerladder": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerlamp": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerleaves": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerleavesflowers": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towermosswhitebricks": {
+    "facing": [
+      "east",
+      "north"
+    ]
+  },
+  "towerpillar": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerplanksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerplanksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "outer_left",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerplate": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "towerpodium": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerpolishedwhitebricksslab": {
+    "type": [
+      "bottom",
+      "double",
+      "top"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerpolishedwhitebricksstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "legacy_unused",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerredbanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towersmoothpillar": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "towerstonebanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerswordbricks": {
+    "facing": [
+      "north",
+      "west"
+    ]
+  },
+  "towertable": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towertrapdoor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towervase": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerwhiteurn": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "towerwoodfence": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "trone": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "troomblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "troomdiorite": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "troomfloor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "troomgoldblockstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "shape": [
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "troomgoldenblock": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "trophy_shield": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "twoodenchest": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "underwaterbrazier": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "underwaterlamp": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "urn_loot_big_red": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "urnclosed": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "urndesertloot": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "urnlootnameless": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "uultistatuette": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vangardbanner": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vangardcarpetblock": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vangarddoor": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "lower",
+      "upper"
+    ],
+    "hinge": [
+      "left",
+      "right"
+    ],
+    "open": [
+      "false",
+      "true"
+    ],
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "vangardglass": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "vangardlamp": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vangardlampoff": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vangardskeletoncarpet": {
+    "facing": [
+      "legacy_unused",
+      "west"
+    ]
+  },
+  "vasedungeon": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vasehighland": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vasepinki": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vault_button": {
+    "powered": [
+      "false",
+      "true"
+    ]
+  },
+  "villager_statuesmooth": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "villagercage": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "villagercageluxury": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "villagercube": {
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "villagerstatuejungle": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "vine": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "voidflowmuddy": {
+    "level": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "voidlight_2": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "voidlight_3": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "voidmoss": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "volcanicblock": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "volcaniccobblestoneslab": {
+    "type": [
+      "bottom",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wall_shrooms": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wall_shrooms_blue": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wallshrine": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "waterbarrel": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "east",
+      "south",
+      "up"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "weathervane": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "well": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "well_big": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wellbig": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wellwater": {
+    "facing": [
+      "legacy_unused",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "westerngate": {
+    "facing": [
+      "east",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wheelbarrow": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "wheelbarrowsmall": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "whitebrowntoweratlas": {
+    "facing": [
+      "east",
+      "south",
+      "west"
+    ]
+  },
+  "whitepillartowerbricks": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  "whitesmoothtowerstairs": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "half": [
+      "bottom",
+      "top"
+    ],
+    "shape": [
+      "inner_left",
+      "inner_right",
+      "outer_left",
+      "outer_right",
+      "straight"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "whitesmoothtowerwall": {
+    "east": [
+      "legacy_unused",
+      "none"
+    ],
+    "north": [
+      "legacy_unused",
+      "none"
+    ],
+    "south": [
+      "legacy_unused",
+      "none"
+    ],
+    "up": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "legacy_unused",
+      "none"
+    ]
+  },
+  "windhole": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windholegrey": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windholeochre": {
+    "axis": [
+      "legacy_unused",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windorangebannerdown": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windorangebannertop": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windorangebannerwood": {
+    "facing": [
+      "down",
+      "east",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windsweptblocks": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windsweptredlog": {
+    "axis": [
+      "x",
+      "y"
+    ]
+  },
+  "windwillplartform": {
+    "facing": [
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "windwillpropeller": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "windwillroof": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "wiremeshblock": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "witchglowblue": {
+    "facing": [
+      "down",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "witchglowgreen": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "witchglowpurple": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "witchglowyellow": {
+    "facing": [
+      "south",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "witchpole": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "wolfstatue": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ]
+  },
+  "woodbacket": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodbacketwater": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodblock": {
+    "facing": [
+      "east",
+      "north",
+      "up",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodbucket": {
+    "facing": [
+      "east",
+      "north",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodbucketwater": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodcross": {
+    "axis": [
+      "x",
+      "y"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodenarrow": {
+    "facing": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "woodenbellows": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodenwindow": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "woodsawon": {
+    "animation": [
+      "0",
+      "legacy_unused"
+    ],
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "woodvillagepainting": {
+    "facing": [
+      "east",
+      "legacy_unused"
+    ]
+  },
+  "yellowbigcoral": {
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "yellowdungeonsglass": {
+    "east": [
+      "false",
+      "true"
+    ],
+    "north": [
+      "false",
+      "true"
+    ],
+    "south": [
+      "false",
+      "true"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ],
+    "west": [
+      "false",
+      "true"
+    ]
+  },
+  "yellowflatcoral": {
+    "facing": [
+      "legacy_unused",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "yellowrubberduck": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombiecube": {
+    "facing": [
+      "east",
+      "north",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombieglowblue": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombieglowgreen": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombieglowpurple": {
+    "facing": [
+      "east",
+      "south"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombieglowred": {
+    "facing": [
+      "east",
+      "north"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombieglowyellow": {
+    "facing": [
+      "down",
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zombietrophy": {
+    "facing": [
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  },
+  "zozoplush": {
+    "facing": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "waterlogged": [
+      "false",
+      "true"
+    ]
+  }
+}

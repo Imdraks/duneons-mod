@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/woodland_mansion_roof_log_top",
+    "up": "duneons:block/woodland_mansion_roof_log_top",
+    "north": "duneons:block/woodland_mansion_roof_log",
+    "east": "duneons:block/woodland_mansion_roof_log",
+    "south": "duneons:block/woodland_mansion_roof_log",
+    "west": "duneons:block/woodland_mansion_roof_log",
+    "particle": "duneons:block/woodland_mansion_roof_log_top"
+  },
+  "render_type": "solid"
+}

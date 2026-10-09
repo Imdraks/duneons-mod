@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" a ","bcb"," b "],"key":{"a":"duneons:chain","b":"minecraft:iron_nugget","c":"minecraft:torch"},"result":{"id":"duneons:dungeonslantern","count":1}}

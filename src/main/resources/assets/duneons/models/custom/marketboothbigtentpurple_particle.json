@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/marketbooth_big_tent",
+  "textures": {
+    "particle": "duneons:block/marketbooth_big_tent_pb"
+  }
+}

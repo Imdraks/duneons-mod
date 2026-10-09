@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/candle_wall",
+  "textures": {
+    "all": "duneons:block/candle_wall",
+    "particle": "duneons:block/candle_wall",
+    "0": "duneons:block/candle_wall"
+  },
+  "render_type": "cutout"
+}

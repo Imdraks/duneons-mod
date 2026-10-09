@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/chair",
+  "textures": {
+    "all": "duneons:block/chair",
+    "particle": "duneons:block/chair",
+    "0": "duneons:block/chair"
+  },
+  "render_type": "solid"
+}

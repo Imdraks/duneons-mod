@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/asteroid_stone",
+    "up": "duneons:block/asteroid_stone",
+    "north": "duneons:block/asteroid_stone",
+    "east": "duneons:block/asteroid_stone",
+    "south": "duneons:block/asteroid_stone",
+    "west": "duneons:block/asteroid_stone",
+    "particle": "duneons:block/asteroid_stone"
+  },
+  "render_type": "solid"
+}

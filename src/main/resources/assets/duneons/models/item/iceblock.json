@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/ice_cubes"
+  },
+  "render_type": "translucent"
+}

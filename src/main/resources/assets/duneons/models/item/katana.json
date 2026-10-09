@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/katana_1.11",
+  "textures": {
+    "0": "duneons:block/t_katana",
+    "missing": "duneons:block/t_katana",
+    "particle": "duneons:item/coin_gold"
+  }
+}

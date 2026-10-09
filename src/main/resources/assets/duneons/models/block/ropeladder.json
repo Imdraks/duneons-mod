@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/rope_lader",
+  "textures": {
+    "all": "duneons:block/rope_ladder",
+    "particle": "duneons:block/rope_ladder",
+    "0": "duneons:block/rope_ladder"
+  },
+  "render_type": "cutout"
+}

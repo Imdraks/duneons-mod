@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mossy_towerstone_bricks",
+    "up": "duneons:block/mossy_towerstone_bricks",
+    "north": "duneons:block/mossy_towerstone_bricks",
+    "east": "duneons:block/mossy_towerstone_bricks",
+    "south": "duneons:block/mossy_towerstone_bricks",
+    "west": "duneons:block/mossy_towerstone_bricks",
+    "particle": "duneons:block/mossy_towerstone_bricks"
+  },
+  "render_type": "solid"
+}

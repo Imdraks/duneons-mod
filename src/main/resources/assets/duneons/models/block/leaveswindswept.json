@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/windswept_leaves_highland_new",
+  "textures": {
+    "all": "duneons:block/leaves_windswept",
+    "particle": "duneons:block/leaves_windswept",
+    "0": "duneons:block/leaves_windswept",
+    "missing": "duneons:block/leaves_windswept"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/hawkbrand_1.11",
+  "textures": {
+    "0": "duneons:block/awkbrand",
+    "particle": "duneons:item/green_sword"
+  }
+}

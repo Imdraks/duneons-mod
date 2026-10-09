@@ -1,0 +1,38 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.rune_beacon",
+				"texture_width": 128,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 7.5,
+				"visible_bounds_offset": [0, 3.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 0, -8], "size": [16, 16, 16], "uv": [64, 32]},
+						{"origin": [-8, 16, -8], "size": [16, 16, 16], "uv": [64, 32]},
+						{"origin": [-8, -1, -14], "size": [16, 49, 6], "uv": [2, 2]},
+						{"origin": [-8, -1, -14], "size": [16, 49, 6], "pivot": [0, 0, 0], "rotation": [0, -90, 0], "uv": [2, 2]},
+						{"origin": [-8, -1, -14], "size": [16, 49, 6], "pivot": [0, 0, 0], "rotation": [0, 90, 0], "uv": [2, 2]},
+						{"origin": [-8, -1, -14], "size": [16, 49, 6], "pivot": [0, 0, 0], "rotation": [-180, 0, 180], "uv": [2, 2]},
+						{"origin": [-8, 37, -8], "size": [16, 16, 16], "uv": [64, 32]}
+					]
+				},
+				{
+					"name": "bone",
+					"pivot": [-1, 86, 0],
+					"rotation": [49.56773, 40.87906, -4.13382],
+					"cubes": [
+						{"origin": [-8, 77, -8], "size": [16, 16, 16], "uv": [64, 0]}
+					]
+				}
+			]
+		}
+	]
+}

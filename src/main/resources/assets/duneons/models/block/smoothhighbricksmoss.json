@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_blackbricks_moss",
+    "up": "duneons:block/smooth_blackbricks_moss",
+    "north": "duneons:block/smooth_blackbricks_moss",
+    "east": "duneons:block/smooth_blackbricks_moss",
+    "south": "duneons:block/smooth_blackbricks_moss",
+    "west": "duneons:block/smooth_blackbricks_moss",
+    "particle": "duneons:block/smooth_blackbricks_moss"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/giant_netherite_chains",
+  "textures": {
+    "all": "duneons:block/giant_netherite_chains",
+    "particle": "duneons:block/giant_netherite_chains",
+    "0": "duneons:block/giant_netherite_chains"
+  },
+  "render_type": "cutout"
+}

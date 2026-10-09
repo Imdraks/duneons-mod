@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/enchanterstome",
+  "textures": {
+    "0": "duneons:block/enchanterstome",
+    "missing": "duneons:block/enchanterstome",
+    "particle": "duneons:item/item"
+  }
+}

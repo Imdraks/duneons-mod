@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ice_stones",
+  "textures": {
+    "all": "duneons:block/iceblock",
+    "particle": "duneons:block/iceblock",
+    "0": "duneons:block/iceblock"
+  },
+  "render_type": "solid"
+}

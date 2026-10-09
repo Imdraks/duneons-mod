@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/chopped_red_windswept_log_up",
+    "up": "duneons:block/chopped_red_windswept_log_up",
+    "north": "duneons:block/chopped_red_windswept_log_side",
+    "east": "duneons:block/chopped_red_windswept_log_side",
+    "south": "duneons:block/chopped_red_windswept_log_side",
+    "west": "duneons:block/chopped_red_windswept_log_side",
+    "particle": "duneons:block/chopped_red_windswept_log_up"
+  },
+  "render_type": "solid"
+}

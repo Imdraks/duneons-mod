@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_blue_wall",
+  "textures": {
+    "all": "duneons:block/t_keydoorsilver",
+    "particle": "duneons:block/end_citadel_criseled_bricks",
+    "2": "duneons:block/t_keydoorsilver",
+    "missing": "duneons:block/t_keydoorsilver"
+  },
+  "render_type": "cutout"
+}

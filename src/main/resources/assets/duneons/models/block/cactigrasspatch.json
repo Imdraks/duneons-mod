@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/cacti_grass_path",
+  "textures": {
+    "all": "duneons:block/cacti_grass_path_side",
+    "particle": "duneons:block/cacti_grass_path_side",
+    "1": "duneons:block/cacti_grass_path_side",
+    "2": "duneons:block/cacti_grass_path_top",
+    "3": "duneons:block/dirt_minecraft"
+  },
+  "render_type": "solid"
+}

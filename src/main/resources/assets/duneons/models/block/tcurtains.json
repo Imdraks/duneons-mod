@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/curtains_big",
+  "textures": {
+    "all": "duneons:block/custainss_2",
+    "particle": "duneons:block/custainss_2",
+    "0": "duneons:block/t_curtains",
+    "missing": "duneons:block/t_curtains"
+  }
+}

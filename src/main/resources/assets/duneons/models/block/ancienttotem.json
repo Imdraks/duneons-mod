@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ancient_totem_top",
+    "up": "duneons:block/ancient_totem_top",
+    "north": "duneons:block/ancient_totem_side",
+    "east": "duneons:block/ancient_totem_frony",
+    "south": "duneons:block/ancient_totem_side",
+    "west": "duneons:block/ancient_totem_frony",
+    "particle": "duneons:block/ancient_totem_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/netherwartsporegrenade",
+  "textures": {
+    "0": "duneons:block/t_netherwartsporegrenade",
+    "particle": "duneons:item/t_netherwartsporegrenade_gearicon"
+  }
+}

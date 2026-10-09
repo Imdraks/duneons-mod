@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/moss_troom",
+    "bottom": "duneons:block/moss_troom",
+    "top": "duneons:block/moss_troom",
+    "side": "duneons:block/moss_troom"
+  },
+  "render_type": "solid"
+}

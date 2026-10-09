@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/dark_dirt_path",
+  "textures": {
+    "all": "duneons:block/dark_dirt_path",
+    "particle": "duneons:block/dark_dirt_path",
+    "1": "duneons:block/dark_dirt_path"
+  },
+  "render_type": "solid"
+}

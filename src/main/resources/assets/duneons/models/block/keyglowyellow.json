@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/key_glow_yellow",
+  "textures": {
+    "all": "duneons:block/glow_lime_variant",
+    "particle": "duneons:block/glow_lime_variant",
+    "1": "duneons:block/glow_lime_variant",
+    "missing": "duneons:block/glow_lime_variant"
+  },
+  "render_type": "cutout"
+}

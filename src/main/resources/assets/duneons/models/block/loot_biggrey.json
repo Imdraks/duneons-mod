@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/urn_loot_big_gray",
+  "textures": {
+    "all": "duneons:block/urn_loot_big_grey",
+    "particle": "duneons:block/urn_loot_big_grey",
+    "0": "duneons:block/urn_loot_big_grey"
+  },
+  "render_type": "cutout"
+}

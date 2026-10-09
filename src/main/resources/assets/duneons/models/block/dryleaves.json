@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_dead",
+  "textures": {
+    "all": "duneons:block/dry_spruce",
+    "particle": "duneons:block/dry_spruce",
+    "1": "duneons:block/dead_spruse_outer",
+    "2": "duneons:block/dry_spruce"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/half_block_soral_pink",
+  "textures": {
+    "all": "duneons:block/pink_half_block_soral",
+    "particle": "duneons:block/pink_half_block_soral",
+    "0": "duneons:block/pink_half_block_soral"
+  },
+  "render_type": "cutout_mipped"
+}

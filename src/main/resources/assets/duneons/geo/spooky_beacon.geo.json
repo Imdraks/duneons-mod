@@ -1,0 +1,436 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.spooky_beacon",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 22,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-6, 1, -6],
+							"size": [12, 2, 12],
+							"uv": {
+								"north": {"uv": [42, 48], "uv_size": [12, 2]},
+								"east": {"uv": [42, 48], "uv_size": [12, 2]},
+								"south": {"uv": [42, 48], "uv_size": [12, 2]},
+								"west": {"uv": [42, 48], "uv_size": [12, 2]},
+								"up": {"uv": [42, 36], "uv_size": [12, 12]},
+								"down": {"uv": [42, 48], "uv_size": [12, -12]}
+							}
+						},
+						{
+							"origin": [-5, 3, -6],
+							"size": [10, 10, 10],
+							"uv": {
+								"north": {"uv": [10, 43], "uv_size": [10, 10]},
+								"east": {"uv": [0, 43], "uv_size": [10, 10]},
+								"south": {"uv": [30, 43], "uv_size": [10, 10]},
+								"west": {"uv": [20, 43], "uv_size": [10, 10]},
+								"up": {"uv": [10, 33], "uv_size": [10, 10]},
+								"down": {"uv": [20, 43], "uv_size": [10, -10]}
+							}
+						},
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 16, 16],
+							"uv": {
+								"north": {"uv": [16, 16], "uv_size": [16, 16]},
+								"east": {"uv": [0, 16], "uv_size": [16, 16]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [32, 16], "uv_size": [16, 16]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser",
+					"parent": "bone",
+					"pivot": [0, 7, -16],
+					"cubes": [
+						{
+							"origin": [-1, -1, -24],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -16],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -24],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [-8, -1, -201],
+							"size": [0, 18, 18],
+							"pivot": [0, 8, -192],
+							"rotation": [0, 90, 0],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [48, 0], "uv_size": [16, 16]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser2",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -40],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -32],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -40],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser3",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -56],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -48],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -56],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser5",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -88],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -80],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -88],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser4",
+					"parent": "laser5",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -72],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -64],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -72],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser6",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -120],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -112],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -120],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser7",
+					"parent": "laser6",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -104],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -96],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -104],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser8",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -152],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -144],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -152],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser9",
+					"parent": "laser8",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -136],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -128],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -136],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser10",
+					"parent": "laser",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -184],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -176],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -184],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "laser11",
+					"parent": "laser10",
+					"pivot": [0, 7, -32],
+					"cubes": [
+						{
+							"origin": [-1, -1, -168],
+							"size": [0, 16, 16],
+							"pivot": [0, 7, -160],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						},
+						{
+							"origin": [0, 0, -168],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [48, 16], "uv_size": [16, 16]},
+								"east": {"uv": [53, 19], "uv_size": [7, 8]},
+								"south": {"uv": [0, 16], "uv_size": [16, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 15]},
+								"up": {"uv": [16, 0], "uv_size": [16, 16]},
+								"down": {"uv": [32, 16], "uv_size": [16, -16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,7 @@
+
+{
+  "parent": "duneons:displaysettings/bell.item",
+  "textures": {
+    "particle": "duneons:block/bell_tower"
+  }
+}

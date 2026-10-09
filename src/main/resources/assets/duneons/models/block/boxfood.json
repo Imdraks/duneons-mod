@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/box_food_close",
+  "textures": {
+    "all": "duneons:block/box_noup",
+    "particle": "duneons:block/box_noup",
+    "0": "duneons:block/shelf_front",
+    "1": "duneons:block/box_side"
+  },
+  "render_type": "solid"
+}

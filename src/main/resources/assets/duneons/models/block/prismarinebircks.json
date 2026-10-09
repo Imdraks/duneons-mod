@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/prismarine_bircks",
+    "up": "duneons:block/prismarine_bircks",
+    "north": "duneons:block/prismarine_bircks",
+    "east": "duneons:block/prismarine_bircks",
+    "south": "duneons:block/prismarine_bircks",
+    "west": "duneons:block/prismarine_bircks",
+    "particle": "duneons:block/prismarine_bircks"
+  },
+  "render_type": "solid"
+}

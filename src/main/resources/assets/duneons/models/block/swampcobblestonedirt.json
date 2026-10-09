@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/swamp_cobblestone_dirt",
+    "up": "duneons:block/swamp_cobblestone_dirt",
+    "north": "duneons:block/swamp_cobblestone_dirt",
+    "east": "duneons:block/swamp_cobblestone_dirt",
+    "south": "duneons:block/swamp_cobblestone_dirt",
+    "west": "duneons:block/swamp_cobblestone_dirt",
+    "particle": "duneons:block/swamp_cobblestone_dirt"
+  },
+  "render_type": "solid"
+}

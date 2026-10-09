@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/lonely_carpet",
+  "textures": {
+    "all": "duneons:block/lonely_carpet",
+    "particle": "duneons:block/lonely_carpet",
+    "carpet": "duneons:block/lonely_carpet"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirty_faded_dark_prismarine",
+    "up": "duneons:block/dirty_faded_dark_prismarine",
+    "north": "duneons:block/dirty_faded_dark_prismarine",
+    "east": "duneons:block/dirty_faded_dark_prismarine",
+    "south": "duneons:block/dirty_faded_dark_prismarine",
+    "west": "duneons:block/dirty_faded_dark_prismarine",
+    "particle": "duneons:block/dirty_faded_dark_prismarine"
+  },
+  "render_type": "solid"
+}

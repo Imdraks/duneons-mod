@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stone_path_edge",
+    "up": "duneons:block/stone_path_edge",
+    "north": "duneons:block/stone_path_edge",
+    "east": "duneons:block/stone_path_edge",
+    "south": "duneons:block/stone_path_edge",
+    "west": "duneons:block/stone_path_edge",
+    "particle": "duneons:block/stone_path_edge"
+  },
+  "render_type": "solid"
+}

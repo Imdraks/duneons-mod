@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirty_towerceramic",
+    "up": "duneons:block/dirty_towerceramic",
+    "north": "duneons:block/dirty_towerceramic",
+    "east": "duneons:block/dirty_towerceramic",
+    "south": "duneons:block/dirty_towerceramic",
+    "west": "duneons:block/dirty_towerceramic",
+    "particle": "duneons:block/dirty_towerceramic"
+  },
+  "render_type": "solid"
+}

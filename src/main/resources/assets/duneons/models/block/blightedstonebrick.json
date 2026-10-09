@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/blighted_stonebrick",
+    "up": "duneons:block/blighted_stonebrick",
+    "north": "duneons:block/blighted_stonebrick",
+    "east": "duneons:block/blighted_stonebrick",
+    "south": "duneons:block/blighted_stonebrick",
+    "west": "duneons:block/blighted_stonebrick",
+    "particle": "duneons:block/blighted_stonebrick"
+  },
+  "render_type": "solid"
+}

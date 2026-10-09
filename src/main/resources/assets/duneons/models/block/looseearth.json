@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/interactive_dirt",
+  "textures": {
+    "all": "duneons:block/interactive_dirt",
+    "particle": "duneons:block/interactive_dirt",
+    "0": "duneons:block/interactive_dirt"
+  },
+  "render_type": "cutout"
+}

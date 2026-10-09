@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/coloon_top",
+    "up": "duneons:block/coloon_top",
+    "north": "duneons:block/stonghold_coloon",
+    "east": "duneons:block/stonghold_coloon",
+    "south": "duneons:block/stonghold_coloon",
+    "west": "duneons:block/stonghold_coloon",
+    "particle": "duneons:block/coloon_top"
+  },
+  "render_type": "solid"
+}

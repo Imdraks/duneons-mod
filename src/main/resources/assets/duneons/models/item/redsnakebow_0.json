@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/red_snake_pulling",
+  "textures": {
+    "0": "duneons:block/red_snake_pulling_2",
+    "particle": "duneons:item/red_snake_pulling_2"
+  }
+}

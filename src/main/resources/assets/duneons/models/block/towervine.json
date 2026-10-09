@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tower_vine",
+  "textures": {
+    "all": "duneons:block/tower_vine",
+    "particle": "duneons:block/tower_vine",
+    "0": "duneons:block/tower_vine"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/harvester",
+  "textures": {
+    "0": "duneons:block/harvester",
+    "particle": "duneons:item/harvester_icon"
+  }
+}

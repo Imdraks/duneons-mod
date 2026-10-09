@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/monster_glow_purple",
+  "textures": {
+    "all": "duneons:block/glow_purple_variant",
+    "particle": "duneons:block/glow_purple_variant",
+    "1": "duneons:block/glow_purple_variant",
+    "missing": "duneons:block/glow_purple_variant"
+  },
+  "render_type": "cutout"
+}

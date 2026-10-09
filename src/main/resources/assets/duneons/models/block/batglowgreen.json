@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/bat_glow_green",
+  "textures": {
+    "all": "duneons:block/tower_symbols",
+    "particle": "duneons:block/tower_symbols",
+    "1": "duneons:block/tower_symbols",
+    "missing": "duneons:block/tower_symbols"
+  },
+  "render_type": "cutout"
+}

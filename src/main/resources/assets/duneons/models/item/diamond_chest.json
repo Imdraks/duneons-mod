@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/chest_diamond",
+  "textures": {
+    "0": "duneons:block/t_diamondchest",
+    "particle": "duneons:item/diamondchest"
+  }
+}

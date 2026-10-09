@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/gauntlet_red_new",
+  "textures": {
+    "0": "duneons:block/gauntlet_red",
+    "particle": "duneons:item/fighters_bindings"
+  }
+}

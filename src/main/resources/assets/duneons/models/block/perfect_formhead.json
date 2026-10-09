@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/vengeful_head_fix",
+  "textures": {
+    "all": "duneons:block/vengeful__heart_of_ender",
+    "particle": "duneons:block/void_blocks",
+    "0": "duneons:block/perfect_form_trophy"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/bubble_colume",
+  "textures": {
+    "all": "duneons:block/bubble_colume_base",
+    "particle": "duneons:block/bubble_colume_base",
+    "0": "duneons:block/bubble_colume_base",
+    "1": "duneons:block/bubble_weed",
+    "missing": "duneons:block/bubble_colume_base"
+  },
+  "render_type": "cutout"
+}

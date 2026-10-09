@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/mossen_dirt",
+    "bottom": "duneons:block/mossen_dirt",
+    "top": "duneons:block/mossen_dirt",
+    "side": "duneons:block/mossen_dirt"
+  },
+  "render_type": "solid"
+}

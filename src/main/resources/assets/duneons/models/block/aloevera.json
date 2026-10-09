@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/aloevera",
+  "textures": {
+    "all": "duneons:block/aloevera",
+    "particle": "duneons:block/aloevera",
+    "0": "duneons:block/aloevera",
+    "missing": "duneons:block/aloevera"
+  },
+  "render_type": "cutout"
+}

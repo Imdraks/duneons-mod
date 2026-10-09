@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/creeper_banner",
+  "textures": {
+    "all": "duneons:block/banners",
+    "particle": "duneons:block/banners",
+    "0": "duneons:block/banners",
+    "missing": "duneons:block/banners"
+  },
+  "render_type": "cutout"
+}

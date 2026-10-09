@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/dagger",
+  "textures": {
+    "0": "duneons:block/dagger",
+    "particle": "duneons:item/daggers"
+  }
+}

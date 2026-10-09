@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt_coralweeds",
+    "up": "duneons:block/dirt_coralweeds",
+    "north": "duneons:block/dirt_coralweeds",
+    "east": "duneons:block/dirt_coralweeds",
+    "south": "duneons:block/dirt_coralweeds",
+    "west": "duneons:block/dirt_coralweeds",
+    "particle": "duneons:block/dirt_coralweeds"
+  },
+  "render_type": "solid"
+}

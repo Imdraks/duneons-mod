@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/monstrosity_glow_yellow",
+  "textures": {
+    "all": "duneons:block/t_2_yellow",
+    "particle": "duneons:block/t_2_yellow",
+    "2": "duneons:block/t_2_yellow",
+    "missing": "duneons:block/t_2_yellow"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/coloon_top",
+    "up": "duneons:block/coloon_top",
+    "north": "duneons:block/coloon",
+    "east": "duneons:block/coloon",
+    "south": "duneons:block/coloon",
+    "west": "duneons:block/coloon",
+    "particle": "duneons:block/coloon_top"
+  },
+  "render_type": "solid"
+}

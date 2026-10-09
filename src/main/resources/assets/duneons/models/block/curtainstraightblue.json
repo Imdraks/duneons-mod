@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/curtain_blue",
+  "textures": {
+    "all": "duneons:block/t_curtain_straight_blue",
+    "particle": "duneons:block/t_curtain_straight_blue",
+    "0": "duneons:block/t_curtain_straight_blue"
+  },
+  "render_type": "cutout"
+}

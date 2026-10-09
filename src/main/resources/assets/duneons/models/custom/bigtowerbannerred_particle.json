@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/bigtowerbannerreds",
+  "textures": {
+    "particle": "duneons:block/t_tower_iconics_d"
+  }
+}

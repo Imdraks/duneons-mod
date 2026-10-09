@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "up": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "north": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "east": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "south": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "west": "duneons:block/dirt_chiseled_abyssaal_bricks",
+    "particle": "duneons:block/dirt_chiseled_abyssaal_bricks"
+  },
+  "render_type": "solid"
+}

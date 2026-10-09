@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/endcandle3",
+  "textures": {
+    "all": "duneons:block/endcandle",
+    "particle": "duneons:block/endcandle",
+    "1": "duneons:block/endcandle",
+    "missing": "duneons:block/endcandle"
+  },
+  "render_type": "cutout_mipped"
+}

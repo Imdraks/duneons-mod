@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_leaves",
+  "textures": {
+    "all": "duneons:block/sign_blank",
+    "particle": "duneons:block/sign_blank",
+    "0": "duneons:block/sign_blank",
+    "missing": "duneons:block/sign_blank"
+  },
+  "render_type": "cutout"
+}

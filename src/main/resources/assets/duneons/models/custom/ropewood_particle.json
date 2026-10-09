@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/rope_wood",
+  "textures": {
+    "particle": "duneons:block/t_wp_rope_bridge_2"
+  }
+}

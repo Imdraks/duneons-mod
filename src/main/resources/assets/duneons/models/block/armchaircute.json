@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/armchair_cute",
+  "textures": {
+    "all": "duneons:block/armchair_cute",
+    "particle": "duneons:block/armchair_cute",
+    "0": "duneons:block/armchair_cute",
+    "missing": "duneons:block/armchair_cute"
+  },
+  "render_type": "cutout"
+}

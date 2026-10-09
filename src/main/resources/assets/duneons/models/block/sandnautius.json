@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sand_nautius",
+    "up": "duneons:block/sand_nautius",
+    "north": "duneons:block/sand_nautius",
+    "east": "duneons:block/sand_nautius",
+    "south": "duneons:block/sand_nautius",
+    "west": "duneons:block/sand_nautius",
+    "particle": "duneons:block/sand_nautius"
+  },
+  "render_type": "solid"
+}

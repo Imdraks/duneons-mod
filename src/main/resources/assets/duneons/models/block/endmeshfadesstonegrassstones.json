@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_meshfades_stone_grass_stones",
+    "up": "duneons:block/end_meshfades_stone_grass_stones",
+    "north": "duneons:block/end_meshfades_stone_grass_stones",
+    "east": "duneons:block/end_meshfades_stone_grass_stones",
+    "south": "duneons:block/end_meshfades_stone_grass_stones",
+    "west": "duneons:block/end_meshfades_stone_grass_stones",
+    "particle": "duneons:block/end_meshfades_stone_grass_stones"
+  },
+  "render_type": "solid"
+}

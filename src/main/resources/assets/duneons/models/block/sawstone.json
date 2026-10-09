@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/saw_twotone",
+  "textures": {
+    "all": "duneons:block/saw_twotone",
+    "particle": "duneons:block/saw_twotone",
+    "0": "duneons:block/saw_twotone",
+    "missing": "duneons:block/saw_twotone"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/purple_bubble_coral_dead",
+  "textures": {
+    "all": "duneons:block/sea_props_02_d2",
+    "particle": "duneons:block/sea_props_02_d2",
+    "0": "duneons:block/sea_props_02_d2"
+  },
+  "render_type": "cutout"
+}

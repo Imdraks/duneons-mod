@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_citadel_chiseled_side",
+    "up": "duneons:block/end_meshfades_bricks_top",
+    "north": "duneons:block/blighted__smooth_sandstone_side",
+    "east": "duneons:block/blighted__smooth_sandstone_side",
+    "south": "duneons:block/blighted__smooth_sandstone_side",
+    "west": "duneons:block/blighted__smooth_sandstone_side",
+    "particle": "duneons:block/end_citadel_chiseled_side"
+  },
+  "render_type": "solid"
+}

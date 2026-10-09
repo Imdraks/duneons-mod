@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/broadsword",
+  "textures": {
+    "0": "duneons:block/broad_sword",
+    "particle": "duneons:item/broadsword"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/fungus_sprout",
+  "textures": {
+    "all": "duneons:block/warped_fungus_sprout",
+    "particle": "duneons:block/warped_fungus_sprout",
+    "0": "duneons:block/warped_fungus_sprout"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cloudy_chiseled_wood",
+    "up": "duneons:block/cloudy_chiseled_wood",
+    "north": "duneons:block/cloudy_chiseled_wood",
+    "east": "duneons:block/cloudy_chiseled_wood",
+    "south": "duneons:block/cloudy_chiseled_wood",
+    "west": "duneons:block/cloudy_chiseled_wood",
+    "particle": "duneons:block/cloudy_chiseled_wood"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/polish_moss_stone_stronghold",
+    "up": "duneons:block/polish_moss_stone_stronghold",
+    "north": "duneons:block/polish_moss_stone_stronghold",
+    "east": "duneons:block/polish_moss_stone_stronghold",
+    "south": "duneons:block/polish_moss_stone_stronghold",
+    "west": "duneons:block/polish_moss_stone_stronghold",
+    "particle": "duneons:block/polish_moss_stone_stronghold"
+  },
+  "render_type": "solid"
+}

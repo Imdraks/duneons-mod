@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/testtubes",
+  "textures": {
+    "all": "duneons:block/testtubes",
+    "particle": "duneons:block/testtubes",
+    "0": "duneons:block/testtubes"
+  },
+  "render_type": "solid"
+}

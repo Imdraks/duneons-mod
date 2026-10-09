@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/leaf_pile2",
+  "textures": {
+    "all": "duneons:block/t_leaf_pile_jungle",
+    "particle": "duneons:block/t_leaf_pile_jungle",
+    "0": "duneons:block/t_leaf_pile_jungle"
+  },
+  "render_type": "cutout"
+}

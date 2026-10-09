@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/redstonemonster_head",
+  "textures": {
+    "all": "duneons:block/t_redstonegolemskull",
+    "particle": "duneons:block/t_redstonegolemskull",
+    "0": "duneons:block/t_redstonegolemskull"
+  },
+  "render_type": "solid"
+}

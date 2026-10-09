@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/large_pot",
+  "textures": {
+    "all": "duneons:block/large_pot",
+    "particle": "duneons:block/large_pot",
+    "0": "duneons:block/large_pot"
+  },
+  "render_type": "cutout"
+}

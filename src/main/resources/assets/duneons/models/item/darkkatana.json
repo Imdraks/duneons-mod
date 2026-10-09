@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/dark_katana_1.11",
+  "textures": {
+    "0": "duneons:block/ark_atana",
+    "particle": "duneons:item/dark_katana"
+  }
+}

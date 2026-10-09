@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/moss_aqua_cobblestone",
+    "bottom": "duneons:block/moss_aqua_cobblestone",
+    "top": "duneons:block/moss_aqua_cobblestone",
+    "side": "duneons:block/moss_aqua_cobblestone"
+  },
+  "render_type": "solid"
+}

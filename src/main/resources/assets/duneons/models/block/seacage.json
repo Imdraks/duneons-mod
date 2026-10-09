@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sea_cage",
+  "textures": {
+    "all": "duneons:block/sea_cage",
+    "particle": "duneons:block/sea_cage",
+    "0": "duneons:block/sea_cage",
+    "missing": "duneons:block/sea_cage"
+  },
+  "render_type": "cutout"
+}

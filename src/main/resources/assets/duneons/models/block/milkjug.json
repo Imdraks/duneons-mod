@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/milkjug",
+  "textures": {
+    "all": "duneons:block/milkjug",
+    "particle": "duneons:block/milkjug",
+    "0": "duneons:block/milkjug"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_stone_bricks_cracked",
+    "up": "duneons:block/dark_stone_bricks_cracked",
+    "north": "duneons:block/dark_stone_bricks_cracked",
+    "east": "duneons:block/dark_stone_bricks_cracked",
+    "south": "duneons:block/dark_stone_bricks_cracked",
+    "west": "duneons:block/dark_stone_bricks_cracked",
+    "particle": "duneons:block/dark_stone_bricks_cracked"
+  },
+  "render_type": "solid"
+}

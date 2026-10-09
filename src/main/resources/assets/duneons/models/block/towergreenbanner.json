@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/tower_green_banner",
+  "textures": {
+    "all": "duneons:block/t_towerinhabitantbanner_artisan",
+    "particle": "duneons:block/t_towerinhabitantbanner_artisan",
+    "0": "duneons:block/t_towerinhabitantbanner_artisan",
+    "missing": "duneons:block/t_towerinhabitantbanner_artisan"
+  },
+  "render_type": "solid"
+}

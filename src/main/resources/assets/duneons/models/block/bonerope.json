@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dry_bone_block_top",
+    "up": "duneons:block/dry_bone_block_top",
+    "north": "duneons:block/bone_rope",
+    "east": "duneons:block/bone_rope",
+    "south": "duneons:block/bone_rope",
+    "west": "duneons:block/bone_rope",
+    "particle": "duneons:block/dry_bone_block_top"
+  },
+  "render_type": "solid"
+}

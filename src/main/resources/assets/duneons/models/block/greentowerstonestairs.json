@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/green_tower_stone",
+    "bottom": "duneons:block/green_tower_stone",
+    "top": "duneons:block/green_tower_stone",
+    "side": "duneons:block/green_tower_stone"
+  },
+  "render_type": "solid"
+}

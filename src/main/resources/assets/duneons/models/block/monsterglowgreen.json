@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/monster_glow_green",
+  "textures": {
+    "all": "duneons:block/monster_glow_green",
+    "particle": "duneons:block/monster_glow_green",
+    "0": "duneons:block/monster_glow_green",
+    "missing": "duneons:block/monster_glow_green"
+  },
+  "render_type": "cutout"
+}

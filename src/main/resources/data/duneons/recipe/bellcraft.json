@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" a ","bcb","b b"],"key":{"a":"#minecraft:logs","b":"minecraft:mossy_cobblestone","c":"minecraft:bell"},"result":{"id":"duneons:bell","count":1}}

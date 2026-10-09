@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/randomitem",
+  "textures": {
+    "0": "duneons:block/randomitem",
+    "particle": "duneons:item/randomitem_side"
+  }
+}

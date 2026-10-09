@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/chess_statue_king",
+  "textures": {
+    "particle": "duneons:block/chess_statue_king_d"
+  }
+}

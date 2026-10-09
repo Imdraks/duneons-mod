@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/glazing_cobbedstone",
+    "up": "duneons:block/glazing_cobbedstone",
+    "north": "duneons:block/glazing_cobbedstone",
+    "east": "duneons:block/glazing_cobbedstone",
+    "south": "duneons:block/glazing_cobbedstone",
+    "west": "duneons:block/glazing_cobbedstone",
+    "particle": "duneons:block/glazing_cobbedstone"
+  },
+  "render_type": "solid"
+}

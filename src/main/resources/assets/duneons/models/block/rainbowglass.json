@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ranbow_big_glass",
+  "textures": {
+    "all": "duneons:block/ranbow_glass",
+    "particle": "duneons:block/ranbow_glass",
+    "0": "duneons:block/ranbow_glass"
+  },
+  "render_type": "translucent"
+}

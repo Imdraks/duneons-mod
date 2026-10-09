@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/mossy_sea_bricks",
+    "bottom": "duneons:block/mossy_sea_bricks",
+    "top": "duneons:block/mossy_sea_bricks",
+    "side": "duneons:block/mossy_sea_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/food_fish",
+  "textures": {
+    "all": "duneons:block/fish_box",
+    "particle": "duneons:block/fish_box",
+    "0": "duneons:block/fish_box",
+    "1": "duneons:block/box_side"
+  },
+  "render_type": "solid"
+}

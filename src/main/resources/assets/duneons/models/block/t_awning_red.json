@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/awning_red",
+  "textures": {
+    "all": "duneons:block/awning_red",
+    "particle": "duneons:block/awning_red",
+    "0": "duneons:block/awning_red",
+    "missing": "duneons:block/awning_red"
+  },
+  "render_type": "cutout"
+}

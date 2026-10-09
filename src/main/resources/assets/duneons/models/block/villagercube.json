@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/villager_cube",
+  "textures": {
+    "all": "duneons:block/t_dj_puzzleblocks",
+    "particle": "duneons:block/t_dj_puzzleblocks",
+    "2": "duneons:block/t_dj_puzzleblocks"
+  },
+  "render_type": "solid"
+}

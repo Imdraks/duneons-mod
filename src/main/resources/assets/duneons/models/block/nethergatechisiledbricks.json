@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/nether_gate_chisiled_bricks",
+    "up": "duneons:block/nether_gate_chisiled_bricks",
+    "north": "duneons:block/nether_gate_chisiled_bricks",
+    "east": "duneons:block/nether_gate_chisiled_bricks",
+    "south": "duneons:block/nether_gate_chisiled_bricks",
+    "west": "duneons:block/nether_gate_chisiled_bricks",
+    "particle": "duneons:block/nether_gate_chisiled_bricks"
+  },
+  "render_type": "solid"
+}

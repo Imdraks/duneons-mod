@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/long_yellow_coral",
+  "textures": {
+    "all": "duneons:block/long_yellow_coral",
+    "particle": "duneons:block/long_yellow_coral",
+    "missing": "duneons:block/long_yellow_coral",
+    "cross": "duneons:block/long_yellow_coral"
+  },
+  "render_type": "cutout"
+}

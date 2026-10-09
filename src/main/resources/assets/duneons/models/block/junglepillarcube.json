@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/jungle_pillar_cube",
+  "textures": {
+    "all": "duneons:block/jungle_pillar_cube",
+    "particle": "duneons:block/jungle_pillar_cube",
+    "0": "duneons:block/jungle_pillar_cube"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/rotten_jungle_log_top2",
+    "up": "duneons:block/rotten_jungle_log_top2",
+    "north": "duneons:block/rotten_jungle_log",
+    "east": "duneons:block/rotten_jungle_log",
+    "south": "duneons:block/rotten_jungle_log",
+    "west": "duneons:block/rotten_jungle_log",
+    "particle": "duneons:block/rotten_jungle_log_top2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/vengeful_trophy",
+  "textures": {
+    "all": "duneons:block/perfect_form_trophy",
+    "particle": "duneons:block/trophy_glass",
+    "3": "duneons:block/mob_trophy",
+    "5": "duneons:block/perfect_form_trophy",
+    "missing": "duneons:block/mob_trophy"
+  },
+  "render_type": "cutout"
+}

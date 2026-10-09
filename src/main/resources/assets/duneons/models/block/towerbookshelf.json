@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/graytower_planks",
+    "up": "duneons:block/graytower_planks",
+    "north": "duneons:block/tower_bookshelf",
+    "east": "duneons:block/tower_bookshelf",
+    "south": "duneons:block/tower_bookshelf",
+    "west": "duneons:block/tower_bookshelf",
+    "particle": "duneons:block/graytower_planks"
+  },
+  "render_type": "solid"
+}

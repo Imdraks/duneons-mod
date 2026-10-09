@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:arena_eye",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 33,
+    "separation": 13,
+    "salt": 1330100129
+  }
+}

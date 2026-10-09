@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/shock_powder",
+  "textures": {
+    "0": "duneons:block/shock_powder",
+    "particle": "duneons:item/shockpowder_gearicon"
+  }
+}

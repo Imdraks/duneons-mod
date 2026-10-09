@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/ancient_cycad",
+  "textures": {
+    "all": "duneons:block/ancient_cycad",
+    "particle": "duneons:block/ancient_cycad",
+    "0": "duneons:block/ancient_cycad",
+    "missing": "duneons:block/ancient_cycad"
+  },
+  "render_type": "cutout"
+}

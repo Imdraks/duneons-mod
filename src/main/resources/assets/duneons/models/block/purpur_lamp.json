@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/purpurlamp",
+  "textures": {
+    "all": "duneons:block/t_purpurlamp",
+    "particle": "duneons:block/t_purpurlamp",
+    "0": "duneons:block/t_purpurlamp",
+    "missing": "duneons:block/t_purpurlamp"
+  },
+  "render_type": "solid"
+}

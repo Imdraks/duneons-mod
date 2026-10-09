@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/jungle_bricks",
+    "up": "duneons:block/jungle_bricks",
+    "north": "duneons:block/jungle_bricks",
+    "east": "duneons:block/jungle_bricks",
+    "south": "duneons:block/jungle_bricks",
+    "west": "duneons:block/jungle_bricks",
+    "particle": "duneons:block/jungle_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/flower_rug",
+  "textures": {
+    "all": "duneons:block/flower_rug",
+    "particle": "duneons:block/flower_rug",
+    "1": "duneons:block/flower_rug"
+  },
+  "render_type": "solid"
+}

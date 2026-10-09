@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/dragonstatue",
+  "textures": {
+    "particle": "duneons:block/dragon_statue"
+  }
+}

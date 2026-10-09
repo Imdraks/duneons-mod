@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/vanguardskeleton_head",
+  "textures": {
+    "all": "duneons:block/skeletons_head",
+    "particle": "duneons:block/skeletons_head",
+    "0": "duneons:block/skeletons_head"
+  },
+  "render_type": "cutout"
+}

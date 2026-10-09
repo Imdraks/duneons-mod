@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "up": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "north": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "east": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "south": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "west": "duneons:block/sanctum_stone_patterned_gilded_top",
+    "particle": "duneons:block/sanctum_stone_patterned_gilded_top"
+  },
+  "render_type": "solid"
+}

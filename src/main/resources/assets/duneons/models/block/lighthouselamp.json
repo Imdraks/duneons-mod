@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/lighthouse",
+  "textures": {
+    "all": "duneons:block/lighthouse_light",
+    "particle": "duneons:block/lighthouse_light",
+    "0": "duneons:block/lighthouse_light"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/table_2",
+  "textures": {
+    "all": "duneons:block/table2",
+    "particle": "duneons:block/table2",
+    "0": "duneons:block/table2"
+  },
+  "render_type": "cutout"
+}

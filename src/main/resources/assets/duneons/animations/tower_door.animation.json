@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true
+		},
+		"1": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 10000,
+			"bones": {
+				"left": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4": {
+							"vector": [0, 0, 0]
+						},
+						"3.32": {
+							"vector": [-39, 0, 0]
+						}
+					}
+				},
+				"right": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4": {
+							"vector": [0, 0, 0]
+						},
+						"3.32": {
+							"vector": [39, 0, 0]
+						}
+					}
+				},
+				"tower_door": {
+					"position": {
+						"vector": [0, 0, 0.15]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "open"
+				}
+			}
+		},
+		"2": {
+			"animation_length": 10000,
+			"bones": {
+				"left": {
+					"position": {
+						"0.0": {
+							"vector": [-40, 0, 0]
+						},
+						"3.4": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"right": {
+					"position": {
+						"0.0": {
+							"vector": [40, 0, 0]
+						},
+						"3.4": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"tower_door": {
+					"position": {
+						"vector": [0, 0, 0.15]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "close"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

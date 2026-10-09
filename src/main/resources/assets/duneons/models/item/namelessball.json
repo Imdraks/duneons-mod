@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/nameless_staff",
+  "textures": {
+    "0": "duneons:block/necromancer_staff",
+    "missing": "duneons:block/necromancer_staff",
+    "particle": "duneons:item/the_green_menace"
+  }
+}

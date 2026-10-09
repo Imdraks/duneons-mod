@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt_podzol_side",
+    "up": "duneons:block/dirt_podzol_side",
+    "north": "duneons:block/mossen_bambbo_cobblestone",
+    "east": "duneons:block/dirt_podzol_side",
+    "south": "duneons:block/dirt_podzol_side",
+    "west": "duneons:block/dirt_podzol_side",
+    "particle": "duneons:block/dirt_podzol_side"
+  },
+  "render_type": "solid"
+}

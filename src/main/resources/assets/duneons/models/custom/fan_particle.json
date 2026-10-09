@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/fan",
+  "textures": {
+    "particle": "duneons:block/moving_platform_fan"
+  }
+}

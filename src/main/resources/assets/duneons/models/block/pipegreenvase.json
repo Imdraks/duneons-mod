@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/pipegreenvase",
+  "textures": {
+    "all": "duneons:block/fancy_urn_2",
+    "particle": "duneons:block/fancy_urn_2",
+    "0": "duneons:block/fancy_urn_2"
+  },
+  "render_type": "cutout"
+}

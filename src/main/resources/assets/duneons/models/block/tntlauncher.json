@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/tnt_launcher_side",
+    "up": "duneons:block/tnt_launcher_side",
+    "north": "duneons:block/tnt_launcher",
+    "east": "duneons:block/tnt_launcher_side",
+    "south": "duneons:block/tnt_launcher_side",
+    "west": "duneons:block/tnt_launcher_side",
+    "particle": "duneons:block/tnt_launcher_side"
+  },
+  "render_type": "solid"
+}

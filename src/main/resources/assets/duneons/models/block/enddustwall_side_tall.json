@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/end_dust",
+    "particle": "duneons:block/end_dust"
+  },
+  "render_type": "solid"
+}

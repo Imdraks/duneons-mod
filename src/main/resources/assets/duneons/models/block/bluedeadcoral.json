@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/coral_lying_death",
+  "textures": {
+    "all": "duneons:block/dead_blue_lying_corals",
+    "particle": "duneons:block/dead_blue_lying_corals",
+    "0": "duneons:block/dead_blue_lying_corals",
+    "missing": "duneons:block/dead_blue_lying_corals"
+  },
+  "render_type": "cutout"
+}

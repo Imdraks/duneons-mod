@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/moss_smooth_troom_block",
+    "bottom": "duneons:block/moss_smooth_troom_block",
+    "top": "duneons:block/moss_smooth_troom_block",
+    "side": "duneons:block/moss_smooth_troom_block"
+  },
+  "render_type": "solid"
+}

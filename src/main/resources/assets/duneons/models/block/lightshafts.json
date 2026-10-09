@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lightshafts",
+  "textures": {
+    "all": "duneons:block/t_ffj_lightshafts",
+    "particle": "duneons:block/lightshafts",
+    "0": "duneons:block/t_ffj_lightshafts",
+    "missing": "duneons:block/t_ffj_lightshafts"
+  },
+  "render_type": "translucent"
+}

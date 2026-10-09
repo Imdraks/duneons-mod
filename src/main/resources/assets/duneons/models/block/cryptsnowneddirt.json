@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_snowned_dirt",
+    "up": "duneons:block/dark_snowned_dirt",
+    "north": "duneons:block/dark_snowned_dirt",
+    "east": "duneons:block/dark_snowned_dirt",
+    "south": "duneons:block/dark_snowned_dirt",
+    "west": "duneons:block/dark_snowned_dirt",
+    "particle": "duneons:block/dark_snowned_dirt"
+  },
+  "render_type": "solid"
+}

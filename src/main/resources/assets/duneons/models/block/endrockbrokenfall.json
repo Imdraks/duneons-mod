@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_rock_broken",
+    "up": "duneons:block/end_rock_broken",
+    "north": "duneons:block/end_rock_broken",
+    "east": "duneons:block/end_rock_broken",
+    "south": "duneons:block/end_rock_broken",
+    "west": "duneons:block/end_rock_broken",
+    "particle": "duneons:block/end_rock_broken"
+  },
+  "render_type": "solid"
+}

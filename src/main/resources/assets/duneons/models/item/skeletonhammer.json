@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/skeleton_hammer",
+  "textures": {
+    "1": "duneons:block/skeleton_hammer",
+    "particle": "duneons:item/t_skeletonhammer_gearicon"
+  }
+}

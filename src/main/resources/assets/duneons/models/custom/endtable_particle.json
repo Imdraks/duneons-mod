@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/end_table",
+  "textures": {
+    "particle": "duneons:block/end_table"
+  }
+}

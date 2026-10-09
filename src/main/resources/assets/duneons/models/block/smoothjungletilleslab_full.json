@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/smooth_jungle_tille",
+    "bottom": "duneons:block/smooth_jungle_tille",
+    "top": "duneons:block/smooth_jungle_tille",
+    "side": "duneons:block/smooth_jungle_tille"
+  },
+  "render_type": "solid"
+}

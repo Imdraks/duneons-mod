@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/coins_2",
+  "textures": {
+    "all": "duneons:block/t_coinstack0",
+    "particle": "duneons:block/t_coinstack0",
+    "0": "duneons:block/t_coinstack0"
+  },
+  "render_type": "solid"
+}

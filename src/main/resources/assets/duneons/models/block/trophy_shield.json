@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/trophy_shield",
+  "textures": {
+    "all": "duneons:block/trophyshield",
+    "particle": "duneons:block/trophyshield",
+    "0": "duneons:block/trophyshield"
+  },
+  "render_type": "solid"
+}

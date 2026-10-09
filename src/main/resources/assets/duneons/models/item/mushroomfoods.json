@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/death_cap_mushroom",
+  "textures": {
+    "0": "duneons:block/death_cap_mushroom",
+    "particle": "duneons:item/mushroom_icon"
+  }
+}

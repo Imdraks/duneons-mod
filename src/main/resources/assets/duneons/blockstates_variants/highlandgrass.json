@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/highlandgrass/block/0"
+      },
+      {
+        "model": "block/highlandgrass/block/1"
+      },
+      {
+        "model": "block/highlandgrass/block/2"
+      },
+      {
+        "model": "block/highlandgrass/block/3"
+      },
+      {
+        "model": "block/highlandgrass/block/4"
+      }
+    ]
+  }
+}

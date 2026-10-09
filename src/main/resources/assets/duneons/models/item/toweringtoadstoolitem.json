@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/towering_toadstool_top",
+  "textures": {
+    "0": "duneons:block/texture_atlas_nether_foliage_02",
+    "missing": "duneons:block/texture_atlas_nether_foliage_02",
+    "particle": "duneons:item/texture_atlas_nether_foliage_02"
+  }
+}

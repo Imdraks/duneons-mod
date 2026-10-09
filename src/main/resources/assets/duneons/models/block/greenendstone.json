@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/green_end_stone",
+    "up": "duneons:block/green_end_stone",
+    "north": "duneons:block/green_end_stone",
+    "east": "duneons:block/green_end_stone",
+    "south": "duneons:block/green_end_stone",
+    "west": "duneons:block/green_end_stone",
+    "particle": "duneons:block/green_end_stone"
+  },
+  "render_type": "solid"
+}

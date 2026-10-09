@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/blighted_stonebrick",
+    "bottom": "duneons:block/blighted_stonebrick",
+    "top": "duneons:block/blighted_stonebrick",
+    "side": "duneons:block/blighted_stonebrick"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/soullantern",
+  "textures": {
+    "0": "duneons:block/soullantern",
+    "missing": "duneons:block/soullantern",
+    "particle": "duneons:item/soullantern"
+  }
+}

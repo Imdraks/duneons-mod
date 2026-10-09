@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/tower_door_wooded.item",
+  "textures": {
+    "particle": "duneons:block/tower_door_wooden"
+  }
+}

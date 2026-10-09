@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_door",
+  "textures": {
+    "all": "duneons:block/t_keydoorgold",
+    "particle": "duneons:block/gold_desert_temple_brick",
+    "2": "duneons:block/t_keydoorgold",
+    "missing": "duneons:block/t_keydoorgold"
+  },
+  "render_type": "cutout"
+}

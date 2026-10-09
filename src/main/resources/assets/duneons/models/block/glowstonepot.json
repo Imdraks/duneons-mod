@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/glowstone_pot",
+  "textures": {
+    "all": "duneons:block/basalt_deltas_props",
+    "particle": "duneons:block/basalt_deltas_props",
+    "0": "duneons:block/basalt_deltas_props",
+    "missing": "duneons:block/basalt_deltas_props"
+  },
+  "render_type": "cutout"
+}

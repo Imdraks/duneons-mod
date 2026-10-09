@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "duneons:block/sander_oak",
+    "particle": "duneons:block/sander_oak"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mixed_prismarine_carved_down",
+    "up": "duneons:block/mixed_prismarine_carved_top",
+    "north": "duneons:block/mixed_prismarine_carved",
+    "east": "duneons:block/mixed_prismarine_carved",
+    "south": "duneons:block/mixed_prismarine_carved",
+    "west": "duneons:block/mixed_prismarine_carved",
+    "particle": "duneons:block/mixed_prismarine_carved_down"
+  },
+  "render_type": "solid"
+}

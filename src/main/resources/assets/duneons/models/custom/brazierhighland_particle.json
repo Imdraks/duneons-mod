@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/brazier_highland.item",
+  "textures": {
+    "particle": "duneons:block/brazier_highland"
+  }
+}

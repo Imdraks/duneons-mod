@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true,
+			"animation_length": 1.375,
+			"override_previous_animation": true,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": [0, -2.5, 0],
+						"1.3333": [0, 357.5, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

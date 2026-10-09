@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/giant_golden_chains",
+  "textures": {
+    "all": "duneons:block/giant_golden_chains",
+    "particle": "duneons:block/giant_golden_chains",
+    "0": "duneons:block/giant_golden_chains"
+  },
+  "render_type": "cutout"
+}

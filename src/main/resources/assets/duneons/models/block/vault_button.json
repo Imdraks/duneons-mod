@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/vault_button",
+  "textures": {
+    "all": "duneons:block/vault_button",
+    "particle": "duneons:block/vault_button",
+    "0": "duneons:block/vault_button",
+    "missing": "duneons:block/vault_button"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_smooth_prismarine4",
+    "up": "duneons:block/cracked_smooth_prismarine4",
+    "north": "duneons:block/cracked_smooth_prismarine4",
+    "east": "duneons:block/cracked_smooth_prismarine4",
+    "south": "duneons:block/cracked_smooth_prismarine4",
+    "west": "duneons:block/cracked_smooth_prismarine4",
+    "particle": "duneons:block/cracked_smooth_prismarine4"
+  },
+  "render_type": "solid"
+}

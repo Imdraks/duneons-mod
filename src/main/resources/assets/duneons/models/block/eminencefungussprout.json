@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/eminence_fungus_sprout",
+  "textures": {
+    "all": "duneons:block/eminence_fungus_sprout",
+    "particle": "duneons:block/eminence_fungus_sprout",
+    "0": "duneons:block/eminence_fungus_sprout"
+  },
+  "render_type": "cutout"
+}

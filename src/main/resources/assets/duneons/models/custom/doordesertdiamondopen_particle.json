@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/diamond_door",
+  "textures": {
+    "particle": "duneons:block/door_desert_temple_diamond"
+  }
+}

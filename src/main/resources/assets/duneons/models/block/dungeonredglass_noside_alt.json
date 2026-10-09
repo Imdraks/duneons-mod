@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "particle": "duneons:block/dungeon_red_glass",
+    "pane": "duneons:block/dungeon_red_glass"
+  },
+  "render_type": "translucent"
+}

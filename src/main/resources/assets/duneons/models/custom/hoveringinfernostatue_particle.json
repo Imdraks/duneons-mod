@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/blaze_statue",
+  "textures": {
+    "particle": "duneons:block/smooth_netherite"
+  }
+}

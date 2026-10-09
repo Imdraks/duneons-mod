@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/wall_torch_gold",
+  "textures": {
+    "all": "duneons:block/t_gstorch_wall",
+    "particle": "duneons:block/t_gstorch_wall",
+    "0": "duneons:block/t_gstorch_wall",
+    "missing": "duneons:block/t_gstorch_wall"
+  },
+  "render_type": "cutout"
+}

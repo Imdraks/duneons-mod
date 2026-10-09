@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nether_brazier_small",
+  "textures": {
+    "all": "duneons:block/nether_brazier",
+    "particle": "duneons:block/smooth_netherite",
+    "0": "duneons:block/nether_brazier"
+  },
+  "render_type": "cutout"
+}

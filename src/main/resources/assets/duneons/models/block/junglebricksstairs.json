@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/jungle_bricks",
+    "bottom": "duneons:block/jungle_bricks",
+    "top": "duneons:block/jungle_bricks",
+    "side": "duneons:block/jungle_bricks"
+  },
+  "render_type": "solid"
+}

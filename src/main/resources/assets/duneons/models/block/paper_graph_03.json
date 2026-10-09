@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/paper_graph_03",
+  "textures": {
+    "all": "duneons:block/paper_graph_03",
+    "particle": "duneons:block/paper_graph_03",
+    "0": "duneons:block/paper_graph_03",
+    "missing": "duneons:block/paper_graph_03"
+  },
+  "render_type": "cutout"
+}

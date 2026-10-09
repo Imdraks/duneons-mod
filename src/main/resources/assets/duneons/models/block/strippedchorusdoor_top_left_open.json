@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "duneons:block/stripped_chorus_door_lower",
+    "bottom": "duneons:block/stripped_chorus_door_lower",
+    "top": "duneons:block/stripped_chorus_door_upper"
+  },
+  "render_type": "cutout"
+}

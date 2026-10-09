@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/storage_chest",
+  "textures": {
+    "all": "duneons:block/storage_chest",
+    "particle": "duneons:block/storage_chest",
+    "0": "duneons:block/storage_chest",
+    "missing": "duneons:block/storage_chest"
+  },
+  "render_type": "solid"
+}

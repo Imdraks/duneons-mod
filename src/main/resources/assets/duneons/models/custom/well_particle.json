@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/well",
+  "textures": {
+    "particle": "duneons:block/well"
+  }
+}

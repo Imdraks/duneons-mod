@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_clay_brick",
+    "up": "duneons:block/dark_clay_brick",
+    "north": "duneons:block/dark_clay_brick",
+    "east": "duneons:block/dark_clay_brick",
+    "south": "duneons:block/dark_clay_brick",
+    "west": "duneons:block/dark_clay_brick",
+    "particle": "duneons:block/dark_clay_brick"
+  },
+  "render_type": "solid"
+}

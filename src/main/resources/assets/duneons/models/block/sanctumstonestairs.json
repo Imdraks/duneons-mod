@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/sanctum_stone",
+    "bottom": "duneons:block/sanctum_stone",
+    "top": "duneons:block/sanctum_stone",
+    "side": "duneons:block/sanctum_stone"
+  },
+  "render_type": "solid"
+}

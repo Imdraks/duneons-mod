@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_mde",
+  "textures": {
+    "all": "duneons:block/sign_mde",
+    "particle": "duneons:block/sign_mde",
+    "0": "duneons:block/sign_mde",
+    "missing": "duneons:block/sign_mde"
+  },
+  "render_type": "cutout"
+}

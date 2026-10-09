@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "duneons:block/smooth_netherite",
+    "particle": "duneons:block/smooth_netherite"
+  },
+  "render_type": "solid"
+}

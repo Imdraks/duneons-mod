@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "duneons:block/green_tower_stone",
+    "particle": "duneons:block/green_tower_stone"
+  },
+  "render_type": "solid"
+}

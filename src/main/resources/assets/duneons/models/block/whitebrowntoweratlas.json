@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/white_brown_tower_atlas",
+    "up": "duneons:block/white_brown_tower_atlas",
+    "north": "duneons:block/white_brown_tower_atlas",
+    "east": "duneons:block/white_brown_tower_atlas",
+    "south": "duneons:block/white_brown_tower_atlas",
+    "west": "duneons:block/white_brown_tower_atlas",
+    "particle": "duneons:block/white_brown_tower_atlas"
+  },
+  "render_type": "solid"
+}

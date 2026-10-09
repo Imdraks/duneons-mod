@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/randomtool",
+  "textures": {
+    "0": "duneons:block/randomtool",
+    "particle": "duneons:item/randomtool_side"
+  }
+}

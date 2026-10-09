@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/purple_end_stone_moss",
+    "up": "duneons:block/purple_end_stone_moss",
+    "north": "duneons:block/purple_end_stone_moss",
+    "east": "duneons:block/purple_end_stone_moss",
+    "south": "duneons:block/purple_end_stone_moss",
+    "west": "duneons:block/purple_end_stone_moss",
+    "particle": "duneons:block/purple_end_stone_moss"
+  },
+  "render_type": "solid"
+}

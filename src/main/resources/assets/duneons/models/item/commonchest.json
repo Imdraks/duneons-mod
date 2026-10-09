@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/chest_wood",
+  "textures": {
+    "0": "duneons:block/t_woodenchest",
+    "particle": "duneons:block/t_woodenchest"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/pop_flower_4",
+  "textures": {
+    "all": "duneons:block/popflower",
+    "particle": "duneons:block/popflower",
+    "0": "duneons:block/pop_flower"
+  },
+  "render_type": "cutout"
+}

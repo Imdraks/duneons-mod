@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bamboo_dirt",
+    "up": "duneons:block/panda_plateau_leaves_grass_top",
+    "north": "duneons:block/panda_plateau_leaves_grass_side",
+    "east": "duneons:block/panda_plateau_leaves_grass_side",
+    "south": "duneons:block/panda_plateau_leaves_grass_side",
+    "west": "duneons:block/panda_plateau_leaves_grass_side",
+    "particle": "duneons:block/bamboo_dirt"
+  },
+  "render_type": "solid"
+}

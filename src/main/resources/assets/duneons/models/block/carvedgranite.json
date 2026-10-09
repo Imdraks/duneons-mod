@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/carved_granite",
+    "up": "duneons:block/carved_granite",
+    "north": "duneons:block/carved_granite",
+    "east": "duneons:block/carved_granite",
+    "south": "duneons:block/carved_granite",
+    "west": "duneons:block/carved_granite",
+    "particle": "duneons:block/carved_granite"
+  },
+  "render_type": "solid"
+}

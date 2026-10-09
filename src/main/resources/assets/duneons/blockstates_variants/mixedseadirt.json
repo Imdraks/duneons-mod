@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/mixedseadirt/block/0"
+      },
+      {
+        "model": "block/mixedseadirt/block/1"
+      },
+      {
+        "model": "block/mixedseadirt/block/2"
+      },
+      {
+        "model": "block/mixedseadirt/block/3"
+      },
+      {
+        "model": "block/mixedseadirt/block/4"
+      },
+      {
+        "model": "block/mixedseadirt/block/5"
+      }
+    ]
+  }
+}

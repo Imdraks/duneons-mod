@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/andesite_bamboo_crash",
+    "up": "duneons:block/andesite_bamboo_crash",
+    "north": "duneons:block/andesite_bamboo_crash",
+    "east": "duneons:block/andesite_bamboo_crash",
+    "south": "duneons:block/andesite_bamboo_crash",
+    "west": "duneons:block/andesite_bamboo_crash",
+    "particle": "duneons:block/andesite_bamboo_crash"
+  },
+  "render_type": "solid"
+}

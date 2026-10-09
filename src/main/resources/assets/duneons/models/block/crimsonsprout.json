@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/crimson_sprout_fix",
+  "textures": {
+    "all": "duneons:block/crimson_sprout",
+    "particle": "duneons:block/crimson_sprout",
+    "0": "duneons:block/textureatlas_netherfoliage_02_diffuse",
+    "missing": "duneons:block/textureatlas_netherfoliage_02_diffuse"
+  },
+  "render_type": "cutout"
+}

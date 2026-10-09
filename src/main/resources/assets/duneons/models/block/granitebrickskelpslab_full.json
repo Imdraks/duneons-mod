@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/granite_bricks_kelp",
+    "bottom": "duneons:block/granite_bricks_kelp",
+    "top": "duneons:block/granite_bricks_kelp",
+    "side": "duneons:block/granite_bricks_kelp"
+  },
+  "render_type": "solid"
+}

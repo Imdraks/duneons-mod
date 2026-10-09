@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/moss_stonghold_bricks",
+    "bottom": "duneons:block/moss_stonghold_bricks",
+    "top": "duneons:block/moss_stonghold_bricks",
+    "side": "duneons:block/moss_stonghold_bricks"
+  },
+  "render_type": "solid"
+}

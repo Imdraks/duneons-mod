@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/nether_door",
+  "textures": {
+    "particle": "duneons:block/netherfortress_gate"
+  }
+}

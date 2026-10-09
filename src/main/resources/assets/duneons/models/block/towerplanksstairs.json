@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/tower_planks",
+    "bottom": "duneons:block/tower_planks",
+    "top": "duneons:block/tower_planks",
+    "side": "duneons:block/tower_planks"
+  },
+  "render_type": "solid"
+}

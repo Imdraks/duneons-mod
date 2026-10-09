@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/deadtree.item",
+  "textures": {
+    "particle": "duneons:block/dead_tree"
+  }
+}

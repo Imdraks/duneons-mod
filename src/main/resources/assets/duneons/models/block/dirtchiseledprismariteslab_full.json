@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/dirt__chiseled_prismarite",
+    "bottom": "duneons:block/dirt__chiseled_prismarite",
+    "top": "duneons:block/dirt__chiseled_prismarite",
+    "side": "duneons:block/dirt__chiseled_prismarite"
+  },
+  "render_type": "solid"
+}

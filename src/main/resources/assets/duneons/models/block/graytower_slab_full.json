@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/graytower_planks",
+    "bottom": "duneons:block/graytower_planks",
+    "top": "duneons:block/graytower_planks",
+    "side": "duneons:block/graytower_planks"
+  },
+  "render_type": "solid"
+}

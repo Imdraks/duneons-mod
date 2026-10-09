@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/chicken_jockey_statue",
+  "textures": {
+    "particle": "duneons:block/chicken_jockey_statue"
+  }
+}

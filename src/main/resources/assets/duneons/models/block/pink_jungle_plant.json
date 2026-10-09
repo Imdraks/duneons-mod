@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/pink_jungle_bush",
+  "textures": {
+    "all": "duneons:block/pink_jungle_flower_icon",
+    "particle": "duneons:block/pink_jungle_flower_icon",
+    "0": "duneons:block/pink_jungle_flower",
+    "missing": "duneons:block/pink_jungle_flower"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/quartz_block_lines_top",
+    "up": "duneons:block/quartz_block_lines_top",
+    "north": "duneons:block/quartz_block_lines",
+    "east": "duneons:block/quartz_block_lines",
+    "south": "duneons:block/quartz_block_lines",
+    "west": "duneons:block/quartz_block_lines",
+    "particle": "duneons:block/quartz_block_lines_top"
+  },
+  "render_type": "solid"
+}

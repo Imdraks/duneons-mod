@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/ice_oak_planks",
+    "up": "duneons:block/ice_oak_planks",
+    "north": "duneons:block/ice_oak_planks",
+    "east": "duneons:block/ice_oak_planks",
+    "south": "duneons:block/ice_oak_planks",
+    "west": "duneons:block/ice_oak_planks",
+    "particle": "duneons:block/ice_oak_planks"
+  },
+  "render_type": "solid"
+}

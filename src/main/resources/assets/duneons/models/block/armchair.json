@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/armchair",
+  "textures": {
+    "all": "duneons:block/armchair",
+    "particle": "duneons:block/armchair",
+    "0": "duneons:block/armchair"
+  },
+  "render_type": "solid"
+}

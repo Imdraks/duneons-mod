@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sundial",
+  "textures": {
+    "all": "duneons:block/sun_dial",
+    "particle": "duneons:block/sun_dial",
+    "0": "duneons:block/sundial"
+  },
+  "render_type": "solid"
+}

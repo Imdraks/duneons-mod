@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_bamboo",
+  "textures": {
+    "all": "duneons:block/leaves_big_bamboo",
+    "particle": "duneons:block/leaves_big_bamboo",
+    "1": "duneons:block/leaves_big_bamboo_outer",
+    "2": "duneons:block/leaves_big_bamboo"
+  },
+  "render_type": "cutout"
+}

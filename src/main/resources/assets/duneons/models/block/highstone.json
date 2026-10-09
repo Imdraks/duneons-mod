@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highstone",
+    "up": "duneons:block/highstone",
+    "north": "duneons:block/highstone",
+    "east": "duneons:block/highstone",
+    "south": "duneons:block/highstone",
+    "west": "duneons:block/highstone",
+    "particle": "duneons:block/highstone"
+  },
+  "render_type": "solid"
+}

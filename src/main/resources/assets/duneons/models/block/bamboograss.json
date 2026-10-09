@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dirt_minecraft",
+    "up": "duneons:block/hardened_clay_stained_purple",
+    "north": "duneons:block/bamboo_grass_top_2",
+    "east": "duneons:block/bamboo_grass_top_2",
+    "south": "duneons:block/bamboo_grass_top_2",
+    "west": "duneons:block/bamboo_grass_top_2",
+    "particle": "duneons:block/dirt_minecraft"
+  },
+  "render_type": "solid"
+}

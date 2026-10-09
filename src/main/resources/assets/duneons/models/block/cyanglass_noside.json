@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "duneons:block/cyan_glass",
+    "pane": "duneons:block/cyan_glass"
+  },
+  "render_type": "translucent"
+}

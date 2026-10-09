@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stabledoor_open",
+  "textures": {
+    "all": "duneons:block/stabledoor",
+    "particle": "duneons:block/stabledoor",
+    "0": "duneons:block/stabledoor"
+  },
+  "render_type": "cutout"
+}

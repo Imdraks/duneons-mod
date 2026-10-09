@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/windwill_propeller",
+  "textures": {
+    "all": "duneons:block/windwill",
+    "particle": "duneons:block/windwill",
+    "1": "duneons:block/windwill",
+    "missing": "duneons:block/windwill"
+  },
+  "render_type": "solid"
+}

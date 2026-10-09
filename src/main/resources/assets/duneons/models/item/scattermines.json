@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/scatter_mines",
+  "textures": {
+    "0": "duneons:block/scatter_mines",
+    "particle": "duneons:item/scatter_mines"
+  }
+}

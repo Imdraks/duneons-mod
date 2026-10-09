@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/guide_beacon_nether",
+  "textures": {
+    "particle": "duneons:block/guide_beacon_nether"
+  }
+}

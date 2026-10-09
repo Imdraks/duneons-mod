@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/elevator_buttons_down_on",
+  "textures": {
+    "all": "duneons:block/elevator_buttons",
+    "particle": "duneons:block/elevator_buttons",
+    "0": "duneons:block/elevator_buttons"
+  },
+  "render_type": "solid"
+}

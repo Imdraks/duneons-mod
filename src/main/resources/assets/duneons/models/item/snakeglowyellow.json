@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/snake_glow_yellow"
+  },
+  "render_type": "translucent"
+}

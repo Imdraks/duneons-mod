@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/brick_sand",
+    "bottom": "duneons:block/brick_sand",
+    "top": "duneons:block/brick_sand",
+    "side": "duneons:block/brick_sand"
+  },
+  "render_type": "solid"
+}

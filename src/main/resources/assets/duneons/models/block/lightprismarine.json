@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/light_prismarine",
+    "up": "duneons:block/light_prismarine",
+    "north": "duneons:block/light_prismarine",
+    "east": "duneons:block/light_prismarine",
+    "south": "duneons:block/light_prismarine",
+    "west": "duneons:block/light_prismarine",
+    "particle": "duneons:block/light_prismarine"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/tower_bricks",
+    "up": "duneons:block/tower_bricks",
+    "north": "duneons:block/tower_bricks",
+    "east": "duneons:block/tower_bricks",
+    "south": "duneons:block/tower_bricks",
+    "west": "duneons:block/tower_bricks",
+    "particle": "duneons:block/tower_bricks"
+  },
+  "render_type": "solid"
+}

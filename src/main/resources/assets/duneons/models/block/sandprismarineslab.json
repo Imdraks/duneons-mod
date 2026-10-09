@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/sand_prismarine",
+    "bottom": "duneons:block/sand_prismarine",
+    "top": "duneons:block/sand_prismarine",
+    "side": "duneons:block/sand_prismarine"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/test_plant_2",
+  "textures": {
+    "all": "duneons:block/jungleplant",
+    "particle": "duneons:block/jungleplant",
+    "0": "duneons:block/jungleplant",
+    "missing": "duneons:block/jungleplant"
+  },
+  "render_type": "cutout"
+}

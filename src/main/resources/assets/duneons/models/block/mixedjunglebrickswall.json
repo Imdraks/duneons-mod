@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/mixed_jungle_bricks",
+    "particle": "duneons:block/mixed_jungle_bricks"
+  },
+  "render_type": "solid"
+}

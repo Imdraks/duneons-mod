@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_bricks_chiseled",
+    "up": "duneons:block/highland_bricks_chiseled",
+    "north": "duneons:block/highland_bricks_chiseled",
+    "east": "duneons:block/highland_bricks_chiseled",
+    "south": "duneons:block/highland_bricks_chiseled",
+    "west": "duneons:block/highland_bricks_chiseled",
+    "particle": "duneons:block/highland_bricks_chiseled"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sack",
+  "textures": {
+    "all": "duneons:block/sack",
+    "particle": "duneons:block/sack",
+    "0": "duneons:block/sack"
+  },
+  "render_type": "cutout"
+}

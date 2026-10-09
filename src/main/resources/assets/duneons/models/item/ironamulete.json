@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/iron_hide_amulet",
+  "textures": {
+    "0": "duneons:block/iron_hide_amulet",
+    "missing": "duneons:block/iron_hide_amulet",
+    "particle": "duneons:item/hide_amulet"
+  }
+}

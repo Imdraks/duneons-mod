@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/rugged_climbing_chestplate_icon"
+  }
+}

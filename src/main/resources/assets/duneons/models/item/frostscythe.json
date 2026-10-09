@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/frostscythe",
+  "textures": {
+    "0": "duneons:block/rostcythe",
+    "particle": "duneons:items/spider_jacket_icon"
+  }
+}

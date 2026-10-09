@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/palm_leaves",
+  "textures": {
+    "particle": "duneons:block/jungleplant_leaves"
+  }
+}

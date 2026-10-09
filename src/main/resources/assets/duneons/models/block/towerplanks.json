@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/tower_planks",
+    "up": "duneons:block/tower_planks",
+    "north": "duneons:block/tower_planks",
+    "east": "duneons:block/tower_planks",
+    "south": "duneons:block/tower_planks",
+    "west": "duneons:block/tower_planks",
+    "particle": "duneons:block/tower_planks"
+  },
+  "render_type": "solid"
+}

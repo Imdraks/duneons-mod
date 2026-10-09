@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/burning_potion",
+  "textures": {
+    "0": "duneons:block/burning_potion",
+    "missing": "duneons:block/burning_potion",
+    "particle": "duneons:item/burning_potion"
+  }
+}

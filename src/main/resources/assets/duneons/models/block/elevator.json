@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/elevator_big",
+  "textures": {
+    "all": "duneons:block/t_elevator",
+    "particle": "duneons:block/crate_down",
+    "0": "duneons:block/t_elevator",
+    "missing": "duneons:block/t_elevator"
+  },
+  "render_type": "cutout"
+}

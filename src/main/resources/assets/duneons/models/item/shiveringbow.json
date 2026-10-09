@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/shivering_bow",
+  "textures": {
+    "0": "duneons:block/shivering_bow",
+    "particle": "duneons:item/snow_bow_pulling_2"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:shiveringbow_pulling": 1
+      },
+      "model": "duneons:item/shiveringbow_0"
+    }
+  ]
+}

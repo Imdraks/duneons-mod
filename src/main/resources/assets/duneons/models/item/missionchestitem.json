@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/chest_darkloot",
+  "textures": {
+    "0": "duneons:block/t_missionlootchest",
+    "particle": "duneons:item/chest_glow_yellow"
+  }
+}

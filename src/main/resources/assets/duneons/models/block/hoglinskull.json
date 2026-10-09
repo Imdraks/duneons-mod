@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/hoglin_skull",
+  "textures": {
+    "all": "duneons:block/hoglin_skull",
+    "particle": "duneons:block/hoglin_skull",
+    "0": "duneons:block/hoglin_skull"
+  },
+  "render_type": "cutout"
+}

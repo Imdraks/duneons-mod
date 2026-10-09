@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bricker_dirt",
+    "up": "duneons:block/dark_carved_bricks",
+    "north": "duneons:block/arenablock_anim",
+    "east": "duneons:block/arenablock_anim",
+    "south": "duneons:block/arenablock_anim",
+    "west": "duneons:block/arenablock_anim",
+    "particle": "duneons:block/bricker_dirt"
+  },
+  "render_type": "solid"
+}

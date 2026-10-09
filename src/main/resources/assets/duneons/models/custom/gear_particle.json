@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/gear",
+  "textures": {
+    "particle": "duneons:block/t_wind_pipes"
+  }
+}

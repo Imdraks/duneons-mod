@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/crucible",
+  "textures": {
+    "all": "duneons:block/crucible",
+    "particle": "duneons:block/dark_andesite",
+    "0": "duneons:block/crucible"
+  },
+  "render_type": "solid"
+}

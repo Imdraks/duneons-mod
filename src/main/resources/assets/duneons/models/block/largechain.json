@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/large_chain",
+  "textures": {
+    "all": "duneons:block/large_chain",
+    "particle": "duneons:block/large_chain",
+    "0": "duneons:block/large_chain"
+  },
+  "render_type": "cutout"
+}

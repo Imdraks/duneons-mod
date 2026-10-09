@@ -1,0 +1,106 @@
+{
+  "variants": {
+    "axis=x": [
+    {
+      "model": "block/corrupted_oak/block/0",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/1",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/2",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/3",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/4",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/5",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/6",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/7",
+      "x": 90,
+      "y": 90
+    }
+   ],
+    "axis=y": [
+    {
+      "model": "block/corrupted_oak/block/0"
+    },
+    {
+      "model": "block/corrupted_oak/block/1"
+    },
+    {
+      "model": "block/corrupted_oak/block/2"
+    },
+    {
+      "model": "block/corrupted_oak/block/3"
+    },
+    {
+      "model": "block/corrupted_oak/block/4"
+    },
+    {
+      "model": "block/corrupted_oak/block/5"
+    },
+    {
+      "model": "block/corrupted_oak/block/6"
+    },
+    {
+      "model": "block/corrupted_oak/block/7"
+    }
+   ],
+    "axis=z": [
+    {
+      "model": "block/corrupted_oak/block/0",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/1",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/2",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/3",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/4",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/5",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/6",
+      "x": 90
+    },
+    {
+      "model": "block/corrupted_oak/block/7",
+      "x": 90
+    }
+   ]
+  }
+}

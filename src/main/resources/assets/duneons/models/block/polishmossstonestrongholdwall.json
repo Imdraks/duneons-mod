@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/polish_moss_stone_stronghold",
+    "particle": "duneons:block/polish_moss_stone_stronghold"
+  },
+  "render_type": "solid"
+}

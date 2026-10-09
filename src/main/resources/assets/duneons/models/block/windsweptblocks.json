@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/brazier_orb",
+  "textures": {
+    "all": "duneons:block/rampart_brazier",
+    "particle": "duneons:block/rampart_brazier",
+    "0": "duneons:block/windswept_blocks"
+  },
+  "render_type": "solid"
+}

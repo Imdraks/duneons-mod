@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/dead_big_yellow_coral_item"
+  },
+  "render_type": "translucent"
+}

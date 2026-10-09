@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/luxury_carpet1.19",
+  "textures": {
+    "all": "duneons:block/carpet_luxury",
+    "particle": "duneons:block/carpet_luxury",
+    "1": "duneons:block/carpet_luxury"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/truthseeker_1.11",
+  "textures": {
+    "0": "duneons:block/ruthseeker",
+    "particle": "duneons:item/truthseeker"
+  }
+}

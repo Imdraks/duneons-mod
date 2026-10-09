@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/metal_cube_chain",
+  "textures": {
+    "all": "duneons:block/metalcube",
+    "particle": "duneons:block/lava_indicator_top",
+    "0": "duneons:block/metalcube"
+  },
+  "render_type": "solid"
+}

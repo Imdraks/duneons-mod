@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sand_granite_top",
+    "up": "duneons:block/overgrown_sand_top",
+    "north": "duneons:block/overgrown_sand",
+    "east": "duneons:block/overgrown_sand",
+    "south": "duneons:block/overgrown_sand",
+    "west": "duneons:block/overgrown_sand",
+    "particle": "duneons:block/sand_granite_top"
+  },
+  "render_type": "solid"
+}

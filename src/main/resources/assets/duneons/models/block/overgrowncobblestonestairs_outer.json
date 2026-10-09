@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/overgrown_cobblestone",
+    "bottom": "duneons:block/overgrown_cobblestone",
+    "top": "duneons:block/overgrown_cobblestone",
+    "side": "duneons:block/overgrown_cobblestone"
+  },
+  "render_type": "solid"
+}

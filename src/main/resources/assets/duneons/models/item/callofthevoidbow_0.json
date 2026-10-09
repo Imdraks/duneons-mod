@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/call_of_the_void_pulling",
+  "textures": {
+    "0": "duneons:block/call_of_the_void_pulling_2",
+    "particle": "duneons:item/call_of_the_void_pulling_2"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        -16,
+        -1,
+        15
+      ],
+      "to": [
+        32,
+        32,
+        15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            0,
+            11.25,
+            6.75
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1,
+            16
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            0.75,
+            0,
+            11.25,
+            6.375
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1,
+            16
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ],
+          "texture": "#missing"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0.75,
+        1.75
+      ],
+      "scale": [
+        -0.17,
+        -0.16,
+        -0.17
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.17,
+        0.16,
+        0.17
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.29,
+        0.29,
+        0.29
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.26,
+        0.26,
+        0.28
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.26,
+        0.27,
+        0.25
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        -2.25,
+        0
+      ],
+      "scale": [
+        0.29,
+        0.29,
+        0.29
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -2.75,
+        -2.75
+      ],
+      "scale": [
+        0.42,
+        0.39,
+        0.39
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "T_Curtains",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "children": [
+        0
+      ]
+    }
+  ]
+}

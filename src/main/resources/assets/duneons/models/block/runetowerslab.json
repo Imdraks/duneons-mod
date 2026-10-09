@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/rune_tower_1",
+  "textures": {
+    "all": "duneons:block/rune_tower",
+    "particle": "duneons:block/rune_tower",
+    "0": "duneons:block/rune_tower"
+  },
+  "render_type": "solid"
+}

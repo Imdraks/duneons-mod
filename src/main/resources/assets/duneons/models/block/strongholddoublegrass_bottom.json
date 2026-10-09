@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/stronghold_double_plant_bottom",
+    "particle": "duneons:block/stronghold_double_plant_top"
+  },
+  "render_type": "cutout"
+}

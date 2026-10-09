@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/ice_wood",
+    "bottom": "duneons:block/ice_wood",
+    "top": "duneons:block/ice_wood",
+    "side": "duneons:block/ice_wood"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/orange_geeen_carpet",
+  "textures": {
+    "all": "duneons:block/t_rug_huge_02",
+    "particle": "duneons:block/t_rug_huge_02",
+    "0": "duneons:block/t_rug_huge_02"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_blacktille",
+    "up": "duneons:block/cracked_blacktille",
+    "north": "duneons:block/cracked_blacktille",
+    "east": "duneons:block/cracked_blacktille",
+    "south": "duneons:block/cracked_blacktille",
+    "west": "duneons:block/cracked_blacktille",
+    "particle": "duneons:block/cracked_blacktille"
+  },
+  "render_type": "solid"
+}

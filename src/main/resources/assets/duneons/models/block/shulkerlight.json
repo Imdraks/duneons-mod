@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/shulker_light",
+    "up": "duneons:block/shulker_light",
+    "north": "duneons:block/shulker_light",
+    "east": "duneons:block/shulker_light",
+    "south": "duneons:block/shulker_light",
+    "west": "duneons:block/shulker_light",
+    "particle": "duneons:block/shulker_light"
+  },
+  "render_type": "solid"
+}

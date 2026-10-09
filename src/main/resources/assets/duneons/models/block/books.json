@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/books",
+  "textures": {
+    "all": "duneons:block/books",
+    "particle": "duneons:block/books",
+    "0": "duneons:block/books"
+  },
+  "render_type": "cutout"
+}

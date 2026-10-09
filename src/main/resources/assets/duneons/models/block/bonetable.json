@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/bone_table",
+  "textures": {
+    "all": "duneons:block/t_bonebutton_diffuse",
+    "particle": "duneons:block/t_bonebutton_diffuse",
+    "0": "duneons:block/t_bonebutton_diffuse",
+    "missing": "duneons:block/t_bonebutton_diffuse"
+  },
+  "render_type": "solid"
+}

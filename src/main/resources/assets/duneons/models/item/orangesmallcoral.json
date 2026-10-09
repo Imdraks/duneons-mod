@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/orange_small_coral"
+  },
+  "render_type": "translucent"
+}

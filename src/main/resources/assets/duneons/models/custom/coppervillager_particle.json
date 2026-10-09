@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/copper_villager_rusty",
+  "textures": {
+    "particle": "duneons:block/copper_villager_rusty"
+  }
+}

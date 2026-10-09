@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ravager_gate_wood3",
+  "textures": {
+    "all": "duneons:block/t_ravager_gate",
+    "particle": "duneons:block/t_ravager_gate",
+    "0": "duneons:block/t_ravager_gate"
+  },
+  "render_type": "solid"
+}

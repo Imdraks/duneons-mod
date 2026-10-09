@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tower_table",
+  "textures": {
+    "all": "duneons:block/t_basetower_props_d",
+    "particle": "duneons:block/tower_planks",
+    "0": "duneons:block/t_basetower_props_d"
+  },
+  "render_type": "solid"
+}

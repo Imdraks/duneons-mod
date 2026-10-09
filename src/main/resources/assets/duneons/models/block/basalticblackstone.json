@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/basaltic_blackstone_top",
+    "up": "duneons:block/basaltic_blackstone_top",
+    "north": "duneons:block/basaltic_blackstone_side",
+    "east": "duneons:block/basaltic_blackstone_side",
+    "south": "duneons:block/basaltic_blackstone_side",
+    "west": "duneons:block/basaltic_blackstone_side",
+    "particle": "duneons:block/basaltic_blackstone_top"
+  },
+  "render_type": "solid"
+}

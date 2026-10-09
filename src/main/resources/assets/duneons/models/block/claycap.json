@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/clay_cap",
+  "textures": {
+    "all": "duneons:block/china_pots_clay",
+    "particle": "duneons:block/china_pots_clay",
+    "0": "duneons:block/china_pots_clay",
+    "missing": "duneons:block/china_pots_clay"
+  },
+  "render_type": "cutout"
+}

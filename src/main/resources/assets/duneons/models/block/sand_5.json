@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/shield_mob_spawner",
+  "textures": {
+    "all": "duneons:block/sand_granite_top",
+    "particle": "duneons:block/sand_granite_top",
+    "0": "duneons:block/royal_shield",
+    "missing": "duneons:block/royal_shield"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/swamp_mossy_stone",
+    "bottom": "duneons:block/swamp_mossy_stone",
+    "top": "duneons:block/swamp_mossy_stone",
+    "side": "duneons:block/swamp_mossy_stone"
+  },
+  "render_type": "solid"
+}

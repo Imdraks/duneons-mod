@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "particle": "duneons:block/chorus_planks",
+    "texture": "duneons:block/chorus_planks"
+  },
+  "render_type": "solid"
+}

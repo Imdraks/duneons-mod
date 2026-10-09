@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/spike_rug",
+  "textures": {
+    "all": "duneons:block/spike_rug",
+    "particle": "duneons:block/spike_rug",
+    "1": "duneons:block/spike_rug"
+  },
+  "render_type": "cutout"
+}

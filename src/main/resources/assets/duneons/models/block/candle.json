@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/evil_candle_on",
+  "textures": {
+    "all": "duneons:block/candle",
+    "particle": "duneons:block/candle_on",
+    "0": "duneons:block/candle_on"
+  },
+  "render_type": "solid"
+}

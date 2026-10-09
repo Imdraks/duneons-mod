@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/creeperforest_patch",
+    "up": "duneons:block/creeperforest_patch",
+    "north": "duneons:block/creeperforest_patch",
+    "east": "duneons:block/creeperforest_patch",
+    "south": "duneons:block/creeperforest_patch",
+    "west": "duneons:block/creeperforest_patch",
+    "particle": "duneons:block/creeperforest_patch"
+  },
+  "render_type": "solid"
+}

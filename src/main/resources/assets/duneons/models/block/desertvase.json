@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/desert_vase",
+  "textures": {
+    "all": "duneons:block/desert_vase",
+    "particle": "duneons:block/desert_vase",
+    "0": "duneons:block/desert_vase"
+  },
+  "render_type": "cutout"
+}

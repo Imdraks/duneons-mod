@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "up": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "north": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "east": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "south": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "west": "duneons:block/soil_cacti_stonechiseled_bricks",
+    "particle": "duneons:block/soil_cacti_stonechiseled_bricks"
+  },
+  "render_type": "solid"
+}

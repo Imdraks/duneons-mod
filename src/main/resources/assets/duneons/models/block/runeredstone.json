@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/rune_redstone",
+    "up": "duneons:block/rune_redstone",
+    "north": "duneons:block/rune_redstone",
+    "east": "duneons:block/rune_redstone",
+    "south": "duneons:block/rune_redstone",
+    "west": "duneons:block/rune_redstone",
+    "particle": "duneons:block/rune_redstone"
+  },
+  "render_type": "solid"
+}

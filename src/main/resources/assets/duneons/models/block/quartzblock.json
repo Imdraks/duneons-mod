@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "up": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "north": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "east": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "south": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "west": "duneons:block/quartz_block_chiseled_top_frozenfjord",
+    "particle": "duneons:block/quartz_block_chiseled_top_frozenfjord"
+  },
+  "render_type": "solid"
+}

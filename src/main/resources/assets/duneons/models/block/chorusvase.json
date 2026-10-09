@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/chorus_vase",
+  "textures": {
+    "all": "duneons:block/end_furnitures",
+    "particle": "duneons:block/end_furnitures",
+    "0": "duneons:block/end_furnitures"
+  },
+  "render_type": "cutout"
+}

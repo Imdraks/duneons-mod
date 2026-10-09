@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/crashed_stonghold_chiseled_bricks",
+    "up": "duneons:block/crashed_stonghold_chiseled_bricks",
+    "north": "duneons:block/wool_colored_red",
+    "east": "duneons:block/wool_colored_red",
+    "south": "duneons:block/wool_colored_red",
+    "west": "duneons:block/wool_colored_red",
+    "particle": "duneons:block/crashed_stonghold_chiseled_bricks"
+  },
+  "render_type": "solid"
+}

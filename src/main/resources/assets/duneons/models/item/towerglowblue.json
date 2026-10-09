@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/tower_glow_blue"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_blue_planks",
+    "up": "duneons:block/highland_blue_planks",
+    "north": "duneons:block/highland_blue_planks",
+    "east": "duneons:block/highland_blue_planks",
+    "south": "duneons:block/highland_blue_planks",
+    "west": "duneons:block/highland_blue_planks",
+    "particle": "duneons:block/highland_blue_planks"
+  },
+  "render_type": "solid"
+}

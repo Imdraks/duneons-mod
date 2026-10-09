@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/long_yellow_coral_dead",
+  "textures": {
+    "all": "duneons:block/dead_long_yellow_coral",
+    "particle": "duneons:block/dead_long_yellow_coral",
+    "missing": "duneons:block/dead_long_yellow_coral",
+    "cross": "duneons:block/dead_long_yellow_coral"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/large_chain_item"
+  },
+  "render_type": "translucent"
+}

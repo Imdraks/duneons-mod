@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/love_medallion",
+  "textures": {
+    "0": "duneons:block/love_medallion",
+    "particle": "duneons:item/t_lovemedallion_gearicon"
+  }
+}

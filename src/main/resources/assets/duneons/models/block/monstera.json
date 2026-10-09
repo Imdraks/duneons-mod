@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/monstera_plant",
+  "textures": {
+    "all": "duneons:block/monstera",
+    "particle": "duneons:block/monstera",
+    "1": "duneons:block/monstera"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/rotten_apple",
+  "textures": {
+    "all": "duneons:block/rottenapple",
+    "particle": "duneons:block/rottenapple",
+    "0": "duneons:block/rottenapple",
+    "missing": "duneons:block/rottenapple"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/guardian_bow_pulling",
+  "textures": {
+    "0": "duneons:block/guardian_bow_pulling_2",
+    "particle": "duneons:item/guardian_bowicon"
+  }
+}

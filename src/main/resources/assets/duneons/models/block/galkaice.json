@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/galka_ice",
+    "up": "duneons:block/galka_ice",
+    "north": "duneons:block/galka_ice",
+    "east": "duneons:block/galka_ice",
+    "south": "duneons:block/galka_ice",
+    "west": "duneons:block/galka_ice",
+    "particle": "duneons:block/galka_ice"
+  },
+  "render_type": "solid"
+}

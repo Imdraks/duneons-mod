@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/cactimosssand/block/0"
+      },
+      {
+        "model": "block/cactimosssand/block/1"
+      },
+      {
+        "model": "block/cactimosssand/block/2"
+      },
+      {
+        "model": "block/cactimosssand/block/3"
+      },
+      {
+        "model": "block/cactimosssand/block/4"
+      },
+      {
+        "model": "block/cactimosssand/block/5"
+      }
+    ]
+  }
+}

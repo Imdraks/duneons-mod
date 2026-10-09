@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/twin_bow",
+  "textures": {
+    "0": "duneons:block/twin_bow",
+    "particle": "duneons:item/twin_bow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:twinbow_pulling": 1
+      },
+      "model": "duneons:item/twinbow_0"
+    }
+  ]
+}

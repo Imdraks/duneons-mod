@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/curtain_grey",
+  "textures": {
+    "all": "duneons:block/t_curtain_straight",
+    "particle": "duneons:block/t_curtain_straight",
+    "0": "duneons:block/t_curtain_straight"
+  },
+  "render_type": "solid"
+}

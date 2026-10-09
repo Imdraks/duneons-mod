@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/red_jungle_bush",
+  "textures": {
+    "all": "duneons:block/large_jungle_plant_item",
+    "particle": "duneons:block/large_jungle_plant_item",
+    "0": "duneons:block/t_large_jungle_plant_rough",
+    "missing": "duneons:block/t_large_jungle_plant_rough"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/snowy_double_plant_fern_top",
+    "particle": "duneons:block/snowy_double_plant_fern_top"
+  },
+  "render_type": "cutout"
+}

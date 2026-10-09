@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/cauldron_fire",
+  "textures": {
+    "all": "duneons:block/cauldron_fire",
+    "particle": "duneons:block/cauldron_fire",
+    "0": "duneons:block/cauldron_fire",
+    "missing": "duneons:block/cauldron_fire"
+  },
+  "render_type": "cutout"
+}

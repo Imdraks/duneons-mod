@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/compressed_netherrack",
+    "up": "duneons:block/compressed_netherrack",
+    "north": "duneons:block/compressed_netherrack",
+    "east": "duneons:block/compressed_netherrack",
+    "south": "duneons:block/compressed_netherrack",
+    "west": "duneons:block/compressed_netherrack",
+    "particle": "duneons:block/compressed_netherrack"
+  },
+  "render_type": "solid"
+}

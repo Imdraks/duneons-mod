@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/light_coralblocks",
+    "up": "duneons:block/light_coralblocks",
+    "north": "duneons:block/light_coralblocks",
+    "east": "duneons:block/light_coralblocks",
+    "south": "duneons:block/light_coralblocks",
+    "west": "duneons:block/light_coralblocks",
+    "particle": "duneons:block/light_coralblocks"
+  },
+  "render_type": "solid"
+}

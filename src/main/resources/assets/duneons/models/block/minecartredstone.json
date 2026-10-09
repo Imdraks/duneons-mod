@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/minecart_redstone",
+  "textures": {
+    "all": "duneons:block/minecart_fixed",
+    "particle": "duneons:block/minecart_fixed",
+    "1": "duneons:block/minecart_fixed",
+    "2": "duneons:block/t_redstonecrystal"
+  },
+  "render_type": "solid"
+}

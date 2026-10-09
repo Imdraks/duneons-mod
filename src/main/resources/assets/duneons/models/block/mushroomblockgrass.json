@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mushroom_block_grass",
+    "up": "duneons:block/mushroom_block_grass",
+    "north": "duneons:block/mushroom_block_grass",
+    "east": "duneons:block/mushroom_block_grass",
+    "south": "duneons:block/mushroom_block_grass",
+    "west": "duneons:block/mushroom_block_grass",
+    "particle": "duneons:block/mushroom_block_grass"
+  },
+  "render_type": "solid"
+}

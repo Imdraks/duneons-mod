@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/turkey",
+  "textures": {
+    "all": "duneons:block/turkey",
+    "particle": "duneons:block/turkey",
+    "0": "duneons:block/turkey"
+  },
+  "render_type": "solid"
+}

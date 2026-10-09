@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/gate",
+  "textures": {
+    "particle": "duneons:block/t_gate_bars"
+  }
+}

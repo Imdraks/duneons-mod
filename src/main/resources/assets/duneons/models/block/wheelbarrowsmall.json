@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wheelbarrow_small",
+  "textures": {
+    "all": "duneons:block/wheelbarrow_small",
+    "particle": "duneons:block/wheelbarrow_small",
+    "0": "duneons:block/wheelbarrow_small"
+  },
+  "render_type": "solid"
+}

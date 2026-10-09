@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/end_cactus",
+  "textures": {
+    "all": "duneons:block/endcactus_side",
+    "particle": "duneons:block/endcactus_side",
+    "0": "duneons:block/endcactus_top",
+    "1": "duneons:block/endcactus_side",
+    "missing": "duneons:block/endcactus_side"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/peony_died",
+    "particle": "duneons:block/peony_died"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/stonebrick_snow",
+    "bottom": "duneons:block/stonebrick_snow",
+    "top": "duneons:block/stonebrick_snow",
+    "side": "duneons:block/stonebrick_snow"
+  },
+  "render_type": "solid"
+}

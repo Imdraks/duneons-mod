@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sidetable",
+  "textures": {
+    "all": "duneons:block/sidetable",
+    "particle": "duneons:block/sidetable",
+    "0": "duneons:block/sidetable"
+  },
+  "render_type": "solid"
+}

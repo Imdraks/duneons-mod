@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/packed_ice_glacial",
+    "up": "duneons:block/ice_cracked",
+    "north": "duneons:block/ice_snowy",
+    "east": "duneons:block/packed_ice_glacial",
+    "south": "duneons:block/ice_snowy",
+    "west": "duneons:block/packed_ice_glacial",
+    "particle": "duneons:block/packed_ice_glacial"
+  },
+  "render_type": "solid"
+}

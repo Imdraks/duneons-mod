@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "duneons:block/bluecitadel_log_side",
+    "particle": "duneons:block/bluecitadel_log_side"
+  },
+  "render_type": "solid"
+}

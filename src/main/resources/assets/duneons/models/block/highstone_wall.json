@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/highstone",
+    "particle": "duneons:block/highstone"
+  },
+  "render_type": "solid"
+}

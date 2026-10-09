@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:raviantruine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 19,
+    "separation": 15,
+    "salt": 1675929089
+  }
+}

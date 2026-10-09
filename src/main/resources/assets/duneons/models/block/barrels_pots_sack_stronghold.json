@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/barrels_pots_sack_stronghold",
+  "textures": {
+    "all": "duneons:block/t_barrels_pots_sack_stronghold_basec",
+    "particle": "duneons:block/t_barrels_pots_sack_stronghold_basec",
+    "0": "duneons:block/t_barrels_pots_sack_stronghold_basec",
+    "missing": "duneons:block/t_barrels_pots_sack_stronghold_basec"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/broom",
+  "textures": {
+    "all": "duneons:block/t_broom",
+    "particle": "duneons:block/t_broom",
+    "0": "duneons:block/t_broom"
+  },
+  "render_type": "cutout"
+}

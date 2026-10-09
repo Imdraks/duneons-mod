@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:abyssal_monument_boss",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 76,
+    "separation": 33,
+    "salt": 258746972
+  }
+}

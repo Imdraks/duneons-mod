@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soul_soil_bone_shards",
+    "up": "duneons:block/soul_soil_bone_shards",
+    "north": "duneons:block/soul_soil_bone_shards",
+    "east": "duneons:block/soul_soil_bone_shards",
+    "south": "duneons:block/soul_soil_bone_shards",
+    "west": "duneons:block/soul_soil_bone_shards",
+    "particle": "duneons:block/soul_soil_bone_shards"
+  },
+  "render_type": "solid"
+}

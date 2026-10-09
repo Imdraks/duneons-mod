@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/red_rubberduck",
+  "textures": {
+    "all": "duneons:block/t_rubberduckr",
+    "particle": "duneons:block/t_rubberduckr",
+    "0": "duneons:block/t_rubberduckr",
+    "missing": "duneons:block/t_rubberduckr"
+  },
+  "render_type": "cutout"
+}

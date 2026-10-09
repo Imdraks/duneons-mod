@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/outpost_bricks",
+    "up": "duneons:block/outpost_bricks",
+    "north": "duneons:block/outpost_bricks_chiseled",
+    "east": "duneons:block/outpost_bricks_chiseled",
+    "south": "duneons:block/outpost_bricks_chiseled",
+    "west": "duneons:block/outpost_bricks_chiseled",
+    "particle": "duneons:block/outpost_bricks"
+  },
+  "render_type": "solid"
+}

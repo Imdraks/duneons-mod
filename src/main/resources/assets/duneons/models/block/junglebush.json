@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/jungle_bush",
+  "textures": {
+    "all": "duneons:block/jungle_bush",
+    "particle": "duneons:block/jungle_bush",
+    "0": "duneons:block/jungle_bush",
+    "missing": "duneons:block/jungle_bush"
+  },
+  "render_type": "cutout"
+}

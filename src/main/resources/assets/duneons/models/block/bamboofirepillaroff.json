@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/fire_pillar_off",
+  "textures": {
+    "all": "duneons:block/firepillar",
+    "particle": "duneons:block/firepillar",
+    "0": "duneons:block/firepillar"
+  },
+  "render_type": "solid"
+}

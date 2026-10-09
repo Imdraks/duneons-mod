@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/chandelier",
+  "textures": {
+    "all": "duneons:block/t_chandelier",
+    "particle": "duneons:block/t_chandelier",
+    "1": "duneons:block/flame",
+    "2": "duneons:block/t_chandelier"
+  },
+  "render_type": "cutout"
+}

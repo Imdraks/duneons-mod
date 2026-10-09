@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/obsidian_abyss",
+    "up": "duneons:block/obsidian_abyss",
+    "north": "duneons:block/obsidian_abyss",
+    "east": "duneons:block/obsidian_abyss",
+    "south": "duneons:block/obsidian_abyss",
+    "west": "duneons:block/obsidian_abyss",
+    "particle": "duneons:block/obsidian_abyss"
+  },
+  "render_type": "solid"
+}

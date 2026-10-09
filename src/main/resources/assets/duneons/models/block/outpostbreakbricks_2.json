@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/outpost_break_bricks_2",
+    "up": "duneons:block/outpost_break_bricks_2",
+    "north": "duneons:block/outpost_break_bricks_2",
+    "east": "duneons:block/outpost_break_bricks_2",
+    "south": "duneons:block/outpost_break_bricks_2",
+    "west": "duneons:block/outpost_break_bricks_2",
+    "particle": "duneons:block/outpost_break_bricks_2"
+  },
+  "render_type": "solid"
+}

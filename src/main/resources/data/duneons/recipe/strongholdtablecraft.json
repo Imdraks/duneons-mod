@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aaa","bcb"],"key":{"a":"duneons:wood_stronghold","b":"minecraft:oak_slab","c":"minecraft:oak_pressure_plate"},"result":{"id":"duneons:stronghold_table","count":1}}

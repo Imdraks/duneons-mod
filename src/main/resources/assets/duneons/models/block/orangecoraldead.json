@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/orange_long_standing_sorals_dead",
+  "textures": {
+    "all": "duneons:block/dead_orange_long_standing_sorals_cross",
+    "particle": "duneons:block/dead_orange_long_standing_sorals_cross",
+    "missing": "duneons:block/dead_orange_long_standing_sorals_cross",
+    "cross": "duneons:block/dead_orange_long_standing_sorals_cross"
+  },
+  "render_type": "cutout"
+}

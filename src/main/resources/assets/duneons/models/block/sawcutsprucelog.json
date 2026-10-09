@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/saw_cut_spruce_log_top",
+    "up": "duneons:block/saw_cut_spruce_log_top",
+    "north": "duneons:block/saw_cut_spruce_log",
+    "east": "duneons:block/saw_cut_spruce_log",
+    "south": "duneons:block/saw_cut_spruce_log",
+    "west": "duneons:block/saw_cut_spruce_log",
+    "particle": "duneons:block/saw_cut_spruce_log_top"
+  },
+  "render_type": "solid"
+}

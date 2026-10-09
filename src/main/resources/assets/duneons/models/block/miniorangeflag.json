@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/mini_orange_flag",
+  "textures": {
+    "all": "duneons:block/t_windswept_props_trim",
+    "particle": "duneons:block/highland_wood",
+    "0": "duneons:block/t_windswept_props_trim"
+  },
+  "render_type": "cutout"
+}

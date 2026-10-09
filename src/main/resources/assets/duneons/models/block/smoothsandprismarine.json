@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_sand_prismarine",
+    "up": "duneons:block/smooth_sand_prismarine",
+    "north": "duneons:block/smooth_sand_prismarine",
+    "east": "duneons:block/smooth_sand_prismarine",
+    "south": "duneons:block/smooth_sand_prismarine",
+    "west": "duneons:block/smooth_sand_prismarine",
+    "particle": "duneons:block/smooth_sand_prismarine"
+  },
+  "render_type": "solid"
+}

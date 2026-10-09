@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/mace_gold",
+  "textures": {
+    "1": "duneons:block/gold_mace",
+    "particle": "duneons:item/suns_grace"
+  }
+}

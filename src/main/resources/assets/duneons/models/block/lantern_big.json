@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lantern_big",
+  "textures": {
+    "all": "duneons:block/t_lantern_big",
+    "particle": "duneons:block/t_lantern_big",
+    "0": "duneons:block/t_lantern_big",
+    "missing": "duneons:block/t_lantern_big"
+  },
+  "render_type": "cutout"
+}

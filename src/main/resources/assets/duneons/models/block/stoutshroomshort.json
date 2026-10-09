@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stout_shroom_short",
+  "textures": {
+    "all": "duneons:block/textureatlas_netherfoliage",
+    "particle": "duneons:block/textureatlas_netherfoliage",
+    "0": "duneons:block/textureatlas_netherfoliage"
+  },
+  "render_type": "cutout"
+}

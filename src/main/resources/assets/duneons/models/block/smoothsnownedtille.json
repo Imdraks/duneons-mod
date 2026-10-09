@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_snowned_tille",
+    "up": "duneons:block/smooth_snowned_tille",
+    "north": "duneons:block/smooth_snowned_tille",
+    "east": "duneons:block/smooth_snowned_tille",
+    "south": "duneons:block/smooth_snowned_tille",
+    "west": "duneons:block/smooth_snowned_tille",
+    "particle": "duneons:block/smooth_snowned_tille"
+  },
+  "render_type": "solid"
+}

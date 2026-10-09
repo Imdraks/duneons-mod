@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/dark_cobblestone_path",
+  "textures": {
+    "all": "duneons:block/dark_cobblestone",
+    "particle": "duneons:block/dark_cobblestone",
+    "1": "duneons:block/dark_cobblestone"
+  },
+  "render_type": "cutout"
+}

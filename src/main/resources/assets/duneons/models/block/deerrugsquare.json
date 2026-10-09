@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/deerrug_square",
+  "textures": {
+    "all": "duneons:block/deerrug_square",
+    "particle": "duneons:block/deerrug_square",
+    "0": "duneons:block/deerrug_square"
+  },
+  "render_type": "solid"
+}

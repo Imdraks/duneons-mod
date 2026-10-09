@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highblock_cross_bricks",
+    "up": "duneons:block/highblock_cross_bricks",
+    "north": "duneons:block/highblock_cross_bricks",
+    "east": "duneons:block/highblock_cross_bricks",
+    "south": "duneons:block/highblock_cross_bricks",
+    "west": "duneons:block/highblock_cross_bricks",
+    "particle": "duneons:block/highblock_cross_bricks"
+  },
+  "render_type": "solid"
+}

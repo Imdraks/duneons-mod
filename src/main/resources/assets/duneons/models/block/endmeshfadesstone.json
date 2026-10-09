@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_meshfades_stone",
+    "up": "duneons:block/end_meshfades_stone",
+    "north": "duneons:block/end_meshfades_stone",
+    "east": "duneons:block/end_meshfades_stone",
+    "south": "duneons:block/end_meshfades_stone",
+    "west": "duneons:block/end_meshfades_stone",
+    "particle": "duneons:block/end_meshfades_stone"
+  },
+  "render_type": "solid"
+}

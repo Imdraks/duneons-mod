@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/end_table_sqaure",
+  "textures": {
+    "all": "duneons:block/t_tablesqaure",
+    "particle": "duneons:block/t_tablesqaure",
+    "0": "duneons:block/t_tablesqaure",
+    "missing": "duneons:block/t_tablesqaure"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_red",
+  "textures": {
+    "all": "duneons:block/dungeons_red_pasture_leaves",
+    "particle": "duneons:block/dungeons_red_pasture_leaves",
+    "1": "duneons:block/dungeons_red_pasture_leaves_outer",
+    "2": "duneons:block/dungeons_red_pasture_leaves"
+  },
+  "render_type": "cutout"
+}

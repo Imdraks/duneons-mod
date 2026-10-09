@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "duneons:custom/minecart1"
+      },
+      {
+        "model": "duneons:custom/minecart2"
+      },
+      {
+        "model": "duneons:custom/minecart3"
+      },
+      {
+        "model": "duneons:custom/minecart4"
+      }
+    ]
+  }
+}

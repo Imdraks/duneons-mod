@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/couch",
+  "textures": {
+    "particle": "duneons:block/couch"
+  }
+}

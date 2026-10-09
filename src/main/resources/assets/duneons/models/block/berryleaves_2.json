@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_berries2",
+  "textures": {
+    "all": "duneons:block/bee_leaves",
+    "particle": "duneons:block/bee_leaves",
+    "1": "duneons:block/beeries_leaves_outer",
+    "2": "duneons:block/bee_leaves"
+  },
+  "render_type": "cutout"
+}

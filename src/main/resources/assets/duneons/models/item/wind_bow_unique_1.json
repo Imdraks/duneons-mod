@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/echo_of_the_valley",
+  "textures": {
+    "0": "duneons:block/echo_of_the_valley",
+    "particle": "duneons:item/windbow_unique1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:wind_bow_unique_1_pulling": 1
+      },
+      "model": "duneons:item/wind_bow_unique_1_0"
+    }
+  ]
+}

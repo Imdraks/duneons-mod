@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/red_carpet",
+  "textures": {
+    "all": "duneons:block/red_carpet",
+    "particle": "duneons:block/red_carpet",
+    "carpet": "duneons:block/red_carpet"
+  },
+  "render_type": "solid"
+}

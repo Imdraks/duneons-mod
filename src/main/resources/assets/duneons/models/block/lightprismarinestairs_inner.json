@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "duneons:block/light_prismarine",
+    "bottom": "duneons:block/light_prismarine",
+    "top": "duneons:block/light_prismarine",
+    "side": "duneons:block/light_prismarine"
+  },
+  "render_type": "solid"
+}

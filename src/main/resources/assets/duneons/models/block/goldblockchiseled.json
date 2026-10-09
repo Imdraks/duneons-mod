@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/gold_block_detailed",
+    "up": "duneons:block/gold_block_detailed",
+    "north": "duneons:block/gold_block_chiseled",
+    "east": "duneons:block/gold_block_chiseled",
+    "south": "duneons:block/gold_block_chiseled",
+    "west": "duneons:block/gold_block_chiseled",
+    "particle": "duneons:block/gold_block_detailed"
+  },
+  "render_type": "solid"
+}

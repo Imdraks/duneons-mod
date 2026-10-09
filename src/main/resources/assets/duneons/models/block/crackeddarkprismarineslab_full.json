@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/cracked_dark_prismarine",
+    "bottom": "duneons:block/cracked_dark_prismarine",
+    "top": "duneons:block/cracked_dark_prismarine",
+    "side": "duneons:block/cracked_dark_prismarine"
+  },
+  "render_type": "solid"
+}

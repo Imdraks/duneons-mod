@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/stronghold_couch",
+  "textures": {
+    "all": "duneons:block/t_couch",
+    "particle": "duneons:block/t_couch",
+    "0": "duneons:block/t_couch",
+    "missing": "duneons:block/t_couch"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/end_lantern_wall",
+  "textures": {
+    "all": "duneons:block/end_lantern",
+    "particle": "duneons:block/end_lantern",
+    "0": "duneons:block/end_lantern"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/arrow1",
+  "textures": {
+    "all": "duneons:block/arrow",
+    "particle": "duneons:block/arrow",
+    "0": "duneons:block/arrow"
+  },
+  "render_type": "cutout"
+}

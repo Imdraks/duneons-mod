@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/end_citadel_criseled_bricks",
+    "bottom": "duneons:block/end_citadel_criseled_bricks",
+    "top": "duneons:block/end_citadel_criseled_bricks",
+    "side": "duneons:block/end_citadel_criseled_bricks"
+  },
+  "render_type": "solid"
+}

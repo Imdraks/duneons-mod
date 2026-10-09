@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/battlestaff_iron",
+  "textures": {
+    "0": "duneons:block/battlestaff_iron",
+    "missing": "duneons:block/battlestaff_iron",
+    "particle": "duneons:item/battlestaff"
+  }
+}

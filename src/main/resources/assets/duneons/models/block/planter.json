@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/planter",
+  "textures": {
+    "all": "duneons:block/planters",
+    "particle": "duneons:block/planters",
+    "0": "duneons:block/planters",
+    "missing": "duneons:block/planters"
+  },
+  "render_type": "solid"
+}

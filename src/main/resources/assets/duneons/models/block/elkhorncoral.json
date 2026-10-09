@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/elkhorn_coral",
+  "textures": {
+    "all": "duneons:block/elkhorn_coral",
+    "particle": "duneons:block/elkhorn_coral",
+    "0": "duneons:block/elkhorn_coral"
+  },
+  "render_type": "cutout_mipped"
+}

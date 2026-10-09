@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/tower_red_banner",
+  "textures": {
+    "all": "duneons:block/t_towerinhabitantbanner_gilder",
+    "particle": "duneons:block/t_towerinhabitantbanner_gilder",
+    "0": "duneons:block/t_towerinhabitantbanner_gilder",
+    "missing": "duneons:block/t_towerinhabitantbanner_gilder"
+  },
+  "render_type": "solid"
+}

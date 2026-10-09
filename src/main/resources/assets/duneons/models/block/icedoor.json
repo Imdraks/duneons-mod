@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ice_door_new",
+  "textures": {
+    "all": "duneons:block/ice_door",
+    "particle": "duneons:block/ice_door",
+    "0": "duneons:block/ice_door"
+  },
+  "render_type": "cutout"
+}

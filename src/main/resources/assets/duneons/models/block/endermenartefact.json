@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/endermen_artefact",
+  "textures": {
+    "all": "duneons:block/endermen_artefact",
+    "particle": "duneons:block/endermen_artefact",
+    "0": "duneons:block/endermen_artefact"
+  },
+  "render_type": "solid"
+}

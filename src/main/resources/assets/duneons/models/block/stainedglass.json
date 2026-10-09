@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stained_glass_fix",
+  "textures": {
+    "all": "duneons:block/stained_glass",
+    "particle": "duneons:block/stained_glass",
+    "0": "duneons:block/stained_glass"
+  },
+  "render_type": "translucent"
+}

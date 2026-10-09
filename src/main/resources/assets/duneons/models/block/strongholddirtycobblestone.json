@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stronghold_dirty_cobblestone",
+    "up": "duneons:block/stronghold_dirty_cobblestone",
+    "north": "duneons:block/stronghold_dirty_cobblestone",
+    "east": "duneons:block/stronghold_dirty_cobblestone",
+    "south": "duneons:block/stronghold_dirty_cobblestone",
+    "west": "duneons:block/stronghold_dirty_cobblestone",
+    "particle": "duneons:block/stronghold_dirty_cobblestone"
+  },
+  "render_type": "solid"
+}

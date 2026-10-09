@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/soulscythe_unique",
+  "textures": {
+    "0": "duneons:block/oulcythe_nique",
+    "particle": "duneons:item/soul_scythe"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/fern_creeper_woods",
+    "particle": "duneons:block/fern_creeper_woods"
+  },
+  "render_type": "cutout"
+}

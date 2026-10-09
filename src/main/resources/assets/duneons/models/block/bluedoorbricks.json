@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/blue_door_bricks",
+    "bottom": "duneons:block/blue_door_bricks",
+    "top": "duneons:block/blue_door_bricks",
+    "side": "duneons:block/blue_door_bricks"
+  },
+  "render_type": "solid"
+}

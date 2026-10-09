@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/podium_tower",
+  "textures": {
+    "all": "duneons:block/podium_tower",
+    "particle": "duneons:block/podium_tower",
+    "2": "duneons:block/podium_tower"
+  },
+  "render_type": "solid"
+}

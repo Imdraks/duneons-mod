@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/fern",
+    "particle": "duneons:block/fern"
+  }
+}

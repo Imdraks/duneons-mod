@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/teddybear",
+  "textures": {
+    "all": "duneons:block/teddybear",
+    "particle": "duneons:block/teddybear",
+    "0": "duneons:block/teddybear"
+  },
+  "render_type": "solid"
+}

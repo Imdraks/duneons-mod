@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "particle": "duneons:block/sand_acacia_wood",
+    "texture": "duneons:block/sand_acacia_wood"
+  },
+  "render_type": "solid"
+}

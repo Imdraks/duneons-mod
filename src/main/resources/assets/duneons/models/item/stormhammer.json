@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/storm_hammer",
+  "textures": {
+    "1": "duneons:block/storm_hammer",
+    "particle": "duneons:item/storm_hammer"
+  }
+}

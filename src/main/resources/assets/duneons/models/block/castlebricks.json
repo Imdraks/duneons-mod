@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cobblestone_bricks",
+    "up": "duneons:block/cobblestone_bricks",
+    "north": "duneons:block/cobblestone_bricks",
+    "east": "duneons:block/cobblestone_bricks",
+    "south": "duneons:block/cobblestone_bricks",
+    "west": "duneons:block/cobblestone_bricks",
+    "particle": "duneons:block/cobblestone_bricks"
+  },
+  "render_type": "solid"
+}

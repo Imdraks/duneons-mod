@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/granite_in_prismarine",
+    "up": "duneons:block/granite_in_prismarine",
+    "north": "duneons:block/granite_in_prismarine",
+    "east": "duneons:block/granite_in_prismarine",
+    "south": "duneons:block/granite_in_prismarine",
+    "west": "duneons:block/granite_in_prismarine",
+    "particle": "duneons:block/granite_in_prismarine"
+  },
+  "render_type": "solid"
+}

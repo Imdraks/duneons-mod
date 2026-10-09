@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/frozen_tille_dirt_patch",
+  "textures": {
+    "all": "duneons:block/frozen_tille_dirt_patch",
+    "particle": "duneons:block/frozen_tille_dirt_patch",
+    "0": "duneons:block/frozen_tille_dirt_patch"
+  },
+  "render_type": "solid"
+}

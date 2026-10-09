@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_chorus",
+  "textures": {
+    "all": "duneons:block/chorus_leaves",
+    "particle": "duneons:block/chorus_leaves",
+    "1": "duneons:block/chorus_leaves_outer",
+    "2": "duneons:block/chorus_leaves"
+  },
+  "render_type": "cutout"
+}

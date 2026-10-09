@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/iron_bell",
+  "textures": {
+    "all": "duneons:block/iron_bell",
+    "particle": "duneons:block/stone_slab_side",
+    "0": "duneons:block/iron_bell"
+  },
+  "render_type": "cutout"
+}

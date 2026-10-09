@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/clam_jump_open",
+  "textures": {
+    "all": "duneons:block/t_clam_jump",
+    "particle": "duneons:block/t_clam_jump",
+    "0": "duneons:block/clam_jump"
+  },
+  "render_type": "solid"
+}

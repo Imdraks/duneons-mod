@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/mace_new",
+  "textures": {
+    "1": "duneons:block/mace_new",
+    "particle": "duneons:item/mace"
+  }
+}

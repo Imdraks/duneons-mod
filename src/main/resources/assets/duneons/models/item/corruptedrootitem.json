@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/corrupted_root_mouth",
+  "textures": {
+    "0": "duneons:block/corrupted_root",
+    "missing": "duneons:block/corrupted_root",
+    "particle": "duneons:item/corrupted_root"
+  }
+}

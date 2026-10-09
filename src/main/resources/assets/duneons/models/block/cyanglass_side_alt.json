@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "duneons:block/cyan_glass",
+    "edge": "duneons:block/cyan_glass",
+    "pane": "duneons:block/cyan_glass"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sandy_sunken_debris",
+    "up": "duneons:block/sandy_sunken_debris",
+    "north": "duneons:block/sandy_sunken_debris",
+    "east": "duneons:block/sandy_sunken_debris",
+    "south": "duneons:block/sandy_sunken_debris",
+    "west": "duneons:block/sandy_sunken_debris",
+    "particle": "duneons:block/sandy_sunken_debris"
+  },
+  "render_type": "solid"
+}

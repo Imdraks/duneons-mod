@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_gold_wood",
+    "up": "duneons:block/highland_gold_wood",
+    "north": "duneons:block/highland_gold_wood",
+    "east": "duneons:block/highland_gold_wood",
+    "south": "duneons:block/highland_gold_wood",
+    "west": "duneons:block/highland_gold_wood",
+    "particle": "duneons:block/highland_gold_wood"
+  },
+  "render_type": "solid"
+}

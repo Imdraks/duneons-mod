@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gravestone1",
+  "textures": {
+    "all": "duneons:block/gravestone0",
+    "particle": "duneons:block/gravestone0",
+    "1": "duneons:block/gravestone0"
+  },
+  "render_type": "cutout"
+}

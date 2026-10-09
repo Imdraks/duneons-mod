@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_dust",
+    "up": "duneons:block/end_dust",
+    "north": "duneons:block/end_dust",
+    "east": "duneons:block/end_dust",
+    "south": "duneons:block/end_dust",
+    "west": "duneons:block/end_dust",
+    "particle": "duneons:block/end_dust"
+  },
+  "render_type": "solid"
+}

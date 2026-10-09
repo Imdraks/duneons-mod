@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/smooth_troom_block",
+    "up": "duneons:block/carved_andesite_smooth",
+    "north": "duneons:block/stonebrick_creeper_bambbo",
+    "east": "duneons:block/stonebrick_creeper_bambbo",
+    "south": "duneons:block/stonebrick_creeper_bambbo",
+    "west": "duneons:block/stonebrick_creeper_bambbo",
+    "particle": "duneons:block/smooth_troom_block"
+  },
+  "render_type": "solid"
+}

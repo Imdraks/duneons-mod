@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/burn_tallgrass",
+    "particle": "duneons:block/burn_tallgrass"
+  },
+  "render_type": "cutout"
+}

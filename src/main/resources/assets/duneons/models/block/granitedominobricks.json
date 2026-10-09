@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/granite_domino_bricks",
+    "up": "duneons:block/granite_domino_bricks",
+    "north": "duneons:block/granite_domino_bricks",
+    "east": "duneons:block/granite_domino_bricks",
+    "south": "duneons:block/granite_domino_bricks",
+    "west": "duneons:block/granite_domino_bricks",
+    "particle": "duneons:block/granite_domino_bricks"
+  },
+  "render_type": "solid"
+}

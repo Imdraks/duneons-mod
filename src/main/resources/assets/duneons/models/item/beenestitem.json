@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/beenest",
+  "textures": {
+    "0": "duneons:block/beenest",
+    "missing": "duneons:block/beenest",
+    "particle": "duneons:item/beenest"
+  }
+}

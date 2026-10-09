@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/end_chain",
+  "textures": {
+    "all": "duneons:block/end_chain",
+    "particle": "duneons:block/end_chain"
+  },
+  "render_type": "cutout"
+}

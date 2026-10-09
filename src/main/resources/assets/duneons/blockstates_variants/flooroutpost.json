@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/flooroutpost/block/0"
+      },
+      {
+        "model": "block/flooroutpost/block/1"
+      },
+      {
+        "model": "block/flooroutpost/block/2"
+      },
+      {
+        "model": "block/flooroutpost/block/3"
+      },
+      {
+        "model": "block/flooroutpost/block/4"
+      },
+      {
+        "model": "block/flooroutpost/block/5"
+      }
+    ]
+  }
+}

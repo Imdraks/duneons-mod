@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/moss_dirt_pumpkin",
+    "up": "duneons:block/moss_dirt_pumpkin2",
+    "north": "duneons:block/moss_dirt_pumpkin2",
+    "east": "duneons:block/moss_dirt_pumpkin2",
+    "south": "duneons:block/moss_dirt_pumpkin2",
+    "west": "duneons:block/moss_dirt_pumpkin2",
+    "particle": "duneons:block/moss_dirt_pumpkin"
+  },
+  "render_type": "solid"
+}

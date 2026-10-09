@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sand_carved_prismarine",
+    "up": "duneons:block/sand_carved_prismarine",
+    "north": "duneons:block/sand_carved_prismarine",
+    "east": "duneons:block/sand_carved_prismarine",
+    "south": "duneons:block/sand_carved_prismarine",
+    "west": "duneons:block/sand_carved_prismarine",
+    "particle": "duneons:block/sand_carved_prismarine"
+  },
+  "render_type": "solid"
+}

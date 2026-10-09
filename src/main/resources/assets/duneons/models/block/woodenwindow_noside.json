@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "duneons:block/wooden_window",
+    "pane": "duneons:block/wooden_window"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/great_hammer",
+  "textures": {
+    "1": "duneons:block/t_hammer",
+    "particle": "duneons:item/great_hammer"
+  }
+}

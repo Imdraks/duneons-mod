@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_citadel_purple_bricks_cube",
+    "up": "duneons:block/end_citadel_purple_bricks_cube",
+    "north": "duneons:block/purple_end_rod_block",
+    "east": "duneons:block/purple_end_rod_block",
+    "south": "duneons:block/purple_end_rod_block",
+    "west": "duneons:block/purple_end_rod_block",
+    "particle": "duneons:block/end_citadel_purple_bricks_cube"
+  },
+  "render_type": "solid"
+}

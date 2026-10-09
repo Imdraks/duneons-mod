@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/nether_brazier",
+  "textures": {
+    "particle": "duneons:block/nether_brazier"
+  }
+}

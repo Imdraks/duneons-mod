@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_smooth_prismarine4",
+    "up": "duneons:block/polished_granite_bricks",
+    "north": "duneons:block/polished_granite_bricks_on_prismarine",
+    "east": "duneons:block/polished_granite_bricks_on_prismarine",
+    "south": "duneons:block/polished_granite_bricks_on_prismarine",
+    "west": "duneons:block/polished_granite_bricks_on_prismarine",
+    "particle": "duneons:block/cracked_smooth_prismarine4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/void_bow",
+  "textures": {
+    "0": "duneons:block/void_bow",
+    "particle": "duneons:item/voidbow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:void_bow_pulling": 1
+      },
+      "model": "duneons:item/void_bow_0"
+    }
+  ]
+}

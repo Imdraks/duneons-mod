@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/sanctum_stone_cut_top",
+    "bottom": "duneons:block/sanctum_stone_cut_top",
+    "top": "duneons:block/sanctum_stone_cut_top",
+    "side": "duneons:block/sanctum_stone_cut_side"
+  },
+  "render_type": "solid"
+}

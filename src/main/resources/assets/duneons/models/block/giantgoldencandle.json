@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/golden_candle_1.11",
+  "textures": {
+    "all": "duneons:block/candlebra_floor",
+    "particle": "duneons:block/candlebra_floor",
+    "0": "duneons:block/candlebra_floor",
+    "missing": "duneons:block/candlebra_floor"
+  },
+  "render_type": "cutout"
+}

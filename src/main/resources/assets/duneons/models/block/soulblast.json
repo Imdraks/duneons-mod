@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/ghostfire",
+  "textures": {
+    "all": "duneons:block/ghostfire",
+    "particle": "duneons:block/ghostfire",
+    "0": "duneons:block/ghostfire"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cacti_smooth_sand_stone_down",
+    "up": "duneons:block/cacti_smooth_sand_stone_top",
+    "north": "duneons:block/cacti_chiseled_sandstone",
+    "east": "duneons:block/cacti_chiseled_sandstone",
+    "south": "duneons:block/cacti_chiseled_sandstone",
+    "west": "duneons:block/cacti_chiseled_sandstone",
+    "particle": "duneons:block/cacti_smooth_sand_stone_down"
+  },
+  "render_type": "solid"
+}

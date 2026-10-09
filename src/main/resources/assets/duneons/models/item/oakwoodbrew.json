@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/oak_wood_brew",
+  "textures": {
+    "0": "duneons:block/oak_wood_brew",
+    "missing": "duneons:block/oak_wood_brew",
+    "particle": "duneons:item/gong_weakening_icon"
+  }
+}

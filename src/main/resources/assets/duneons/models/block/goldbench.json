@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/gold_bench",
+  "textures": {
+    "all": "duneons:block/t_gs_propatlas",
+    "particle": "duneons:block/t_gs_propatlas",
+    "0": "duneons:block/t_gs_propatlas",
+    "missing": "duneons:block/t_gs_propatlas"
+  },
+  "render_type": "solid"
+}

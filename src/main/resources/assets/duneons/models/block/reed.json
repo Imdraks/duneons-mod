@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/reed",
+  "textures": {
+    "all": "duneons:block/reed",
+    "particle": "duneons:block/reed",
+    "0": "duneons:block/reed"
+  },
+  "render_type": "cutout"
+}

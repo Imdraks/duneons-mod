@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/leaves_jungle_log",
+    "up": "duneons:block/leaves_jungle_log",
+    "north": "duneons:block/leaves_jungle_log",
+    "east": "duneons:block/leaves_jungle_log",
+    "south": "duneons:block/leaves_jungle_log",
+    "west": "duneons:block/leaves_jungle_log",
+    "particle": "duneons:block/leaves_jungle_log"
+  },
+  "render_type": "solid"
+}

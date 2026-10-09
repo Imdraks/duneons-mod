@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wind_bars",
+  "textures": {
+    "all": "duneons:block/wind_bars",
+    "particle": "duneons:block/stone_andesite_smooth",
+    "0": "duneons:block/wind_bars"
+  },
+  "render_type": "cutout"
+}

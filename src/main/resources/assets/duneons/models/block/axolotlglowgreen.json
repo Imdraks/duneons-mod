@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/axolotl_glow_green",
+  "textures": {
+    "all": "duneons:block/t_2_green",
+    "particle": "duneons:block/t_2_green",
+    "1": "duneons:block/t_2_green",
+    "missing": "duneons:block/t_2_green"
+  },
+  "render_type": "cutout"
+}

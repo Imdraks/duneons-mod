@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/gate_pickle_2",
+  "textures": {
+    "all": "duneons:block/gate_pickle",
+    "particle": "duneons:block/gate_pickle",
+    "0": "duneons:block/gate_pickle",
+    "missing": "duneons:block/gate_pickle"
+  },
+  "render_type": "cutout"
+}

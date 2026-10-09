@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sanctum_stone_cut_top",
+    "up": "duneons:block/sanctum_stone_cut_top",
+    "north": "duneons:block/speral",
+    "east": "duneons:block/speral",
+    "south": "duneons:block/speral",
+    "west": "duneons:block/speral",
+    "particle": "duneons:block/sanctum_stone_cut_top"
+  },
+  "render_type": "solid"
+}

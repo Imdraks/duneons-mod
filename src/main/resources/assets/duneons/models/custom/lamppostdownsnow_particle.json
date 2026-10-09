@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/lamppost_ice",
+  "textures": {
+    "particle": "duneons:block/lamppost_ice_east"
+  }
+}

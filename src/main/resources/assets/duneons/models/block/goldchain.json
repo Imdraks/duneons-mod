@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/gold_chain_1.8",
+  "textures": {
+    "all": "duneons:block/gold_chain",
+    "particle": "duneons:block/gold_chain",
+    "0": "duneons:block/gold_chain"
+  },
+  "render_type": "cutout"
+}

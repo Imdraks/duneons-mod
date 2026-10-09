@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wooden_bellows",
+  "textures": {
+    "all": "duneons:block/wooden_bellows",
+    "particle": "duneons:block/wooden_bellows",
+    "0": "duneons:block/wooden_bellows"
+  },
+  "render_type": "cutout"
+}

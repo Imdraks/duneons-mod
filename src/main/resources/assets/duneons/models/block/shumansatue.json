@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/sarcophagus",
+  "textures": {
+    "all": "duneons:block/sarcophagus",
+    "particle": "duneons:block/sarcophagus",
+    "0": "duneons:block/sarcophagus"
+  },
+  "render_type": "solid"
+}

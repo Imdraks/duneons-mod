@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "bottom": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "top": "duneons:block/soggy_swamp_mossy_polished_andesite",
+    "side": "duneons:block/soggy_swamp_mossy_polished_andesite"
+  },
+  "render_type": "solid"
+}

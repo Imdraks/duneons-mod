@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/statue",
+  "textures": {
+    "particle": "duneons:block/villager_statue"
+  }
+}

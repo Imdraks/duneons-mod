@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:block/lime_glass"
+  },
+  "render_type": "translucent"
+}

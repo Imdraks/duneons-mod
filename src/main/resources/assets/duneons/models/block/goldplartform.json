@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/gold_plartform",
+  "textures": {
+    "all": "duneons:block/t_new_windplat_d",
+    "particle": "duneons:block/t_new_windplat_d",
+    "0": "duneons:block/t_new_windplat_d",
+    "missing": "duneons:block/t_new_windplat_d"
+  },
+  "render_type": "solid"
+}

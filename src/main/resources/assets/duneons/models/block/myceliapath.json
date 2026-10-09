@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/mycelia_path",
+    "up": "duneons:block/mycelia_path",
+    "north": "duneons:block/mycelia_path",
+    "east": "duneons:block/mycelia_path",
+    "south": "duneons:block/mycelia_path",
+    "west": "duneons:block/mycelia_path",
+    "particle": "duneons:block/mycelia_path"
+  },
+  "render_type": "solid"
+}

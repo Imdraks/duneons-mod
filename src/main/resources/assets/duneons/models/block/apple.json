@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/apple",
+  "textures": {
+    "all": "duneons:block/t_apple",
+    "particle": "duneons:block/t_apple",
+    "0": "duneons:block/t_apple",
+    "missing": "duneons:block/t_apple"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/flower_oxeye_daisy",
+    "particle": "duneons:block/flower_oxeye_daisy"
+  },
+  "render_type": "cutout"
+}

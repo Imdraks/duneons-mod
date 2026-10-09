@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/prismarine_cube_giorite",
+    "up": "duneons:block/prismarine_cube_giorite",
+    "north": "duneons:block/prismarine_cube_giorite",
+    "east": "duneons:block/prismarine_cube_giorite",
+    "south": "duneons:block/prismarine_cube_giorite",
+    "west": "duneons:block/prismarine_cube_giorite",
+    "particle": "duneons:block/prismarine_cube_giorite"
+  },
+  "render_type": "solid"
+}

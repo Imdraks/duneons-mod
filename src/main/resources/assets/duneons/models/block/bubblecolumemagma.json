@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/bubble_magma_colume",
+  "textures": {
+    "all": "duneons:block/bubble_colume_base_magma",
+    "particle": "duneons:block/bubble_colume_base_magma",
+    "0": "duneons:block/bubble_colume_base_magma",
+    "missing": "duneons:block/bubble_colume_base_magma"
+  },
+  "render_type": "cutout"
+}

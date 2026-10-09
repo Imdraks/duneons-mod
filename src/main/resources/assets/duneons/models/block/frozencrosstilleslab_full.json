@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/frozen_cross_tille",
+    "bottom": "duneons:block/frozen_cross_tille",
+    "top": "duneons:block/frozen_cross_tille",
+    "side": "duneons:block/frozen_cross_tille"
+  },
+  "render_type": "solid"
+}

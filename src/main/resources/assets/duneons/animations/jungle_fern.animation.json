@@ -1,0 +1,124 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true,
+			"animation_length": 3.875,
+			"bones": {
+				"bone4": {
+					"rotation": {
+						"0.0": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						},
+						"2.25": {
+							"vector": [2.51153, -2.4407, -0.54143],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone8": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [7.5, 0, 0],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone6": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [7.5, 0, 0],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone14": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [7.5, 0, 0],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						},
+						"2.25": {
+							"vector": [2.51153, -2.4407, -0.54143],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone10": {
+					"rotation": {
+						"0.0": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						},
+						"2.25": {
+							"vector": [2.51153, -2.4407, -0.54143],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [7.51565, 2.38422, 0.7522],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone12": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [7.5, 0, 0],
+							"easing": "linear"
+						},
+						"3.875": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

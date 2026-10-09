@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/big_monstera",
+  "textures": {
+    "all": "duneons:block/big_monstera",
+    "particle": "duneons:block/big_monstera",
+    "4": "duneons:block/big_monstera"
+  },
+  "render_type": "cutout"
+}

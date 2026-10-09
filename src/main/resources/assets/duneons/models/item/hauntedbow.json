@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/haunted_bow",
+  "textures": {
+    "0": "duneons:block/haunted_bow",
+    "particle": "duneons:item/bow_spooky1_gear"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:hauntedbow_pulling": 1
+      },
+      "model": "duneons:item/hauntedbow_0"
+    }
+  ]
+}

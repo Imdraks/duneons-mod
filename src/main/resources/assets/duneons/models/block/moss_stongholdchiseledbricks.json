@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/moss_stonghold_chiseled_bricks",
+    "up": "duneons:block/moss_stonghold_chiseled_bricks",
+    "north": "duneons:block/moss_stonghold_chiseled_bricks",
+    "east": "duneons:block/moss_stonghold_chiseled_bricks",
+    "south": "duneons:block/moss_stonghold_chiseled_bricks",
+    "west": "duneons:block/moss_stonghold_chiseled_bricks",
+    "particle": "duneons:block/moss_stonghold_chiseled_bricks"
+  },
+  "render_type": "solid"
+}

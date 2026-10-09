@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/spider_succulent_sprout",
+  "textures": {
+    "all": "duneons:block/spider_succulent_sprout",
+    "particle": "duneons:block/spider_succulent_sprout",
+    "0": "duneons:block/spider_succulent_sprout",
+    "missing": "duneons:block/spider_succulent_sprout"
+  },
+  "render_type": "cutout"
+}

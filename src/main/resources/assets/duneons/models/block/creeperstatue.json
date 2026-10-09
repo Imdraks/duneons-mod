@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/creeper_statue",
+  "textures": {
+    "all": "duneons:block/chess_statue_rook",
+    "particle": "duneons:block/chess_statue_rook",
+    "0": "duneons:block/chess_statue_rook"
+  },
+  "render_type": "solid"
+}

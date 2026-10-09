@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/blue_snowflake_rug",
+  "textures": {
+    "all": "duneons:block/blue_snowflake_rug",
+    "particle": "duneons:block/blue_snowflake_rug",
+    "1": "duneons:block/blue_snowflake_rug"
+  },
+  "render_type": "cutout"
+}

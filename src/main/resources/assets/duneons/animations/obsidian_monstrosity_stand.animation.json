@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"animation_length": 0.25,
+			"bones": {
+				"head": {
+					"position": [0, -1, 0]
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

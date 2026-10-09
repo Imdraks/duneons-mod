@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/battering_ram",
+  "textures": {
+    "layer0": "duneons:item/battering_ram_new"
+  }
+}

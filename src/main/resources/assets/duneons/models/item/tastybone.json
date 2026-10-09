@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/tasty_bone",
+  "textures": {
+    "0": "duneons:block/tasty_bone",
+    "particle": "duneons:item/tasty_bone_icon"
+  }
+}

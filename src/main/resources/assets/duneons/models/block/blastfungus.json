@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/blast_fungus",
+  "textures": {
+    "all": "duneons:block/blast_fungus",
+    "particle": "duneons:block/blast_fungus",
+    "0": "duneons:block/blast_fungus"
+  },
+  "render_type": "cutout"
+}

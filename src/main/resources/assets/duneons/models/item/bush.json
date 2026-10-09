@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/_eafy_ungle_lant_est_item"
+  }
+}

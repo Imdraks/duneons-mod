@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_harpic",
+  "textures": {
+    "all": "duneons:block/sign_harpic",
+    "particle": "duneons:block/sign_harpic",
+    "0": "duneons:block/sign_harpic",
+    "missing": "duneons:block/sign_harpic"
+  },
+  "render_type": "cutout"
+}

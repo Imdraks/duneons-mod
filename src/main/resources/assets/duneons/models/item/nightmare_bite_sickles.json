@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/bite",
+  "textures": {
+    "0": "duneons:block/bite",
+    "missing": "duneons:block/bite",
+    "particle": "duneons:item/nightmares_bite"
+  }
+}

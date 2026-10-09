@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/messagrass/block/0"
+      },
+      {
+        "model": "block/messagrass/block/1"
+      },
+      {
+        "model": "block/messagrass/block/2"
+      },
+      {
+        "model": "block/messagrass/block/3"
+      }
+    ]
+  }
+}

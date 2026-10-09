@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/randombowbox",
+  "textures": {
+    "0": "duneons:block/randombowbox",
+    "particle": "duneons:item/randombowbox"
+  }
+}

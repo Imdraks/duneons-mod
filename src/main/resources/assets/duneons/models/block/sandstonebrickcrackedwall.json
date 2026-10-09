@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "duneons:block/sand_stonebrick_cracked",
+    "particle": "duneons:block/sand_stonebrick_cracked"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,83 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.wraith",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "wraith",
+					"pivot": [0, 1, 1],
+					"cubes": [
+						{"origin": [-0.5, 7, 0.5], "size": [1, 12, 1], "uv": [0, 51]},
+						{"origin": [-3, 16.05, -2.5], "size": [6, 1, 4], "uv": [42, 3]},
+						{"origin": [-3, 14.05, -2.5], "size": [6, 1, 4], "uv": [42, 3]}
+					]
+				},
+				{
+					"name": "handl",
+					"parent": "wraith",
+					"pivot": [6, 16, 0],
+					"cubes": [
+						{"origin": [5.5, 6, -0.5], "size": [1, 12, 1], "uv": [0, 51]}
+					]
+				},
+				{
+					"name": "robel",
+					"parent": "handl",
+					"pivot": [6, 16, 0],
+					"cubes": [
+						{"origin": [4.05, 5.05, -2], "size": [4, 14, 4], "uv": [44, 16]}
+					]
+				},
+				{
+					"name": "handr",
+					"parent": "wraith",
+					"pivot": [-6, 16, 0],
+					"cubes": [
+						{"origin": [-6.5, 5.5, -0.5], "size": [1, 12, 1], "uv": [0, 51]}
+					]
+				},
+				{
+					"name": "rober",
+					"parent": "handr",
+					"pivot": [-6, 16, 0],
+					"cubes": [
+						{"origin": [-8.05, 5.05, -2], "size": [4, 14, 4], "uv": [4, 16], "mirror": true}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "wraith",
+					"pivot": [0, 19, 0],
+					"cubes": [
+						{"origin": [-3.025, 25.55, -2.75], "size": [6.05, 1, 6], "uv": [26, 8]},
+						{"origin": [-3, 19, -3], "size": [6, 7, 6], "uv": [2, 2]}
+					]
+				},
+				{
+					"name": "robehead",
+					"parent": "head",
+					"pivot": [0, 19, 0],
+					"cubes": [
+						{"origin": [-4.025, 12.8, -4], "size": [8.05, 14, 8], "uv": [12, 40]}
+					]
+				},
+				{
+					"name": "bodyskeleton",
+					"parent": "wraith",
+					"pivot": [0, 20.05, -3],
+					"cubes": [
+						{"origin": [-4, 0.05, -2], "size": [8, 20, 4], "uv": [20, 16]}
+					]
+				}
+			]
+		}
+	]
+}

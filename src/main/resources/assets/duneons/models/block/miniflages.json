@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/camp_flags",
+  "textures": {
+    "all": "duneons:block/t_flags_thickrope",
+    "particle": "duneons:block/t_flags_thickrope",
+    "0": "duneons:block/t_flags_thickrope"
+  },
+  "render_type": "cutout"
+}

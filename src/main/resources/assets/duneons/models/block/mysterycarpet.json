@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/mystery_carpet_1.11",
+  "textures": {
+    "all": "duneons:block/mystery_carpet",
+    "particle": "duneons:block/mystery_carpet",
+    "1": "duneons:block/mystery_carpet"
+  },
+  "render_type": "solid"
+}

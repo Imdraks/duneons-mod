@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/wardrobe",
+  "textures": {
+    "particle": "duneons:block/wardrobe"
+  }
+}

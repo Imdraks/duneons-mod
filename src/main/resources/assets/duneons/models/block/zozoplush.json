@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/zozozrob_statuette",
+  "textures": {
+    "all": "duneons:block/zozozrob_statuette",
+    "particle": "duneons:block/zozozrob_statuette",
+    "1": "duneons:block/zozozrob_statuette",
+    "2": "duneons:block/statuette_frame"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/netherite_key_bricks",
+    "up": "duneons:block/netherite_key_bricks",
+    "north": "duneons:block/netherite_key_bricks",
+    "east": "duneons:block/netherite_key_bricks",
+    "south": "duneons:block/netherite_key_bricks",
+    "west": "duneons:block/netherite_key_bricks",
+    "particle": "duneons:block/netherite_key_bricks"
+  },
+  "render_type": "solid"
+}

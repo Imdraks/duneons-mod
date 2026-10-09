@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/minecart",
+  "textures": {
+    "all": "duneons:block/minecart_fixed",
+    "particle": "duneons:block/minecart_fixed",
+    "1": "duneons:block/minecart_fixed"
+  },
+  "render_type": "solid"
+}

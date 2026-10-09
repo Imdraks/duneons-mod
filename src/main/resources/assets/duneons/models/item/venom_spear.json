@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/venom_glaive",
+  "textures": {
+    "0": "duneons:block/enom_laive",
+    "particle": "duneons:item/triple_axe_tool"
+  }
+}

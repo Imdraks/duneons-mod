@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/giant_netherite_chains_icon"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wood_cross",
+  "textures": {
+    "all": "duneons:block/wood_cross",
+    "particle": "duneons:block/wood_cross",
+    "0": "duneons:block/wood_cross"
+  },
+  "render_type": "cutout"
+}

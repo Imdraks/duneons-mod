@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/slab_jungle_wood_overgrown",
+    "bottom": "duneons:block/slab_jungle_wood_overgrown",
+    "top": "duneons:block/slab_jungle_wood_overgrown",
+    "side": "duneons:block/slab_jungle_wood_overgrown"
+  },
+  "render_type": "solid"
+}

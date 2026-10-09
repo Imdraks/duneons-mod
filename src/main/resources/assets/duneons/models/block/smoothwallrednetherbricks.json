@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cut_nether_bricks",
+    "up": "duneons:block/element_020_ca",
+    "north": "duneons:block/smooth_wall_red_nether_bricks",
+    "east": "duneons:block/smooth_wall_red_nether_bricks",
+    "south": "duneons:block/smooth_wall_red_nether_bricks",
+    "west": "duneons:block/smooth_wall_red_nether_bricks",
+    "particle": "duneons:block/cut_nether_bricks"
+  },
+  "render_type": "solid"
+}

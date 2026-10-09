@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/whispering_spear",
+  "textures": {
+    "0": "duneons:block/whispering_spear",
+    "particle": "duneons:item/whispering_spear"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/slash_statue",
+  "textures": {
+    "particle": "duneons:block/slash_statue"
+  }
+}

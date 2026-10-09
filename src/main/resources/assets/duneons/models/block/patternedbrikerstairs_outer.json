@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/chiseled_sandy_andesite",
+    "bottom": "duneons:block/chiseled_sandy_andesite",
+    "top": "duneons:block/chiseled_sandy_andesite",
+    "side": "duneons:block/chiseled_sandy_andesite"
+  },
+  "render_type": "solid"
+}

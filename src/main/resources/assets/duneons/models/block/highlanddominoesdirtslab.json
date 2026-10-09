@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/highland_dominoes_dirt",
+    "bottom": "duneons:block/highland_dominoes_dirt",
+    "top": "duneons:block/highland_dominoes_dirt",
+    "side": "duneons:block/highland_dominoes_dirt"
+  },
+  "render_type": "solid"
+}

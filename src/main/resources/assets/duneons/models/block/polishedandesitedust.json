@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/polished_andesite_dust",
+    "up": "duneons:block/polished_andesite_dust",
+    "north": "duneons:block/polished_andesite_dust",
+    "east": "duneons:block/polished_andesite_dust",
+    "south": "duneons:block/polished_andesite_dust",
+    "west": "duneons:block/polished_andesite_dust",
+    "particle": "duneons:block/polished_andesite_dust"
+  },
+  "render_type": "solid"
+}

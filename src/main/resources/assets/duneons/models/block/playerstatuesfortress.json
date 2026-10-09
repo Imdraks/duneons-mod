@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/player_statue",
+  "textures": {
+    "all": "duneons:block/player_statues_fortress",
+    "particle": "duneons:block/player_statues_fortress",
+    "0": "duneons:block/player_statues_fortress"
+  },
+  "render_type": "cutout"
+}

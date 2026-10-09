@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soggy_chiseled_stone_bricks",
+    "up": "duneons:block/soggy_chiseled_stone_bricks",
+    "north": "duneons:block/soggy_chiseled_stone_bricks",
+    "east": "duneons:block/soggy_chiseled_stone_bricks",
+    "south": "duneons:block/soggy_chiseled_stone_bricks",
+    "west": "duneons:block/soggy_chiseled_stone_bricks",
+    "particle": "duneons:block/soggy_chiseled_stone_bricks"
+  },
+  "render_type": "solid"
+}

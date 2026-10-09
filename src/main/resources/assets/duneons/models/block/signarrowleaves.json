@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/sign_leaves_arrow",
+  "textures": {
+    "all": "duneons:block/t_sign_arrow",
+    "particle": "duneons:block/t_sign_arrow",
+    "0": "duneons:block/t_sign_arrow",
+    "missing": "duneons:block/t_sign_arrow"
+  },
+  "render_type": "cutout"
+}

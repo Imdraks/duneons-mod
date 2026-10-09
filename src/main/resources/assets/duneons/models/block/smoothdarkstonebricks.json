@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_andesite",
+    "up": "duneons:block/dark_andesite",
+    "north": "duneons:block/dark_andesite",
+    "east": "duneons:block/dark_andesite",
+    "south": "duneons:block/dark_andesite",
+    "west": "duneons:block/dark_andesite",
+    "particle": "duneons:block/dark_andesite"
+  },
+  "render_type": "solid"
+}

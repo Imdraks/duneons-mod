@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "duneons:item/tikitorch_icon"
+  },
+  "render_type": "translucent"
+}

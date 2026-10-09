@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/tower_stone_banner",
+  "textures": {
+    "all": "duneons:block/t_towerinhabitantbanner_gilder",
+    "particle": "duneons:block/t_towerinhabitantbanner_gilder",
+    "0": "duneons:block/t_towerinhabitantbanner_blacksmith",
+    "missing": "duneons:block/t_towerinhabitantbanner_blacksmith"
+  },
+  "render_type": "solid"
+}

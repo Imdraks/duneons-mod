@@ -1,0 +1,61 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.blastling_ammo",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "projectile",
+					"pivot": [0, 4, 3],
+					"rotation": [0, -90, -90],
+					"cubes": [
+						{"origin": [-7, 0, -7], "size": [10, 9, 9], "uv": [71, 48]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "projectile",
+					"pivot": [-6, 4, 0],
+					"rotation": [0, -10, 0],
+					"cubes": [
+						{"origin": [-6, 4, -6], "size": [0, 14, 11], "pivot": [-6, 4, 0], "rotation": [-90, 0, 0], "uv": [49, 1]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "projectile",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 12.5, 0],
+					"cubes": [
+						{"origin": [2, 0, -10], "size": [0, 14, 11], "pivot": [0, 0, 0], "rotation": [-90, 0, 0], "uv": [82, 10]}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "projectile",
+					"pivot": [0, 9, 0],
+					"rotation": [12.5, 0, 0],
+					"cubes": [
+						{"origin": [9, 1, -7], "size": [0, 14, 11], "pivot": [0, 0, 0], "rotation": [-90, 0, -87.5], "uv": [82, 10]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "projectile",
+					"pivot": [0, 0, 0],
+					"rotation": [-10, 0, 0],
+					"cubes": [
+						{"origin": [1, 1, -7], "size": [0, 14, 11], "pivot": [0, 0, 0], "rotation": [-90, 0, -87.5], "uv": [82, 10]}
+					]
+				}
+			]
+		}
+	]
+}

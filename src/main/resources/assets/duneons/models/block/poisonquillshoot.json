@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/poison_quill_shoot",
+  "textures": {
+    "all": "duneons:block/poison_quill_shoot",
+    "particle": "duneons:block/poison_quill_shoot",
+    "0": "duneons:block/poison_quill_shoot"
+  },
+  "render_type": "cutout"
+}

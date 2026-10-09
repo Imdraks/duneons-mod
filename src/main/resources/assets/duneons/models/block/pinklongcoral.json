@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/coral_long_standing",
+  "textures": {
+    "all": "duneons:block/red_sorals_standing",
+    "particle": "duneons:block/red_sorals_standing",
+    "0": "duneons:block/red_sorals_standing",
+    "missing": "duneons:block/red_sorals_standing"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/brown_book",
+  "textures": {
+    "all": "duneons:block/t_book",
+    "particle": "duneons:block/t_book",
+    "0": "duneons:block/t_book"
+  },
+  "render_type": "cutout"
+}

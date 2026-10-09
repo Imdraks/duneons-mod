@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/stronghold_dirty_cobblestone",
+    "bottom": "duneons:block/stronghold_dirty_cobblestone",
+    "top": "duneons:block/stronghold_dirty_cobblestone",
+    "side": "duneons:block/stronghold_dirty_cobblestone"
+  },
+  "render_type": "solid"
+}

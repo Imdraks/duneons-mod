@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/anvil_iron",
+  "textures": {
+    "all": "duneons:block/anvil_iron",
+    "particle": "duneons:block/anvil_iron",
+    "0": "duneons:block/anvil_iron"
+  },
+  "render_type": "solid"
+}

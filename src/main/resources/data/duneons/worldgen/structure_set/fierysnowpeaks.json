@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:fierysnowpeaks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 3,
+    "separation": 1,
+    "salt": 232473830
+  }
+}

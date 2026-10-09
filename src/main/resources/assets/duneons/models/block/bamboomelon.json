@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bamboo_melon_site",
+    "up": "duneons:block/bamboo_melon_top",
+    "north": "duneons:block/bamboo_melon_site",
+    "east": "duneons:block/bamboo_melon_site",
+    "south": "duneons:block/bamboo_melon_site",
+    "west": "duneons:block/bamboo_melon_site",
+    "particle": "duneons:block/bamboo_melon_site"
+  },
+  "render_type": "solid"
+}

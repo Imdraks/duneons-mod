@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/sea_dark_wood",
+    "bottom": "duneons:block/sea_dark_wood",
+    "top": "duneons:block/sea_dark_wood",
+    "side": "duneons:block/sea_dark_wood"
+  },
+  "render_type": "solid"
+}

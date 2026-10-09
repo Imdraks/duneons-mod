@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nameless_head",
+  "textures": {
+    "all": "duneons:block/necromancers_head",
+    "particle": "duneons:block/necromancers_head",
+    "0": "duneons:block/necromancers_head"
+  },
+  "render_type": "cutout"
+}

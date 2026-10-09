@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "up": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "north": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "east": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "south": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "west": "duneons:block/dungeons_creeperwood_dirty_floortiles",
+    "particle": "duneons:block/dungeons_creeperwood_dirty_floortiles"
+  },
+  "render_type": "solid"
+}

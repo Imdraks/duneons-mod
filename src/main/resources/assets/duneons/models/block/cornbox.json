@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/food_corn",
+  "textures": {
+    "all": "duneons:block/corn_box_top",
+    "particle": "duneons:block/corn_box_top",
+    "0": "duneons:block/corn_box_top",
+    "1": "duneons:block/box_side"
+  },
+  "render_type": "solid"
+}

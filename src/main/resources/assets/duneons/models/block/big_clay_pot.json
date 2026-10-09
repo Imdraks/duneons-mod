@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/big_pot",
+  "textures": {
+    "all": "duneons:block/big_beer_barrel",
+    "particle": "duneons:block/big_beer_barrel",
+    "0": "duneons:block/big_beer_barrel"
+  },
+  "render_type": "solid"
+}

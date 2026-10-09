@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/stripped_winter_oak_log_top",
+    "up": "duneons:block/stripped_winter_oak_log_top",
+    "north": "duneons:block/stripped_winter_oak_log_side",
+    "east": "duneons:block/stripped_winter_oak_log_side",
+    "south": "duneons:block/stripped_winter_oak_log_side",
+    "west": "duneons:block/stripped_winter_oak_log_side",
+    "particle": "duneons:block/stripped_winter_oak_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/web_bow",
+  "textures": {
+    "0": "duneons:block/web_bow",
+    "particle": "duneons:item/slow_bow_spooky"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:webbow_pulling": 1
+      },
+      "model": "duneons:item/webbow_0"
+    }
+  ]
+}

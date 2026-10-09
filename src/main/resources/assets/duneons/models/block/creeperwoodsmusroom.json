@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/glowingmushrooms_1",
+  "textures": {
+    "all": "duneons:block/mushroom_orange",
+    "particle": "duneons:block/mushroom_orange",
+    "0": "duneons:block/glowingmushrooms"
+  },
+  "render_type": "cutout"
+}

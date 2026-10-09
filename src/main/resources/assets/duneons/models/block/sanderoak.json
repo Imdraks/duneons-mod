@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sander_oak",
+    "up": "duneons:block/sander_oak",
+    "north": "duneons:block/sander_oak",
+    "east": "duneons:block/sander_oak",
+    "south": "duneons:block/sander_oak",
+    "west": "duneons:block/sander_oak",
+    "particle": "duneons:block/sander_oak"
+  },
+  "render_type": "solid"
+}

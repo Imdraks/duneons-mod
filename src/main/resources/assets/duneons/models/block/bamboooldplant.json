@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bamboo_leaves",
+  "textures": {
+    "all": "duneons:block/bamboo",
+    "particle": "duneons:block/bamboo",
+    "texture": "duneons:block/bamboo"
+  },
+  "render_type": "cutout"
+}

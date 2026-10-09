@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/skeleton_glow_yellow2",
+  "textures": {
+    "all": "duneons:block/t_3_yellow",
+    "particle": "duneons:block/t_3_yellow",
+    "1": "duneons:block/t_3_yellow",
+    "missing": "duneons:block/t_3_yellow"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/mossy_mixed_jungle_bricks2",
+    "bottom": "duneons:block/mossy_mixed_jungle_bricks2",
+    "top": "duneons:block/moss_troom",
+    "side": "duneons:block/mossy_mixed_jungle_bricks2"
+  },
+  "render_type": "solid"
+}

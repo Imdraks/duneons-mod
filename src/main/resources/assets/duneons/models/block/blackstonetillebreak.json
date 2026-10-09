@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/blackstone_tille_break",
+    "up": "duneons:block/blackstone_tille_break",
+    "north": "duneons:block/blackstone_tille_break",
+    "east": "duneons:block/blackstone_tille_break",
+    "south": "duneons:block/blackstone_tille_break",
+    "west": "duneons:block/blackstone_tille_break",
+    "particle": "duneons:block/blackstone_tille_break"
+  },
+  "render_type": "solid"
+}

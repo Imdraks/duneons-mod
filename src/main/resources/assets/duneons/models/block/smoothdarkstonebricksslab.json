@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "duneons:block/dark_andesite",
+    "bottom": "duneons:block/dark_andesite",
+    "top": "duneons:block/dark_andesite",
+    "side": "duneons:block/dark_andesite"
+  },
+  "render_type": "solid"
+}

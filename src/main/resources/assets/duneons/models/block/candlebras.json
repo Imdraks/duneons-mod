@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/candlebras_1",
+  "textures": {
+    "all": "duneons:block/candlebras",
+    "particle": "duneons:block/candlebras",
+    "0": "duneons:block/candlebras",
+    "missing": "duneons:block/candlebras"
+  },
+  "render_type": "cutout"
+}

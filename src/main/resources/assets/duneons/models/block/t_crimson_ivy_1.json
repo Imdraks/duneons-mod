@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/crimsonivy_stem_1",
+  "textures": {
+    "all": "duneons:block/t_crimsonivy",
+    "particle": "duneons:block/t_crimsonivy",
+    "0": "duneons:block/t_crimsonivy",
+    "missing": "duneons:block/t_crimsonivy"
+  },
+  "render_type": "cutout"
+}

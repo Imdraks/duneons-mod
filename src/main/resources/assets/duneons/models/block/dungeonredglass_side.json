@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "duneons:block/dungeon_red_glass",
+    "edge": "duneons:block/dungeon_red_glass",
+    "pane": "duneons:block/dungeon_red_glass"
+  },
+  "render_type": "translucent"
+}

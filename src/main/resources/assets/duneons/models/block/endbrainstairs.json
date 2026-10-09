@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/end_brain_stone",
+    "bottom": "duneons:block/end_brain_stone",
+    "top": "duneons:block/end_brain_stone",
+    "side": "duneons:block/end_brain_stone"
+  },
+  "render_type": "solid"
+}

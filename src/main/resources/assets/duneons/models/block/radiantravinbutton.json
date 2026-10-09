@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/radiant_ravine_button",
+  "textures": {
+    "all": "duneons:block/radiant_ravine_button",
+    "particle": "duneons:block/radiant_ravin_button",
+    "0": "duneons:block/radiant_ravine_button"
+  },
+  "render_type": "solid"
+}

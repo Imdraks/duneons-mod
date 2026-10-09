@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nether_lader",
+  "textures": {
+    "all": "duneons:block/nether_lader",
+    "particle": "duneons:block/nether_lader",
+    "0": "duneons:block/nether_lader"
+  },
+  "render_type": "cutout"
+}

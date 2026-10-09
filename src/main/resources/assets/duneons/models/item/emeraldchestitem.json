@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/chest_emerald",
+  "textures": {
+    "0": "duneons:block/t_lobbychest",
+    "particle": "duneons:block/t_lobbychest"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/dark_stone_bricks_cracked",
+    "bottom": "duneons:block/dark_stone_bricks_cracked",
+    "top": "duneons:block/dark_stone_bricks_cracked",
+    "side": "duneons:block/dark_stone_bricks_cracked"
+  },
+  "render_type": "solid"
+}

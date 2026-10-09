@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/highland_patch_dirt",
+    "up": "duneons:block/highland_patch_dirt",
+    "north": "duneons:block/highland_patch_dirt",
+    "east": "duneons:block/highland_patch_dirt",
+    "south": "duneons:block/highland_patch_dirt",
+    "west": "duneons:block/highland_patch_dirt",
+    "particle": "duneons:block/highland_patch_dirt"
+  },
+  "render_type": "solid"
+}

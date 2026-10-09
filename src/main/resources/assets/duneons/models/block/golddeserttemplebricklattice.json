@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/gold_desert_temple_brick_lattice",
+    "up": "duneons:block/gold_desert_temple_brick_lattice",
+    "north": "duneons:block/gold_desert_temple_brick_lattice",
+    "east": "duneons:block/gold_desert_temple_brick_lattice",
+    "south": "duneons:block/gold_desert_temple_brick_lattice",
+    "west": "duneons:block/gold_desert_temple_brick_lattice",
+    "particle": "duneons:block/gold_desert_temple_brick_lattice"
+  },
+  "render_type": "solid"
+}

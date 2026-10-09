@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "duneons:block/emblemed_andesite",
+    "particle": "duneons:block/emblemed_andesite"
+  },
+  "render_type": "solid"
+}

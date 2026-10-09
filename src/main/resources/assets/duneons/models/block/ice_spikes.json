@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/falling_ice",
+  "textures": {
+    "all": "duneons:block/icespikes",
+    "particle": "duneons:block/creeper_snow",
+    "0": "duneons:block/falling_ice_block"
+  },
+  "render_type": "solid"
+}

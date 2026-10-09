@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/labtank",
+  "textures": {
+    "all": "duneons:block/labtank",
+    "particle": "duneons:block/labtank",
+    "0": "duneons:block/labtank"
+  },
+  "render_type": "solid"
+}

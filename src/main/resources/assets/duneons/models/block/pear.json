@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/pear",
+  "textures": {
+    "all": "duneons:block/pear",
+    "particle": "duneons:block/pear",
+    "0": "duneons:block/pear",
+    "missing": "duneons:block/pear"
+  },
+  "render_type": "solid"
+}

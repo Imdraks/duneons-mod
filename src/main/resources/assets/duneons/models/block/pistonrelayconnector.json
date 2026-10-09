@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/piston_relay_connector",
+  "textures": {
+    "all": "duneons:block/relay_piston_left",
+    "particle": "duneons:block/relay_piston_left",
+    "0": "duneons:block/relay_piston_left",
+    "1": "duneons:block/piston_relay_top",
+    "2": "duneons:block/lava_indicator_top"
+  },
+  "render_type": "solid"
+}

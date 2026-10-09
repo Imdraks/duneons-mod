@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/chain",
+  "textures": {
+    "all": "duneons:block/chain_dungeon",
+    "particle": "duneons:block/chain_dungeon",
+    "0": "duneons:block/chain",
+    "missing": "duneons:block/chain"
+  },
+  "render_type": "cutout"
+}

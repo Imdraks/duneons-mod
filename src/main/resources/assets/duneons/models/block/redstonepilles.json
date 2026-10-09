@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/pille_of_redstone",
+  "textures": {
+    "all": "duneons:block/redstone_cubes",
+    "particle": "duneons:block/redstone_cubes",
+    "0": "duneons:block/redstone_cubes"
+  },
+  "render_type": "solid"
+}

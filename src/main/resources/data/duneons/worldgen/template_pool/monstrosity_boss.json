@@ -1,0 +1,32 @@
+{
+  "name": "duneons:monstrosity_boss",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "duneons:monstrosity_center",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                {
+                  "Name": "minecraft:structure_block"
+                },
+                {
+                  "Name": "minecraft:grass_block"
+                },
+                {
+                  "Name": "minecraft:dirt"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

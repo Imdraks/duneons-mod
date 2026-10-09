@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bamboo_dirt7",
+    "up": "duneons:block/bamboo_dirt7",
+    "north": "duneons:block/bamboo_dirt7",
+    "east": "duneons:block/bamboo_dirt7",
+    "south": "duneons:block/bamboo_dirt7",
+    "west": "duneons:block/bamboo_dirt7",
+    "particle": "duneons:block/bamboo_dirt7"
+  },
+  "render_type": "solid"
+}

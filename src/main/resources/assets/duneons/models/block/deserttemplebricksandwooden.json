@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/desert_temple_brick_sand_wooden",
+    "up": "duneons:block/desert_temple_brick_sand_wooden",
+    "north": "duneons:block/desert_temple_brick_sand_wooden",
+    "east": "duneons:block/desert_temple_brick_sand_wooden",
+    "south": "duneons:block/desert_temple_brick_sand_wooden",
+    "west": "duneons:block/desert_temple_brick_sand_wooden",
+    "particle": "duneons:block/desert_temple_brick_sand_wooden"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/totem_of_regeneration",
+  "textures": {
+    "0": "duneons:block/totem_of_regeneration",
+    "particle": "duneons:item/totem_of_regeneration"
+  }
+}

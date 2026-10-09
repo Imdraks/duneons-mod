@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/brown_coral",
+  "textures": {
+    "all": "duneons:block/flower_tulip_white",
+    "particle": "duneons:block/flower_tulip_white",
+    "0": "duneons:block/flower_tulip_white",
+    "missing": "duneons:block/flower_tulip_white"
+  },
+  "render_type": "cutout"
+}

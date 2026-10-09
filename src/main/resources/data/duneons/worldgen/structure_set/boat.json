@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "duneons:boat",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 18,
+    "separation": 11,
+    "salt": 2128173179
+  }
+}

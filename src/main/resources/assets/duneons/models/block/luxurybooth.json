@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/luxury_booth",
+  "textures": {
+    "all": "duneons:block/luxury_booth",
+    "particle": "duneons:block/luxury_booth",
+    "0": "duneons:block/luxury_booth"
+  },
+  "render_type": "cutout"
+}

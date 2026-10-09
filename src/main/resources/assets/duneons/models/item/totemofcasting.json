@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/soultotem_of_casting",
+  "textures": {
+    "0": "duneons:block/soultotem",
+    "missing": "duneons:block/soultotem",
+    "particle": "duneons:item/soultotem_of_casting"
+  }
+}

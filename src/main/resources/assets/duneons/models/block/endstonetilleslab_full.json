@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/end_stone_tille",
+    "bottom": "duneons:block/end_stone_tille",
+    "top": "duneons:block/end_stone_tille",
+    "side": "duneons:block/end_stone_tille"
+  },
+  "render_type": "solid"
+}

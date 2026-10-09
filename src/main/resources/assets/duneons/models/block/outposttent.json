@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/tent_out",
+  "textures": {
+    "all": "duneons:block/t_wp_tentg",
+    "particle": "duneons:block/outpost_wood",
+    "0": "duneons:block/t_wp_tentg"
+  },
+  "render_type": "solid"
+}

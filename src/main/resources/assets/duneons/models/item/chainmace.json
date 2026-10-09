@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/chainmace",
+  "textures": {
+    "layer0": "duneons:item/mace_unique2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/prismarine_table",
+  "textures": {
+    "all": "duneons:block/t_am_table",
+    "particle": "duneons:block/t_am_table",
+    "1": "duneons:block/t_am_table",
+    "missing": "duneons:block/t_am_table"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/coral_long_standing_death",
+  "textures": {
+    "all": "duneons:block/dead_red_sorals_standing",
+    "particle": "duneons:block/dead_red_sorals_standing",
+    "0": "duneons:block/dead_red_sorals_standing",
+    "missing": "duneons:block/dead_red_sorals_standing"
+  },
+  "render_type": "cutout"
+}

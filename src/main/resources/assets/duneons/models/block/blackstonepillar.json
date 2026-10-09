@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/blackstone_pillar_bricks",
+    "up": "duneons:block/blackstone_pillar_bricks",
+    "north": "duneons:block/blackstone_pillar_side",
+    "east": "duneons:block/blackstone_pillar_side",
+    "south": "duneons:block/blackstone_pillar_side",
+    "west": "duneons:block/blackstone_pillar_side",
+    "particle": "duneons:block/blackstone_pillar_bricks"
+  },
+  "render_type": "solid"
+}

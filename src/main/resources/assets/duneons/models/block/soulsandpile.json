@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/soul_sand_pile",
+    "up": "duneons:block/soul_sand_pile",
+    "north": "duneons:block/soul_sand_pile",
+    "east": "duneons:block/soul_sand_pile",
+    "south": "duneons:block/soul_sand_pile",
+    "west": "duneons:block/soul_sand_pile",
+    "particle": "duneons:block/soul_sand_pile"
+  },
+  "render_type": "solid"
+}

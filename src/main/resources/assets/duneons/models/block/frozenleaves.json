@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/leaves_frozen",
+  "textures": {
+    "all": "duneons:block/frozen_leaves",
+    "particle": "duneons:block/frozen_leaves",
+    "1": "duneons:block/frozen_leaves_outer",
+    "2": "duneons:block/frozen_leaves"
+  },
+  "render_type": "cutout"
+}

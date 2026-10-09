@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/gauntlet_gold_new",
+  "textures": {
+    "0": "duneons:block/gauntlet_gold",
+    "particle": "duneons:item/soul_fists"
+  }
+}

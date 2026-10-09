@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/gong_of_weakening",
+  "textures": {
+    "0": "duneons:block/gong_of_weakening",
+    "particle": "duneons:item/gong_weakening_icon"
+  }
+}

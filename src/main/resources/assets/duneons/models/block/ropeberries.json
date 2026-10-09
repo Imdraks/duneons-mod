@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/rope_berries",
+  "textures": {
+    "all": "duneons:block/lobbyplants",
+    "particle": "duneons:block/lobbyplants",
+    "0": "duneons:block/lobbyplants",
+    "missing": "duneons:block/lobbyplants"
+  },
+  "render_type": "cutout"
+}

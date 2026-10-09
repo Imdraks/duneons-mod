@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/frozen_rune_top",
+    "up": "duneons:block/frozen_rune_top",
+    "north": "duneons:block/frozen_rune_side",
+    "east": "duneons:block/frozen_rune_side",
+    "south": "duneons:block/frozen_rune_side",
+    "west": "duneons:block/frozen_rune_side",
+    "particle": "duneons:block/frozen_rune_top"
+  },
+  "render_type": "solid"
+}

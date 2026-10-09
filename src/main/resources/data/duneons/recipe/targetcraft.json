@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" a "," b ","b b"],"key":{"a":"minecraft:white_wool","b":"minecraft:stick"},"result":{"id":"duneons:arrowtarget","count":1}}

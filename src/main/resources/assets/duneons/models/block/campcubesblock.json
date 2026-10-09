@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/camp_cubes__block",
+    "up": "duneons:block/camp_cubes__block",
+    "north": "duneons:block/camp_cubes__block",
+    "east": "duneons:block/camp_cubes__block",
+    "south": "duneons:block/camp_cubes__block",
+    "west": "duneons:block/camp_cubes__block",
+    "particle": "duneons:block/camp_cubes__block"
+  },
+  "render_type": "solid"
+}

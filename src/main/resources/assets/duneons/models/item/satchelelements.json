@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/satchel_elements",
+  "textures": {
+    "0": "duneons:block/satcheloftheelements",
+    "particle": "duneons:item/satcheloftheelements"
+  }
+}

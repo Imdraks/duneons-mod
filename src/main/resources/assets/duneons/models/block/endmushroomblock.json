@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/end_mushroom",
+    "up": "duneons:block/end_mushroom",
+    "north": "duneons:block/end_mushroom",
+    "east": "duneons:block/end_mushroom",
+    "south": "duneons:block/end_mushroom",
+    "west": "duneons:block/end_mushroom",
+    "particle": "duneons:block/end_mushroom"
+  },
+  "render_type": "solid"
+}

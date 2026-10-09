@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/marketbooth_red",
+  "textures": {
+    "all": "duneons:block/marketbooth_red",
+    "particle": "duneons:block/marketbooth_red",
+    "0": "duneons:block/marketbooth_red",
+    "missing": "duneons:block/marketbooth_red"
+  },
+  "render_type": "cutout"
+}

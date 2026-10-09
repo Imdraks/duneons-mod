@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/end_dust",
+    "bottom": "duneons:block/end_dust",
+    "top": "duneons:block/end_dust",
+    "side": "duneons:block/end_dust"
+  },
+  "render_type": "solid"
+}

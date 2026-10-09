@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/prismarine_bricks_buried__kelp",
+    "up": "duneons:block/prismarine_bricks_buried__kelp",
+    "north": "duneons:block/prismarine_bricks_buried__kelp",
+    "east": "duneons:block/prismarine_bricks_buried__kelp",
+    "south": "duneons:block/prismarine_bricks_buried__kelp",
+    "west": "duneons:block/prismarine_bricks_buried__kelp",
+    "particle": "duneons:block/prismarine_bricks_buried__kelp"
+  },
+  "render_type": "solid"
+}

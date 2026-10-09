@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "duneons:block/outpost_wood",
+    "particle": "duneons:block/outpost_wood"
+  },
+  "render_type": "solid"
+}

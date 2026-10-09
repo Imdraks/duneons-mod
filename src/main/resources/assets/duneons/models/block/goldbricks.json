@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/gold_bricks",
+    "up": "duneons:block/gold_bricks",
+    "north": "duneons:block/gold_bricks",
+    "east": "duneons:block/gold_bricks",
+    "south": "duneons:block/gold_bricks",
+    "west": "duneons:block/gold_bricks",
+    "particle": "duneons:block/gold_bricks"
+  },
+  "render_type": "solid"
+}

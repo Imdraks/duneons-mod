@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/blaze_glow_blue",
+  "textures": {
+    "all": "duneons:block/t_3_blue",
+    "particle": "duneons:block/t_3_blue",
+    "1": "duneons:block/t_3_blue",
+    "missing": "duneons:block/t_3_blue"
+  },
+  "render_type": "cutout"
+}

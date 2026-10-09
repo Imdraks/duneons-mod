@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/highland_plan_table",
+  "textures": {
+    "particle": "duneons:block/sander_oak"
+  }
+}

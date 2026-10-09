@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/veins_rug",
+  "textures": {
+    "all": "duneons:block/veins_rug",
+    "particle": "duneons:block/veins_rug",
+    "0": "duneons:block/veins_rug"
+  },
+  "render_type": "cutout"
+}

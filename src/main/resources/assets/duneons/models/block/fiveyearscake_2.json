@@ -1,0 +1,14 @@
+{
+  "parent": "duneons:custom/5year_cake2",
+  "textures": {
+    "all": "duneons:block/mde_cake_inner",
+    "particle": "duneons:block/mde_cake_inner",
+    "0": "duneons:block/mde_cake_top",
+    "1": "duneons:block/mde_cake_side",
+    "2": "duneons:block/mde_cake_inner",
+    "3": "duneons:block/mde_cake_bottom",
+    "4": "duneons:block/5_year",
+    "missing": "duneons:block/mde_cake_inner"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "duneons:block/highblock_cracked_bricks",
+    "bottom": "duneons:block/highblock_cracked_bricks",
+    "top": "duneons:block/highblock_cracked_bricks",
+    "side": "duneons:block/highblock_cracked_bricks"
+  },
+  "render_type": "solid"
+}

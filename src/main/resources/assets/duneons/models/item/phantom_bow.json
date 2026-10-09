@@ -1,0 +1,15 @@
+{
+  "parent": "duneons:custom/phantom_bow",
+  "textures": {
+    "0": "duneons:block/phantom_bow",
+    "particle": "duneons:item/longbow_spooky2"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "duneons:phantom_bow_pulling": 1
+      },
+      "model": "duneons:item/phantom_bow_0"
+    }
+  ]
+}

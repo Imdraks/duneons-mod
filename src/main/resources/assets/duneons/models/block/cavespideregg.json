@@ -1,0 +1,11 @@
+{
+  "parent": "duneons:custom/spider_egg_small",
+  "textures": {
+    "all": "duneons:block/caveegg",
+    "particle": "duneons:block/caveegg",
+    "0": "duneons:block/spider_egg_small",
+    "1": "duneons:block/spider_egg_ground",
+    "missing": "duneons:block/spider_egg_small"
+  },
+  "render_type": "cutout"
+}

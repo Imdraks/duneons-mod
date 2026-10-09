@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/double_sea_moss_bottom",
+    "particle": "duneons:block/double_sea_moss_top"
+  },
+  "render_type": "cutout"
+}

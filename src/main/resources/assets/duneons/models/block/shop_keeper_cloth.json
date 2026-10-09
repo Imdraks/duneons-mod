@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/shopkeepercloth_fix",
+  "textures": {
+    "all": "duneons:block/t_shopkeepercloth",
+    "particle": "duneons:block/t_shopkeepercloth",
+    "0": "duneons:block/t_shopkeepercloth",
+    "missing": "duneons:block/t_shopkeepercloth"
+  },
+  "render_type": "cutout"
+}

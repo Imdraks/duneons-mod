@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "duneons:block/ice_glass",
+    "edge": "duneons:block/ice_glass",
+    "pane": "duneons:block/ice_glass"
+  },
+  "render_type": "cutout"
+}

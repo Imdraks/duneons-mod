@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/carved_prismarine",
+    "up": "duneons:block/carved_prismarine_gate_bricks",
+    "north": "duneons:block/prismarine_carved_triangle",
+    "east": "duneons:block/prismarine_carved_triangle",
+    "south": "duneons:block/prismarine_carved_triangle",
+    "west": "duneons:block/prismarine_carved_triangle",
+    "particle": "duneons:block/carved_prismarine"
+  },
+  "render_type": "solid"
+}

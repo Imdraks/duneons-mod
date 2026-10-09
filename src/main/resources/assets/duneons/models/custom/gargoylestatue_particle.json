@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/gargoyle",
+  "textures": {
+    "particle": "duneons:block/gargoyle_statue_new"
+  }
+}

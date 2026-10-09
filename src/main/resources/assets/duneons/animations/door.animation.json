@@ -1,0 +1,140 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"0": {
+			"loop": true
+		},
+		"1": {
+			"animation_length": 0.92,
+			"bones": {
+				"door_r": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"0.16": {
+							"vector": [0, -2.5, 0],
+							"easing": "linear"
+						},
+						"0.48": {
+							"vector": [0, 75, 0],
+							"easing": "linear"
+						},
+						"0.56": {
+							"vector": [0, 80, 0],
+							"easing": "linear"
+						},
+						"0.64": {
+							"vector": [0, 75, 0],
+							"easing": "linear"
+						},
+						"0.72": {
+							"vector": [0, 77.5, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"door_l": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"0.16": {
+							"vector": [0, 2.5, 0],
+							"easing": "linear"
+						},
+						"0.48": {
+							"vector": [0, -75, 0],
+							"easing": "linear"
+						},
+						"0.56": {
+							"vector": [0, -80, 0],
+							"easing": "linear"
+						},
+						"0.64": {
+							"vector": [0, -75, 0],
+							"easing": "linear"
+						},
+						"0.72": {
+							"vector": [0, -77.5, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		},
+		"2": {
+			"animation_length": 0.6,
+			"bones": {
+				"door_r": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 77.5, 0],
+							"easing": "linear"
+						},
+						"0.24": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"0.32": {
+							"vector": [0, 5, 0],
+							"easing": "linear"
+						},
+						"0.4": {
+							"vector": [0, -2.5, 0],
+							"easing": "linear"
+						},
+						"0.48": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"door_l": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -77.5, 0],
+							"easing": "linear"
+						},
+						"0.24": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"0.32": {
+							"vector": [0, 5, 0],
+							"easing": "linear"
+						},
+						"0.4": {
+							"vector": [0, -2.5, 0],
+							"easing": "linear"
+						},
+						"0.48": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		},
+		"3": {
+			"loop": true,
+			"bones": {
+				"door_r": {
+					"rotation": {
+						"vector": [0, 77.5, 0],
+						"easing": "linear"
+					}
+				},
+				"door_l": {
+					"rotation": {
+						"vector": [0, -77.5, 0],
+						"easing": "linear"
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

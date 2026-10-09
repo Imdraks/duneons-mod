@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "duneons:block/end_brain_stone",
+    "particle": "duneons:block/end_brain_stone"
+  },
+  "render_type": "solid"
+}

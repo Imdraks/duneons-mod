@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/lava_cobblestone",
+    "up": "duneons:block/lava_cobblestone",
+    "north": "duneons:block/lava_cobblestone",
+    "east": "duneons:block/lava_cobblestone",
+    "south": "duneons:block/lava_cobblestone",
+    "west": "duneons:block/lava_cobblestone",
+    "particle": "duneons:block/lava_cobblestone"
+  },
+  "render_type": "solid"
+}

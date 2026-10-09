@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/bamboo_galka",
+    "up": "duneons:block/bamboo_galka",
+    "north": "duneons:block/bamboo_galka",
+    "east": "duneons:block/bamboo_galka",
+    "south": "duneons:block/bamboo_galka",
+    "west": "duneons:block/bamboo_galka",
+    "particle": "duneons:block/bamboo_galka"
+  },
+  "render_type": "solid"
+}

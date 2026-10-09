@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/latticed_rug",
+  "textures": {
+    "all": "duneons:block/latticed_rug",
+    "particle": "duneons:block/latticed_rug",
+    "0": "duneons:block/latticed_rug"
+  },
+  "render_type": "cutout"
+}

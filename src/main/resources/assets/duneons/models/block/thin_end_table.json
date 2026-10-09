@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/thin_end_table",
+  "textures": {
+    "all": "duneons:block/thin_end_table",
+    "particle": "duneons:block/thin_end_table",
+    "0": "duneons:block/thin_end_table",
+    "missing": "duneons:block/thin_end_table"
+  },
+  "render_type": "solid"
+}

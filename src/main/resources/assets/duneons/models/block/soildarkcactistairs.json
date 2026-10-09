@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "duneons:block/soil_dark_cacti_stone_bricks",
+    "bottom": "duneons:block/soil_dark_cacti_stone_bricks",
+    "top": "duneons:block/soil_dark_cacti_stone_bricks",
+    "side": "duneons:block/soil_dark_cacti_stone_bricks"
+  },
+  "render_type": "solid"
+}

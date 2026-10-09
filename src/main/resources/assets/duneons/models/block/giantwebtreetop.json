@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/spider_giant_web_treetop",
+  "textures": {
+    "all": "duneons:block/cobweb_treetop",
+    "particle": "duneons:block/cobweb_treetop",
+    "0": "duneons:block/cobweb_treetop",
+    "missing": "duneons:block/cobweb_treetop"
+  },
+  "render_type": "cutout"
+}

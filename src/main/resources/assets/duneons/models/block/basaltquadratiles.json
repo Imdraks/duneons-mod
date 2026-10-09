@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/basalt_quadratiles",
+    "up": "duneons:block/basalt_quadratiles",
+    "north": "duneons:block/basalt_quadratiles",
+    "east": "duneons:block/basalt_quadratiles",
+    "south": "duneons:block/basalt_quadratiles",
+    "west": "duneons:block/basalt_quadratiles",
+    "particle": "duneons:block/basalt_quadratiles"
+  },
+  "render_type": "solid"
+}

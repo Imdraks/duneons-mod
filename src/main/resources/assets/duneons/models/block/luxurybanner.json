@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/luxury_banner",
+  "textures": {
+    "all": "duneons:block/luxury_banner",
+    "particle": "duneons:block/luxury_banner",
+    "0": "duneons:block/luxury_banner",
+    "missing": "duneons:block/luxury_banner"
+  },
+  "render_type": "cutout"
+}

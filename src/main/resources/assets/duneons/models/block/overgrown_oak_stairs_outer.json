@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/overgrown_oak_planks",
+    "bottom": "duneons:block/overgrown_oak_planks",
+    "top": "duneons:block/overgrown_oak_planks",
+    "side": "duneons:block/overgrown_oak_planks"
+  },
+  "render_type": "solid"
+}

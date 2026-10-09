@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/sand_star",
+    "up": "duneons:block/sand_star",
+    "north": "duneons:block/sand_star",
+    "east": "duneons:block/sand_star",
+    "south": "duneons:block/sand_star",
+    "west": "duneons:block/sand_star",
+    "particle": "duneons:block/sand_star"
+  },
+  "render_type": "solid"
+}

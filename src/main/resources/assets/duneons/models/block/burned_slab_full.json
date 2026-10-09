@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "duneons:block/burned_planks",
+    "bottom": "duneons:block/burned_planks",
+    "top": "duneons:block/burned_planks",
+    "side": "duneons:block/burned_planks"
+  },
+  "render_type": "solid"
+}

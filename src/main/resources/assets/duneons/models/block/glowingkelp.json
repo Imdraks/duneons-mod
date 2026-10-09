@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/glowing_kelp_bottom",
+    "particle": "duneons:block/glowing_kelp_bottom"
+  },
+  "render_type": "cutout"
+}

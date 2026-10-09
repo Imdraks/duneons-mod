@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/abyssal_monument_button",
+  "textures": {
+    "all": "duneons:block/abyssal_monument_button",
+    "particle": "duneons:block/abyssal_monument_button",
+    "0": "duneons:block/abyssal_monument_button"
+  },
+  "render_type": "solid"
+}

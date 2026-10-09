@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/small_desk",
+  "textures": {
+    "all": "duneons:block/small_desk",
+    "particle": "duneons:block/small_desk",
+    "0": "duneons:block/small_desk",
+    "missing": "duneons:block/small_desk"
+  },
+  "render_type": "solid"
+}

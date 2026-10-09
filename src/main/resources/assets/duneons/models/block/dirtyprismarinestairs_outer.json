@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "duneons:block/dirty_prismarine",
+    "bottom": "duneons:block/dirty_prismarine",
+    "top": "duneons:block/dirty_prismarine",
+    "side": "duneons:block/dirty_prismarine"
+  },
+  "render_type": "solid"
+}

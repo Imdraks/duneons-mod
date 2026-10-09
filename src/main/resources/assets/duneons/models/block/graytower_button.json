@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "duneons:block/graytower_planks",
+    "texture": "duneons:block/graytower_planks"
+  },
+  "render_type": "solid"
+}

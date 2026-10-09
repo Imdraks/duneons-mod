@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/soggy_bridge",
+  "textures": {
+    "all": "duneons:block/soggy_bridge",
+    "particle": "duneons:block/soggy_bridge",
+    "1": "duneons:block/soggy_bridge"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/stack_of_books",
+  "textures": {
+    "all": "duneons:block/stack_of_books",
+    "particle": "duneons:block/stack_of_books",
+    "0": "duneons:block/stack_of_books",
+    "missing": "duneons:block/stack_of_books"
+  },
+  "render_type": "cutout"
+}

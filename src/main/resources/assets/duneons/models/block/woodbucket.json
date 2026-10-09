@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bucket2",
+  "textures": {
+    "all": "duneons:block/bucket",
+    "particle": "duneons:block/bucket",
+    "1": "duneons:block/bucket"
+  },
+  "render_type": "cutout"
+}

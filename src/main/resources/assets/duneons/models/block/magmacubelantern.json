@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/lava_cube_lantern",
+  "textures": {
+    "all": "duneons:block/nether_waste_props",
+    "particle": "duneons:block/nether_waste_props",
+    "0": "duneons:block/nether_waste_props",
+    "missing": "duneons:block/nether_waste_props"
+  },
+  "render_type": "cutout"
+}

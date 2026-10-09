@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/warped_flower",
+  "textures": {
+    "all": "duneons:block/warped_flower",
+    "particle": "duneons:block/warped_flower",
+    "0": "duneons:block/warped_flower",
+    "missing": "duneons:block/warped_flower"
+  },
+  "render_type": "cutout"
+}

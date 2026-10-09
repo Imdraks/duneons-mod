@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/awning_red",
+  "textures": {
+    "particle": "duneons:block/leafy_jungleflower_test"
+  }
+}

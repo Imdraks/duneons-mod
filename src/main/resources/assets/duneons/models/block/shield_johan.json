@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/shield_johan",
+  "textures": {
+    "all": "duneons:block/shield_johan_",
+    "particle": "duneons:block/shield_johan_",
+    "0": "duneons:block/shield_johan_"
+  },
+  "render_type": "solid"
+}

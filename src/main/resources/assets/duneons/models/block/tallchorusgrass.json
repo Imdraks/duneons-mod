@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/tall_chorus_top",
+    "particle": "duneons:block/tall_chorus_top"
+  },
+  "render_type": "cutout"
+}

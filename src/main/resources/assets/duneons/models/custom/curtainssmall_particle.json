@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/stone_map_table",
+  "textures": {
+    "particle": "duneons:block/curtains_short"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/death_sign_1.11",
+  "textures": {
+    "all": "duneons:block/death_sign",
+    "particle": "duneons:block/death_sign",
+    "0": "duneons:block/death_sign"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/spider_succulent_stem",
+  "textures": {
+    "all": "duneons:block/spider_succulent",
+    "particle": "duneons:block/spider_succulent",
+    "0": "duneons:block/spider_succulent",
+    "missing": "duneons:block/spider_succulent"
+  },
+  "render_type": "cutout"
+}

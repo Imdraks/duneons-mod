@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/dark_stone_bricks",
+    "up": "duneons:block/arena_eye_connector_bricks_up",
+    "north": "duneons:block/arena_eye_connector_bricks_side",
+    "east": "duneons:block/arena_eye_connector_bricks_side",
+    "south": "duneons:block/arena_eye_connector_bricks_side",
+    "west": "duneons:block/arena_eye_connector_bricks_side",
+    "particle": "duneons:block/dark_stone_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/darkdirtpebbles/block/0"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/1"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/2"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/3"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/4"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/5"
+      },
+      {
+        "model": "block/darkdirtpebbles/block/6"
+      }
+    ]
+  }
+}

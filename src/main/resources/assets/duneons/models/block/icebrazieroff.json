@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/brazier",
+  "textures": {
+    "all": "duneons:block/brazier",
+    "particle": "duneons:block/stone_ice",
+    "0": "duneons:block/brazier"
+  },
+  "render_type": "cutout"
+}

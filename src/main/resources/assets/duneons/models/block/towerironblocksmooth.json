@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/tower_iron_block_smooth",
+    "up": "duneons:block/tower_iron_block_smooth",
+    "north": "duneons:block/tower_iron_block_smooth",
+    "east": "duneons:block/tower_iron_block_smooth",
+    "south": "duneons:block/tower_iron_block_smooth",
+    "west": "duneons:block/tower_iron_block_smooth",
+    "particle": "duneons:block/tower_iron_block_smooth"
+  },
+  "render_type": "solid"
+}

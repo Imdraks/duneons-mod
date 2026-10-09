@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/illager_tent_1",
+  "textures": {
+    "particle": "duneons:block/illager_tent"
+  }
+}

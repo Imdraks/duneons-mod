@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/swamp_mossy_stone",
+    "up": "duneons:block/swamp_mossy_stone",
+    "north": "duneons:block/swamp_mossy_stone",
+    "east": "duneons:block/swamp_mossy_stone",
+    "south": "duneons:block/swamp_mossy_stone",
+    "west": "duneons:block/swamp_mossy_stone",
+    "particle": "duneons:block/swamp_mossy_stone"
+  },
+  "render_type": "solid"
+}

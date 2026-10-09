@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":["aba","aaa","a a"],"key":{"a":"minecraft:string","b":"minecraft:brown_dye"},"result":{"id":"duneons:ropeladder","count":16}}

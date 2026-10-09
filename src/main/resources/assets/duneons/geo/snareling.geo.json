@@ -1,0 +1,245 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.snareling",
+				"texture_width": 192,
+				"texture_height": 192,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "snare",
+					"pivot": [0, 2, 1],
+					"rotation": [12.5, 0, 0]
+				},
+				{
+					"name": "body_snare",
+					"parent": "snare",
+					"pivot": [0, 30.47851, 5.76167],
+					"cubes": [
+						{
+							"origin": [-5.5, 23.97851, 1.26167],
+							"size": [11, 12, 8],
+							"uv": {
+								"north": {"uv": [8, 116], "uv_size": [11, 12]},
+								"east": {"uv": [0, 116], "uv_size": [8, 12]},
+								"south": {"uv": [27, 116], "uv_size": [11, 12]},
+								"west": {"uv": [19, 116], "uv_size": [8, 12]},
+								"up": {"uv": [8, 108], "uv_size": [11, 8]},
+								"down": {"uv": [19, 116], "uv_size": [11, -8]}
+							}
+						},
+						{
+							"origin": [-5.5, 24.22851, 2.26167],
+							"size": [11, 12, 6],
+							"inflate": -0.45,
+							"uv": {
+								"north": {"uv": [55, 42], "uv_size": [11, 12]},
+								"east": {"uv": [32, 42], "uv_size": [6, 12]},
+								"south": {"uv": [55, 42], "uv_size": [11, 12]},
+								"west": {"uv": [49, 42], "uv_size": [6, 12]},
+								"up": {"uv": [38, 36], "uv_size": [11, 6]},
+								"down": {"uv": [49, 42], "uv_size": [11, -6]}
+							}
+						},
+						{
+							"origin": [-4.5, 25.97851, 9.26167],
+							"size": [9, 9, 5],
+							"uv": {
+								"north": {"uv": [19, 99], "uv_size": [9, 9]},
+								"east": {"uv": [0, 99], "uv_size": [5, 9]},
+								"south": {"uv": [19, 99], "uv_size": [9, 9]},
+								"west": {"uv": [14, 99], "uv_size": [5, 9]},
+								"up": {"uv": [5, 94], "uv_size": [9, 5]},
+								"down": {"uv": [14, 99], "uv_size": [9, -5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "mouth_lower",
+					"parent": "body_snare",
+					"pivot": [0, 25.87851, 1.26167],
+					"cubes": [
+						{
+							"origin": [-4.5, 25.87851, 1.26067],
+							"size": [9, 4, 0],
+							"uv": {
+								"north": {"uv": [84, 116], "uv_size": [9, 4]},
+								"east": {"uv": [75, 116], "uv_size": [0, 4]},
+								"south": {"uv": [84, 116], "uv_size": [9, 4]},
+								"west": {"uv": [84, 116], "uv_size": [0, 4]},
+								"up": {"uv": [75, 116], "uv_size": [9, 0]},
+								"down": {"uv": [84, 116], "uv_size": [9, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "mouth_upper",
+					"parent": "body_snare",
+					"pivot": [0, 34.07851, 1.26167],
+					"cubes": [
+						{
+							"origin": [-4.5, 30.07851, 1.26067],
+							"size": [9, 4, 0],
+							"uv": {
+								"north": {"uv": [84, 112], "uv_size": [9, 4]},
+								"east": {"uv": [75, 112], "uv_size": [0, 4]},
+								"south": {"uv": [84, 112], "uv_size": [9, 4]},
+								"west": {"uv": [84, 112], "uv_size": [0, 4]},
+								"up": {"uv": [75, 112], "uv_size": [9, 0]},
+								"down": {"uv": [84, 112], "uv_size": [9, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bulbright_leg",
+					"parent": "body_snare",
+					"pivot": [0, 24.47851, 3.76167],
+					"rotation": [-12.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-4, -0.52149, 2.76167],
+							"size": [2, 25, 2],
+							"uv": {
+								"north": {"uv": [40, 61], "uv_size": [2, 25]},
+								"east": {"uv": [38, 61], "uv_size": [2, 25]},
+								"south": {"uv": [44, 61], "uv_size": [2, 25]},
+								"west": {"uv": [42, 61], "uv_size": [2, 25]},
+								"up": {"uv": [40, 59], "uv_size": [2, 2]},
+								"down": {"uv": [42, 61], "uv_size": [2, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bulbleft_leg",
+					"parent": "body_snare",
+					"pivot": [0, 24.47851, 3.76167],
+					"rotation": [-12.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [2, -0.52149, 2.76167],
+							"size": [2, 25, 2],
+							"uv": {
+								"north": {"uv": [40, 61], "uv_size": [2, 25]},
+								"east": {"uv": [38, 61], "uv_size": [2, 25]},
+								"south": {"uv": [44, 61], "uv_size": [2, 25]},
+								"west": {"uv": [42, 61], "uv_size": [2, 25]},
+								"up": {"uv": [40, 59], "uv_size": [2, 2]},
+								"down": {"uv": [42, 61], "uv_size": [2, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bulbhead",
+					"parent": "body_snare",
+					"pivot": [0, 34.47851, 0.76167],
+					"rotation": [-12.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-4.5, 34.97851, -2.73833],
+							"size": [9, 8, 7],
+							"uv": {
+								"north": {"uv": [57, 120], "uv_size": [9, 8]},
+								"east": {"uv": [50, 120], "uv_size": [7, 8]},
+								"south": {"uv": [73, 120], "uv_size": [9, 8]},
+								"west": {"uv": [66, 120], "uv_size": [7, 8]},
+								"up": {"uv": [57, 113], "uv_size": [9, 7]},
+								"down": {"uv": [66, 120], "uv_size": [9, -7]}
+							}
+						}
+					]
+				},
+				{
+					"name": "snare_eyes",
+					"parent": "bulbhead",
+					"pivot": [0, -1.52149, 0.76167],
+					"cubes": [
+						{
+							"origin": [-4.5, 38.97851, -2.74833],
+							"size": [9, 1, 0],
+							"uv": {
+								"north": {"uv": [63, 110], "uv_size": [9, 1]},
+								"east": {"uv": [63, 110], "uv_size": [0, 1]},
+								"south": {"uv": [72, 110], "uv_size": [9, 1]},
+								"west": {"uv": [72, 110], "uv_size": [0, 1]},
+								"up": {"uv": [63, 110], "uv_size": [9, 0]},
+								"down": {"uv": [72, 110], "uv_size": [9, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bulbright_arm",
+					"parent": "snare",
+					"pivot": [-5, 33.47851, 3.76167],
+					"cubes": [
+						{
+							"origin": [-7.5, -0.52149, 2.76167],
+							"size": [2, 2, 14],
+							"uv": {
+								"north": {"uv": [60, 106], "uv_size": [2, 2]},
+								"east": {"uv": [46, 106], "uv_size": [14, 2]},
+								"south": {"uv": [76, 106], "uv_size": [2, 2]},
+								"west": {"uv": [62, 106], "uv_size": [14, 2]},
+								"up": {"uv": [60, 92], "uv_size": [2, 14]},
+								"down": {"uv": [62, 106], "uv_size": [2, -14]}
+							}
+						},
+						{
+							"origin": [-7.5, -0.52149, 2.76167],
+							"size": [2, 36, 2],
+							"uv": {
+								"north": {"uv": [40, 88], "uv_size": [2, 36]},
+								"east": {"uv": [38, 88], "uv_size": [2, 36]},
+								"south": {"uv": [44, 88], "uv_size": [2, 36]},
+								"west": {"uv": [42, 88], "uv_size": [2, 36]},
+								"up": {"uv": [40, 86], "uv_size": [2, 2]},
+								"down": {"uv": [42, 88], "uv_size": [2, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bulbleft_arm",
+					"parent": "snare",
+					"pivot": [5, 34.47851, 3.76167],
+					"cubes": [
+						{
+							"origin": [5.5, -0.52149, 2.76167],
+							"size": [2, 36, 2],
+							"uv": {
+								"north": {"uv": [40, 88], "uv_size": [2, 36]},
+								"east": {"uv": [38, 88], "uv_size": [2, 36]},
+								"south": {"uv": [44, 88], "uv_size": [2, 36]},
+								"west": {"uv": [42, 88], "uv_size": [2, 36]},
+								"up": {"uv": [40, 86], "uv_size": [2, 2]},
+								"down": {"uv": [42, 88], "uv_size": [2, -2]}
+							}
+						},
+						{
+							"origin": [5.5, -0.52149, 2.76167],
+							"size": [2, 2, 14],
+							"uv": {
+								"north": {"uv": [60, 106], "uv_size": [2, 2]},
+								"east": {"uv": [46, 106], "uv_size": [14, 2]},
+								"south": {"uv": [76, 106], "uv_size": [2, 2]},
+								"west": {"uv": [62, 106], "uv_size": [14, 2]},
+								"up": {"uv": [60, 92], "uv_size": [2, 14]},
+								"down": {"uv": [62, 106], "uv_size": [2, -14]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

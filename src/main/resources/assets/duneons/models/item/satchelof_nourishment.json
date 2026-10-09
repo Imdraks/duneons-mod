@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/satchelofneed",
+  "textures": {
+    "0": "duneons:block/t_satchelofneed",
+    "missing": "duneons:block/t_satchelofneed",
+    "particle": "duneons:item/satchel_of_elixirs_icon"
+  }
+}

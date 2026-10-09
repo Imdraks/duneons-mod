@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/t_podium",
+  "textures": {
+    "all": "duneons:block/t_podium",
+    "particle": "duneons:block/t_podium",
+    "1": "duneons:block/t_podium"
+  },
+  "render_type": "cutout"
+}

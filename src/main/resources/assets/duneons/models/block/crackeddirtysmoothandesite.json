@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/cracked_dirty_smooth_andesite",
+    "up": "duneons:block/cracked_dirty_smooth_andesite",
+    "north": "duneons:block/cracked_dirty_smooth_andesite",
+    "east": "duneons:block/cracked_dirty_smooth_andesite",
+    "south": "duneons:block/cracked_dirty_smooth_andesite",
+    "west": "duneons:block/cracked_dirty_smooth_andesite2",
+    "particle": "duneons:block/cracked_dirty_smooth_andesite"
+  },
+  "render_type": "solid"
+}

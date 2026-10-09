@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/power_station",
+  "textures": {
+    "particle": "duneons:block/power_station"
+  }
+}

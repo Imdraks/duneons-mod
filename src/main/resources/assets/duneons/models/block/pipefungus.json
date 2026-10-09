@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/siphon_stalk",
+  "textures": {
+    "all": "duneons:block/textureatlas_netherfoliage",
+    "particle": "duneons:block/textureatlas_netherfoliage",
+    "0": "duneons:block/textureatlas_netherfoliage",
+    "missing": "duneons:block/textureatlas_netherfoliage"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:block/wrappedgift_down",
+    "up": "duneons:block/wrappedgift_top",
+    "north": "duneons:block/wrappedgift_side",
+    "east": "duneons:block/wrappedgift_side",
+    "south": "duneons:block/wrappedgift_side",
+    "west": "duneons:block/wrappedgift_side",
+    "particle": "duneons:block/wrappedgift_down"
+  },
+  "render_type": "solid"
+}

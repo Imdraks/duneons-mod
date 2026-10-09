@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:displaysettings/guide_beacon_basaltdeltas",
+  "textures": {
+    "particle": "duneons:block/guide_beacon_basaltdeltas"
+  }
+}

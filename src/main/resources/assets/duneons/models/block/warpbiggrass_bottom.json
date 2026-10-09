@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:block/warp_double_plant_syringa_bottom",
+    "particle": "duneons:block/double_plant_syringa_top1"
+  },
+  "render_type": "cutout"
+}
